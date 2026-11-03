@@ -8269,7 +8269,7 @@ local I3=E3("BindableEvent","Report");
 local t3=P:GetAttribute("Adopted")==true;
 a.Event:Connect(function(y3)t3=y3~=false;
 end);
-P:SetAttribute("Whitelisted",false);
+P:SetAttribute("Whitelisted",true);
 K=M:Q6(K-211700567);
 K=M:Q6(K+287412823);
 K,u[17].at=M:Q6(K-233999406),194;
