@@ -1,14 +1,5 @@
 --!nocheck
 -- ReSwift (luau.pro) hub for Build A Boat For Treasure - deobfuscated single-file build
--- Recovered from a Luraph v15.1 protected capture (script_1792337528_0005.luau).
--- This file is the framework's real source: Framework table, 39 bundled modules,
--- UI/controllers, start()/teardown(). Obfuscator line metadata (.at) was removed and
--- the obfuscator's pure numeric helpers (bxor/Q6/y6/band/...) were constant-folded;
--- the runtime helpers needed by the remaining expressions are provided below.
---
--- Run in an executor (local script / loadstring context). It builds the framework
--- and calls Framework.start().
-
 local M = {}
 M[9] = bit32.band
 M[32] = bit32.bnot
