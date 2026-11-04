@@ -20,6 +20,7 @@ end
 local __buf = buffer.fromstring(table.concat(__parts))
 local __M = setmetatable({xV=function(Y,U,e)local Z,J,p,T,L,V,Q,f,z,r,u,P,s,n,j,y,A,S,w,c,F,X=Y:q();local D,C,x,M,N,k,G,v,W,d,H,t,a,o,_,i,R,m,I,E,l,K,g=J,p,e,U,T,L,V,Q,f,z,r,u,P,s,n,j,y,A,S,w,c,F,X;while Z do if D<=86 then if D<=42 then if D<=20 then if D<=9 then if D<=4 then D,M,G,_,K=Y:v(D,N,v,G,_,K,M,x,k);else D,M,N,G,v,i,I=Y:b(E,G,N,M,I,R,D,k,l,i,v,x);end;elseif D<=14 then D,C,M,N,G,t,i,R=Y:V(D,a,k,G,i,o,t,M,N,C,x,R);elseif D<=17 then D,C,t,I=Y:R(D,G,I,t,C,x);else D,x,M,H=Y:n(v,_,E,x,H,i,o,N,d,I,C,m,k,W,D,R,M,a,t);end;elseif D<=31 then if D<=25 then D,x,N,G,W,t,I=Y:T(a,l,d,W,D,x,G,E,N,t,I);elseif D<=28 then D,C,t,o=Y:X(t,o,C,x,D,G);else D,C,G,W,t,o,l=Y:U(x,N,W,t,C,G,l,D,o);end;elseif D<=36 then D,N,G,W,d=Y:m(D,d,W,N,x,G);elseif D<=39 then D,C,G,I=Y:Z(E,o,I,l,R,D,i,C,G,x);else D,G,d,i=Y:N(G,D,H,C,i,d);end;elseif D<=64 then if D<=53 then if D<=47 then D,C,x,N,k,W,i,R,g=Y:Y(i,R,G,d,W,D,x,g,k,C,N);else D,C,x,M,N,k,G,t=Y:L(o,N,G,M,D,t,W,x,k,C);end;elseif D<=58 then D,N,k,G,W,t=Y:l(W,k,H,G,x,v,N,D,t);elseif D<=61 then D,k,G,d=Y:e(N,D,d,W,k,G,x,v);else D,x,H,l=Y:j(l,G,x,D,H);end;elseif D<=75 then if D<=69 then D,G,d,t,R,E=Y:a(m,D,d,t,G,E,N,x,I,R);elseif D<=72 then D,C,G,W,H,l=Y:x(d,H,D,W,x,C,G,l);else D,_,R,m=Y:M(x,_,G,C,m,R,D);end;elseif D<=80 then D,N,G,t,m=Y:_(t,W,N,G,x,d,m,D);elseif D<=83 then D,x,k,G,d,E=Y:o(k,D,W,N,E,x,v,G,d);else D,N,W,I,E=Y:W(d,H,G,N,x,I,E,W,D);end;elseif D<=129 then if D<=107 then if D<=96 then if D<=91 then D,C,G,t,o,I=Y:h(D,o,I,C,G,x,t,_);elseif D<=93 then D,t,a=Y:H(G,D,a,C,t,x);else D,G,v,i=Y:r(R,i,G,x,D,m,t,v,o,a);end;elseif D<=101 then D,C,N,W,d,o,_,m=Y:z(o,G,m,N,d,D,W,_,C,x);else D,N,k,G,m=Y:t(k,W,m,M,I,v,N,D,G);end;elseif D<=118 then if D<=112 then D,C,G,o,m=Y:D(C,I,D,E,G,x,o,m);elseif D<=115 then D,G,d,H,t=Y:p(H,a,G,d,t,o,x,D);else D,G,v,o,E=Y:u(E,_,o,i,D,x,v,K,G,l);end;elseif D<=123 then D,x,k,G,H,o=Y:f(N,_,x,K,D,k,i,H,G,l,o);elseif D<=126 then D,C,k,G,v,W=Y:C(i,k,C,D,G,W,d,m,H,v,I);else s,U,w,p,T=Y:g(W,N,G,d,k,x,M,H,D);if s==2 then D,M,N,W=U,w,p,T;elseif s==1 then return M,x,G;end;end;elseif D<=151 then if D<=140 then if D<=134 then D,C,M,N,G,d,t,a,E=Y:s(D,t,M,C,x,G,N,a,l,H,K,E,d);else Q=D<=137;y,f,V,J,e,S,n,P,A=Y:w(l,C,E,x,i,k,m,D,W,I,Q,M,G);D,C,M,k,G,W,i,m,I=y,f,V,J,e,S,n,P,A;end;elseif D<=145 then D,x,N,G,t,o,R,E,K=Y:y(D,N,R,m,x,I,t,G,o,K,E,W);elseif D<=148 then D,W,H=Y:B(H,x,G,D,t,W,C);else D,C,G,t,a,o,_=Y:c(t,G,D,_,o,C,x,a);end;elseif D<=162 then if D<=156 then D,C,k,G,H,R,I=Y:O(I,G,H,k,m,x,a,R,C,D,t);else D,G,H,i,m=Y:I(m,i,H,R,t,G,D,x);end;elseif D<=167 then if D<=164 then D,G=Y:E(G,_,a,C,D,t);else D,x,G,d,E=Y:S(K,E,D,l,t,x,d,H,g,G);end;elseif D<=170 then D,x,N,k,G,l=Y:A(H,k,G,l,W,v,d,x,N,D);else D,G,W,t,I=Y:F(W,I,D,t,o,H,E,_,x,G,d);end;end;end,[79]=function(Y,Y,Y,Y)return function(Y)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];return function(Y,...)local p,T={...},getnamecallmethod();if T=="FireServer"then if Y.Name=="Shoot"then if U.Elements.SilentAimT then if U.Elements.SilentAimT.Value then local function L(V)local Q=Z.GetPlayerFromCharacter(Z,V);if Q then V=e.PlayerDataHandler.PlayerData[Q];return V~=nil and V.RoleType=="Murderer";end;return false;end;local Z=e.SilentAim:GetTargetUnit(nil,L);if Z then if U.Elements.SilentAimPredictionT and U.Elements.SilentAimPredictionT.Value then L=U.Elements.SilentAimOffsetS and U.Elements.SilentAimOffsetS.Value or 0.1;p[2]=CFrame.new(Z.Position+Z.Velocity*L);else p[2]=CFrame.new(Z.Position);end;end;end;end;end;end;T=J[6][J[5]];return T(Y,unpack(p));end;end;end,Z=function(Y,U,e,Z,J,p,T,L,V,Q,f)if T<=37 then local z=Y[36](f,3+Q);local Y,f,r,u=(Z-128)*16384,2097152*(U-128),128*(J-128),z%128;local U=r+((z-z%128)*2097152+(f+Y))+u;return 125,V,4+Q,U;elseif T<=38 then e[L]=p;return 42,V,Q,Z;else return 77,V[2],Q,Z;end;end,[67]=buffer.copy,W=function(Y,U,e,Z,J,p,T,L,V,Q)if Q<=84 then local f=Y[36](p,Z+1);return 128>f and 135 or 169,J,V,T,f;elseif Q<=85 then local Q,f,z,r=Y[36](p,3+J),16384*(V-128),2097152*(U-128),128*(e-128);local U=Q%128+(f+(Q-Q%128)*2097152+r+z);return 107,J+4,U,T,L;else local U=Y[36](p,Z);return 128<=U and 84 or 79,J,V,U,L;end;end,[77]=4.054617113E9,C=function(Y,U,e,Z,J,p,T,L,V,Q,f,z)if J<=124 then local r,u=16384*(T-128),L-128;local L=Q*128+(u+r);return 97,Z,e,p+3,f,L;elseif J<=125 then U[V]=z;return 100,Z,e,p,f,T;else local U=e-1899;local e,J,L=Y[57](U),Y[57](U),1+0;return 147,{nil,1-L,Z,U+0,L},e,p,J,T;end;end,[41]=bit32.countrz,z=function(Y,U,e,Z,J,p,T,L,V,Q,f)if T<=98 then if T<=97 then local z=L-1899;local r,u,P=Y[57](z),Y[57](z),1+0;local s=1-P;return 19,{z+0,s,P,Q,nil},J,r,u,U,V,Z;else local z=Y[36](f,e);return 128>z and 67 or 99,Q,J,L,p,z,V,Z;end;elseif T<=99 then local z=Y[36](f,1+e);return 128>z and 91 or 14,Q,J,L,p,U,z,Z;elseif T<=100 then local Y,e,T=Q[3],Q[2],Q[4];local f,z=Y+e,e<=0;e,Y=f>=T,f<=T;T=z and e or not z and Y;Q[3]=f;if T then return 86,Q,J,L,p,U,V,f;else return 110,Q,J,L,p,U,V,Z;end;else return 43,Q,J+1,L,p,U,V,Z;end;end,[6]=buffer.writeu16,[88]=function(Y,Y,Y,Y)return function(Y,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];local p=Y[5];return function(Y,...)local T,L=table.pack(U[6][U[5]](Y,...)),e.Unloaded;if if L then not L else checkcaller()then local U=getnamecallmethod();if U=="AddTag"or U=="RemoveTag"then local e={...};local L,V=#e>1 and e[1]or Y,e[#e>1 and 2 or 1];if U=="AddTag"then if not(Z.Tags[V])then Z.Tags[V]={};Z.Connections[V]=J:GetInstanceRemovedSignal(V):Connect(function(Y)if Z.Tags[V][Y]then Z.Tags[V][Y]=nil;if not(next(Z.Tags[V]))then p(V);end;end;end);if VNX_Debug then print(string.format("[TagHelper] Successfully registered tag '%s'",V));end;end;Z.Tags[V][L]=true;end;end;end;return table.unpack(T);end;end;end,r=function(Y,U,e,Z,J,p,T,L,V,Q,f)if p<=94 then local z=Y[36](J,Z+3);local r,u,P,s,n=(e-128)*16384,(U-128)*2097152,(T-128)*128,z%128,z%128;local U=2097152*(z-n);z=P+r+(U+u)+s;return 46,4+Z,V,z;elseif p<=95 then f[L]=Q-Q%1;return 65,Z,V,e;else local U=Y[36](J,2);return 128>U and 54 or 60,Z,U,e;end;end,m=function(Y,U,e,Z,J,p,T)if U<=33 then if U<=32 then local L=Y[36](p,T);return L>=128 and 64 or 1,J,T,Z,L;else local L=Y[36](p,T+2);return L<128 and 83 or 168,J,T,L,e;end;elseif U<=34 then return 20,J,1+T,Z,e;elseif U<=35 then local U=Y[36](p,J);return U<128 and 101 or 56,J,U,Z,e;else local U=Y[36](p,1+T);return U<128 and 130 or 155,U,T,Z,e;end;end,aV=function(Y,Y,U)return Y[6][Y[5]+U];end,[122]=function(Y,Y,Y,Y)return function(Y)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];local p=Y[5];local T=Y[6];return function(Y,...)local L={...};if not(U.Unloaded)then checkcaller();local U=getnamecallmethod();if U=="FireServer"then if e.Elements.AutoHeartbeatT and e.Elements.AutoHeartbeatT.Value and Y.Name=="HideMonster"then return;elseif Y.Name=="Crouch"then if L[1]==false then if Z[6][Z[5]]then return;end;end;if e.Elements.NoFigureHearingT then if e.Elements.NoFigureHearingT.Value then local U=J[6][J[5]];return U(Y,true,select(2,...));end;end;else local U,Z=Y.Name=="MotorReplication";if U then local V=e.Elements.NoEyesT and e.Elements.NoEyesT.Value and workspace.FindFirstChild(workspace,"Eyes")or e.Elements.NoLookmanT and e.Elements.NoLookmanT.Value and workspace.FindFirstChild(workspace,"BackdoorLookman");Z=V or e.Elements.GodModeT and e.Elements.GodModeT.Value and(workspace.FindFirstChild(workspace,"Eyes")or workspace.FindFirstChild(workspace,"BackdoorLookman"));else Z=U;end;if Z then if p=="Fools"then L[1]=Vector3.new(0,-64,0);else L[1]=-650;end;elseif e.Elements.NoSeekObstructionT and e.Elements.NoSeekObstructionT.Value and Y.Name=="MinecartResult"and L[1]=="Event"then return;else U=Y.Name=="RansomAttack"and(e.Elements.NoRansomT and e.Elements.NoRansomT.Value);if U then L[1]="didnt";else local U=Y.Name=="A90"and(e.Elements.BypassA90T and e.Elements.BypassA90T.Value or e.Elements.NoA90T and e.Elements.NoA90T.Value);if U then L[1]="didnt";else local U=(Y.Name=="WalkedInto"or Y.Name=="ShoulderChecked")and(e.Elements.NoDronesT and e.Elements.NoDronesT.Value);if U then return;else local U=Y.Name=="IfYoureExploitingDeleteThis"and(e.Elements.NoScribblesT and e.Elements.NoScribblesT.Value);if U then return;elseif Y.Name=="EBF"then T[6][T[5]]=T[6][T[5]]or true;end;end;end;end;end;end;end;end;local U=J[6][J[5]];return U(Y,unpack(L));end;end;end,[93]=buffer.readstring,V=function(Y,U,e,Z,J,p,T,L,V,Q,f,z,r)if U<=11 then if U<=10 then return 140,f[3],V,Q,J,L,p,r;else local u=Y[36](z,J+1);return u<128 and 7 or 78,f,V,Q,J,L,p,u;end;elseif U<=12 then local u,P=16384*(V-128),Q-128;return 138,f,Z*128+(u+P),J+3,J,L,p,r;elseif U<=13 then local U,Z=(L-128)*16384,e-128;local e=128*T+(Z+U);return 146,f,V,Q,3+J,e,p,r;else local U=Y[36](z,J+2);return 128<=U and 118 or 119,f,V,Q,J,L,U,r;end;end,XV=function(Y,U,e,Z,J,p,T,L)if p<=1 then if p<=0 then local V=Y[36](T,Z+1);return 128<=V and 20 or 15,U,e,L,V;else local V=Y[36](T,Z+1);return 128<=V and 18 or 28,U,e,V,J;end;elseif p<=2 then local p=Y[36](T,Z);return 128<=p and 1 or 11,7,p,L,J;else local p=Y[36](T,2+Z);return 128>p and 31 or 10,U,e,p,J;end;end,[5]=table.insert,[66]=table.clear,e=function(Y,U,e,Z,J,p,T,L,V)if e<=59 then local Q=Y[36](L,1+U);return 128<=Q and 121 or 25,p,T,Q;elseif e<=60 then local e=Y[36](L,3);local Q,f,z,r,u=(p-128)*16384,(T-128)*2097152,(V-128)*128,e%128,2097152*(e-e%128);return 6,r+f+(z+(u+Q)),4,Z;else local e=Y[36](L,3+U);local Y,U,L,V,Q=(T-128)*16384,(J-128)*2097152,(Z-128)*128,e%128,e%128;local J,T=2097152*(e-Q),Y+L+(V+U);return 24,p,J+T,Z;end;end,[99]=function(Y,Y,Y,Y,Y,Y)return function(Y,U,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];return function(Y,p,T)if U.Unloaded then else local U=checkcaller();if U then else local U=p=="WalkSpeed"and Y==e[6][e[5]]and(Z.Elements.WalkspeedT and Z.Elements.WalkspeedT.Value);if U and Z.Elements.WalkspeedS then T=Z.Elements.WalkspeedS.Value;else local U=p=="JumpPower"and Y==e[6][e[5]]and(Z.Elements.JumpPowerT and Z.Elements.JumpPowerT.Value);if U and Z.Elements.JumpPowerS then T=Z.Elements.JumpPowerS.Value;else local U=p=="AssemblyLinearVelocity"and Y==e[6][e[5]]and(Z.Elements.JumpPowerT and Z.Elements.JumpPowerT.Value);if U then return;else T=if p=="FieldOfView"then if Z.Elements.FOVT then if Z.Elements.FOVT.Value then if Z.Elements.FOVS then Z.Elements.FOVS.Value else T else T else T else T;end;end;end;end;end;local U=J[6][J[5]];return U(Y,p,T);end;end;end,[10]=buffer.writeu32,[32]=1.441573684E9,JV=function(Y,U,e,Z)local J;local p,T,L,V,Q,f,z,r,u,P,s,n,j,y,A,S,w,c,F,X,D,C,x,M,N,k,G,v=Y[68],Y[103],Y[36],Y[10],Y[3],Y.iV,Y[34],Y.KV,Y[93],Y[124],Y.GV,Y[42],Y[290],Y.d,Y.JV,Y[57],Y[45],Y[70],Y[9],Y[55],Y[1],Y[2073],Y[43],Y[21],Y[56],Y[116],3;local W;local d,H,t,a,o,_,i,R,m,I,E,l=U,e,Z;while true do if G<=17 then if G<=8 then if G<=3 then G,d,H,t,a,o,_,R=Y:QV(_,G,m,d,a,H,o,R,t,i);else G,i,R=Y:kV(i,G,m,a,t,o,R,_);end;elseif G<=12 then G,t,o,_,R,l=Y:PV(m,a,G,i,_,o,R,t,v,l);elseif G<=14 then G,t,_=Y:dV(G,J,_,v,t);else G,t,_,i=Y:qV(J,t,G,m,R,i,_);end;elseif G<=26 then if G<=21 then G,v,t,o,i,I=Y:vV(R,E,I,i,G,v,_,m,t,o);elseif G<=23 then G,v,H,i,R,m,I,E=Y:bV(a,m,i,R,I,G,t,H,o,E,_,v,l);elseif G<=24 then W=J[4];U={__index=function(Z,E)local l,K=133;local g,h,b,O,q,B,Yt,Ut,et,Zt,Jt,pt,Tt,Lt,Vt,Qt=Z,E;while true do local ft,zt,rt,ut,Pt;if l<=88 then if l<=43 then if l<=21 then if l<=10 then if l<=4 then if l<=1 then if l<=0 then local st,nt,jt=p(B,3),T(B,2),2449;if 2==st then l,B,Yt=102,st,nt;else l,B,Yt,Ut=54,st,nt,jt;end;else E=L(B,O+3);local p,T,st,nt,jt=16384*(Yt-128),2097152*(Ut-128),128*(et-128),E%128,E%128;local yt,At,St,wt,ct=(E-jt)*2097152,T+p,st+nt;wt,ct,l=yt+(At+St),O+4,113;B=wt;end;elseif l<=2 then local p,T,E=K[5],K[1],K[4];local st,nt=p+T,T<=0;Z,p=st>=E,st<=E;E=nt and Z or not nt and p;K[5]=st;if E then l,Lt=50,st;else l=27;end;elseif l<=3 then l=et<=87 and 144 or 114;else local Z=L(B,O+2);l,et=128<=Z and 7 or 111,Z;end;elseif l<=7 then if l<=5 then local Z=K[2];l,K=146,Z;elseif l<=6 then local Z=L(B,O+1);l,Yt=Z>=128 and 66 or 15,Z;else local Z=L(B,3+O);local p,T,E,st,nt=(Yt-128)*16384,2097152*(Ut-128),128*(et-128),Z%128,Z%128;local jt,yt,At=(Z-nt)*2097152,T+(p+E);At,l,O=st+yt+jt,126,O+4;Yt=At;end;elseif l<=8 then ft=1+O;l,O=48,ft;elseif l<=9 then V(Jt,Lt,(z(pt,Q(B,O+Lt),f[b])));zt=r[b];l,b=46,zt;else l,B,O=0,16384*(B-128)+(Yt-128+Ut*128),3+O;end;elseif l<=15 then if l<=12 then if l<=11 then local Z=u(Ut,O,q);B[b]=Z;l,b=138,Z;else l,q,O=87,128*(q-128)+B,O+2;end;elseif l<=13 then local Z,p=3*(q-1),L(Jt,O);l,q,B=128<=p and 20 or 84,Z,p;elseif l<=14 then l,B,O=0,Yt+128*(B-128),2+O;else l,q,O=120,Yt+128*(q-128),O+2;end;elseif l<=18 then if l<=16 then l=Yt==P(b,1+Ut%q,2+Ut%q)and 8 or 48;elseif l<=17 then local Z=L(Ut,2+q);if 128>Z then l,Ut=34,Z;else l,et=119,Z;end;else et(Zt,B,(Tt(pt,O,Jt)));local Z,p=r[q],8;local T=Q(Ut,p+b);V(s,p,(z(O,f[Z],T)));T,p=r[Z],j(n(s,Yt),n(s,4),(n(s,8)));l,b=138,p;end;elseif l<=19 then l,q=69,q+1;elseif l<=20 then local Z=L(Jt,1+O);l,Yt=Z>=128 and 44 or 14,Z;else local Z=K[1];l,K,b=138,Z,O;end;elseif l<=32 then if l<=26 then if l<=23 then if l<=22 then local Z,p,T=K[1],K[2],K[3];local u,j=Z+p,p<=0;Z,p=u>=T,u<=T;T=j and Z or not j and p;K[1]=u;if T then l,Qt=73,u;else l=86;end;else local Z=L(B,O+3);local p,T,u,j,E=(q-128)*16384,(Yt-128)*2097152,(Ut-128)*128,Z%128,Z%128;local st,nt,jt=2097152*(Z-E),u+(T+p);jt,l,O=st+(j+nt),120,4+O;q=jt;end;elseif l<=24 then l,O=99,1+O;elseif l<=25 then local Z,p,T,u=O+1,(b+69)%256,1162167621,0;V(s,u,(z(T,Q(B,u+Z),f[p])));l,b,O,Yt=128,Z,p,T;else local Z=L(Ut,2+O);l,et=128>Z and 94 or 167,Z;end;elseif l<=29 then if l<=27 then local Z=K[2];l,K=63,Z;elseif l<=28 then local Z=L(Jt,2+O);l,Zt=Z<128 and 51 or 135,Z;elseif b<=0 then l,b=38,y;else l=59;end;elseif l<=30 then local Z=O+1;local p=L(B,Z);l,b,O=128>p and 172 or 62,Z,p;elseif l<=31 then local Z=L(Ut,O+2);l,et=128<=Z and 147 or 108,Z;else local Z=O+1;local p=L(B,Z);l,b,O=p<128 and 103 or 131,Z,p;end;elseif l<=37 then if l<=34 then if l<=33 then local Z,p=K[3],Zt(Tt);B[b]=p;l,K,b=138,Z,p;else local Z,p,T,u=(B-128)*16384,Yt-128,128*Ut;u,l,q=p+(Z+T),69,q+3;B=u;end;elseif l<=35 then local Z=L(Ut,O+1);l,B=128<=Z and 153 or 12,Z;elseif l<=36 then local Z=B[b];if Z then l,b=138,Z;else l=72;end;else l=O>=2147483648 and 157 or 56;end;elseif l<=40 then if l<=38 then local Z;do Z=true;end;l=Z and 138 or 55;elseif l<=39 then local Z=L(B,b+3);local p,T,u,j,y=(O-128)*16384,(q-128)*2097152,128*(Yt-128),Z%128,Z-Z%128;local Z,E,st=2097152*y+T,u+j;st,l,b=p+(Z+E),175,b+4;O=st;else local Z,p,T,u=O+1,(252+b)%256,4244438268,0;local j=Q(Ut,u+Z);V(s,u,(z(f[p],T,j)));j=r[p];u=4;l,b,O,q,B,et,Zt,Jt,pt,Tt=18,Z,T,j,u,V,s,Q(Ut,u+Z),f[j],z;end;elseif l<=41 then l=et<=20 and 169 or 61;elseif l<=42 then l,O=149,1+O;else l=et<=18 and 78 or 41;end;elseif l<=65 then if l<=54 then if l<=48 then if l<=45 then if l<=44 then local Z=L(Jt,O+2);l,Ut=Z>=128 and 123 or 10,Z;else local Z,p,T=K[4],Ut(Jt),O+q;local u=L(B,T);if u>=128 then l,K,b,O,Yt=49,Z,p,T,u;else l,K,b,O,B=125,Z,p,T,u;end;end;elseif l<=46 then local Z,p,T=K[4],K[5],K[3];local u,j=Z+p,p<=0;p,Z=u>=T,u<=T;T=j and p or not j and Z;K[4]=u;if T then l,Lt=9,u;else l=85;end;elseif l<=47 then local Z=K[4];l,K=104,Z;else local Z,p,T=K[5],K[3],K[1];local u,j=Z+p,p<=0;p,Z=u>=T,u<=T;T=j and p or not j and Z;K[5]=u;if T then l,Ut=16,u;else l=5;end;end;elseif l<=51 then if l<=49 then local Z=L(B,O+1);if Z<128 then l,B=161,Z;else l,Ut=80,Z;end;elseif l<=50 then local Z=Q(B,Lt+O);V(Jt,Lt,(z(pt,f[b],Z)));rt=r[b];l,b=2,rt;else local Z,p,T,u=(Ut-128)*16384,et-128,128*Zt;u,l,O=T+(p+Z),99,O+3;Ut=u;end;elseif l<=52 then local Z=L(B,3+b);local p,T,u,j,y=(O-128)*16384,2097152*(q-128),(Yt-128)*128,Z%128,Z%128;local E,st=2097152*(Z-y);st,l,b=u+j+E+(p+T),165,4+b;O=st;elseif l<=53 then local Z,p,T,u=(O-128)*16384,q-128,Yt*128;u,l,b=p+(Z+T),175,3+b;O=u;else b[q+3]=Ut;b[2+q]=B;b[1+q]=Yt;l=109;end;elseif l<=59 then if l<=56 then if l<=55 then l,O=29,1;else l,b=138,4294967296*O+b;end;elseif l<=57 then local Z,p,T,u=(q-128)*16384,B-128,128*Yt;u,l,O=T+Z+p,87,3+O;q=u;elseif l<=58 then local Z=A(Y,q,b,198);l,b=138,Z;else local Z,p=S(b*3),1+0;local T={1-p,b+0,p,K,nil};l,K,b=109,T,Z;end;elseif l<=62 then if l<=60 then l=Yt>136 and 98 or 25;elseif l<=61 then l=et<69 and 58 or 160;else local Z=L(B,1+b);l,q=128>Z and 162 or 88,Z;end;elseif l<=63 then local Z,p=Yt-1,1+0;local T=Tt-p;local u={Z+0,T,p,nil,K};l,K=67,u;elseif l<=64 then l,B,q=69,128*(B-128)+Yt,q+2;else local Z,p,T,u,j=(Yt-128)*16384,Ut-128,128*B;u,j,l=Z+(T+p),O+3,113;B=u;end;elseif l<=76 then if l<=70 then if l<=67 then if l<=66 then local Z=L(B,2+O);l,Ut=128<=Z and 23 or 171,Z;else local Z,p,T=K[2],K[3],K[1];local u,j=Z+p,p<=0;p,Z=u>=T,u<=T;T=j and p or not j and Z;K[2]=u;if T then l,Yt=68,u;else l=127;end;end;elseif l<=68 then rt=(Zt+b*et)%256;w(Jt,Yt,(z(Ut,L(B,Yt+O),rt)));l,b=67,rt;elseif l<=69 then local Z=O(b,B,q);l,b=138,Z;else local Z=Q(Ut,Lt+O);V(Jt,Lt,(z(f[b],Z,pt)));ut=r[b];l,b=95,ut;end;elseif l<=73 then if l<=71 then l,q,O=11,(q-128)*128+Yt,O+2;elseif l<=72 then local Z=O+1;local p=L(Ut,Z);l,O,q=128>p and 42 or 130,Z,p;else local Z=Q(Ut,O+Qt);V(Tt,Qt,(z(Lt,f[Yt],Z)));Pt=r[Yt];l,Yt=22,Pt;end;elseif l<=74 then local Z,p,T=K[4],K[5],K[1];local u,j=Z+p,p<=0;Z,p=u>=T,u<=T;T=j and Z or not j and p;K[4]=u;if T then l,q=89,u;else l=33;end;elseif l<=75 then local Z=L(B,2+b);l,Yt=128>Z and 83 or 52,Z;else l=123<Yt and 60 or 152;end;elseif l<=82 then if l<=79 then if l<=77 then l=161>=Yt and 76 or 107;elseif l<=78 then l=18>et and 40 or 166;else local Z,p,T=O+1,69,119;local u,j=0,(p*((77+b)%256)+T)%256;l,b,O,q,B,et,Zt,Jt,pt,Tt,Lt=170,Z,77,p,T,u,j,w,s,L(Ut,Z+u),z;end;elseif l<=80 then local Z=L(B,O+2);if Z<128 then l,B=65,Z;else l,et=1,Z;end;elseif l<=81 then local Z=L(Ut,O+3);local p,T,u,j,y=16384*(q-128),2097152*(B-128),(Yt-128)*128,Z%128,Z%128;local A,E,Qt=(Z-y)*2097152,T+u;Qt,l,O=E+(j+A)+p,87,O+4;q=Qt;else local Z,p,p=O+1,0,((b+222)%256*69+119)%256;w(s,0,(z(L(B,Z+0),222,p)));l,b=38,(L(s,q));end;elseif l<=85 then if l<=83 then local Z,p,T,u=16384*(O-128),q-128,128*Yt;u,l,b=p+Z+T,165,b+3;O=u;elseif l<=84 then l,O=0,O+1;else local Z=K[2];l,K=110,Z;end;elseif l<=86 then local Z=K[5];l,K=118,Z;elseif l<=87 then local Z,p=69,119;ut=(70+b)%256;local T,u,j=F(q),1179010630,q-q%4;local y,A=j-1,4+0;local E={A,0-A,y+0,K,nil};l,K,b,B,Yt,et,Zt,Jt,pt,Tt=95,E,ut,70,c,Z,p,T,u,j;else local Z=L(B,2+b);l,Yt=128>Z and 53 or 39,Z;end;elseif l<=132 then if l<=110 then if l<=99 then if l<=93 then if l<=90 then if l<=89 then Pt=(pt+Yt*Jt)%256;w(Tt,q,(z(et,Pt,(L(Ut,O+q)))));l,Yt=74,Pt;else l,Ut,O=99,(Ut-128)*128+et,O+2;end;elseif l<=91 then zt=(Zt+et*b)%256;w(Jt,pt,(z(Yt,zt,(L(B,O+pt)))));l,b=96,zt;elseif l<=92 then l,O=120,O+1;else local Z,p,p=O+1,0,(69*((19+b)%256)+119)%256;w(s,0,(z(L(B,0+Z),p,19)));Z=-L(s,q);l,b=38,Z;end;elseif l<=96 then if l<=94 then local Z,p,T,u=(q-128)*16384,Yt-128,et*128;u,l,O=p+Z+T,149,3+O;q=u;elseif l<=95 then local Z,p,T=K[2],K[1],K[3];local u,j=Z+p,p<=0;Z,p=u>=T,u<=T;T=j and Z or not j and p;K[2]=u;if T then l,Lt=70,u;else l=47;end;else local Z,p,T=K[5],K[3],K[1];local u,j=Z+p,p<=0;Z,p=u>=T,u<=T;T=j and Z or not j and p;K[5]=u;if T then l,pt=91,u;else l=45;end;end;elseif l<=97 then local Z=O+1;local p=L(Ut,Z);l,O,q=p<128 and 145 or 122,Z,p;elseif l<=98 then l=Yt>141 and 32 or 117;else local Z=Ut+1;l,Ut=54,Z;end;elseif l<=104 then if l<=101 then if l<=100 then l,q,O=149,(q-128)*128+Yt,O+2;else local Z=K[4];l,K=38,Z;end;elseif l<=102 then local Z=L(Jt,O);l,Ut=128>Z and 24 or 132,Z;elseif l<=103 then l,b=165,1+b;else local Z,p=q-1,1+0;local T={p,Tt-p,Z+0,nil,K};l,K=154,T;end;elseif l<=107 then if l<=105 then ut=(Zt+b*et)%256;w(Jt,pt,(z(L(Ut,O+pt),ut,B)));l,b=154,ut;elseif l<=106 then local Z=L(Jt,3);local p,T,u,j;p,T,u,j,l=(b-128)*16384,2097152*(O-128),128*(q-128),Z%128,29;b,O=T+((Z-Z%128)*2097152+j+(p+u)),4;else l=Yt>202 and 134 or 151;end;elseif l<=108 then local Z,p,T,u=(q-128)*16384,Yt-128,et*128;u,l,O=p+(T+Z),11,3+O;q=u;elseif l<=109 then local Z,p,T=K[1],K[3],K[2];local u,j=Z+p,p<=0;Z,p=u>=T,u<=T;T=j and Z or not j and p;K[1]=u;if T then l,q=13,u;else l=101;end;else local Z,p=q-1,1+0;local T=Tt-p;local u={Z+0,nil,p,K,T};l,K=96,u;end;elseif l<=121 then if l<=115 then if l<=112 then if l<=111 then local Z,p,T,u=16384*(Yt-128),Ut-128,et*128;u,l,O=Z+(T+p),126,O+3;Yt=u;else Jt(pt,et,(Lt(Tt,Zt,O)));local Z=1;w(s,Z,(z((q*Zt+B)%256,L(Ut,Z+b),O)));l,b=138,(X(s,Yt));end;elseif l<=113 then ft=0;local Z=1+0;local p=1-Z;local T={K,Z,nil,B+0,p};l,K,O=146,T,ft;elseif l<=114 then l=et==99 and 155 or 158;else local Z,p,T=P(b,1+Yt%q,Yt%q+2),Yt+1,1+0;local u=p-T;p={B+0,K,T,nil,u};l,K,Yt=48,p,Z;end;elseif l<=118 then if l<=116 then l=69>=et and 43 or 140;elseif l<=117 then local Z,p,T=1+O,(215+b)%256,0;V(s,0,(z(Q(B,Z+0),f[p],3621246935)));Z=r[p];l,b=138,(n(s,q));else local Z,p=q-1,1+0;local T=Vt-p;local u={Z+0,nil,K,T,p};l,K=74,u;end;elseif l<=119 then local Z=L(Ut,q+3);local p,T,u,P,j=(B-128)*16384,2097152*(Yt-128),128*(et-128),Z%128,Z%128;local y,A,X=(Z-j)*2097152,p+(T+u);X,l,q=P+A+y,69,4+q;B=X;elseif l<=120 then local Z,p=69,119;zt=(b+70)%256;local T,u,P=F(q),1179010630,q-q%4;local j,y=P-1,4+0;local A=0-y;local X={nil,K,j+0,A,y};l,K,b,Yt,Ut,et,Zt,Jt,pt,Tt=46,X,zt,70,c,Z,p,T,u,P;else local Z=O+1;local p=L(B,Z);l,O,Yt=p>=128 and 176 or 124,Z,p;end;elseif l<=126 then if l<=123 then if l<=122 then local Z=L(Ut,O+1);l,Yt=128>Z and 71 or 31,Z;else local Z=L(Jt,O+3);local p,T,u,P,j=(B-128)*16384,2097152*(Yt-128),128*(Ut-128),Z%128,Z-Z%128;local Z,y,A=j*2097152+P,p+T;A,l,O=Z+(y+u),0,4+O;B=A;end;elseif l<=124 then l,O=126,1+O;elseif l<=125 then local Z,Z=O+1;do Z=true;end;l=Z and 113 or 94;else local Z,p=69,119;rt=(44+b)%256;local T,u,P=F(Yt),741092396,Yt-Yt%4;local j,y=P-1,4+0;local A=0-y;local X={y,K,nil,j+0,A};l,K,b,Ut,et,Zt,Jt,pt,Tt=2,X,rt,44,Z,p,T,u,P;end;elseif l<=129 then if l<=127 then local Z,p=K[5],L(Jt,q);l,K,b=p>=128 and 143 or 55,Z,p;elseif l<=128 then local Z,p=r[O],4;local T=Q(B,b+p);V(s,p,(z(f[Z],T,Yt)));p=r[Z];l,b=138,(D(s,q));else local Z,p;Z,p,l=(b-128)*16384,O-128,29;b,O=q*128+(Z+p),3;end;elseif l<=130 then local Z=L(Ut,1+O);l,Yt=128>Z and 100 or 26,Z;elseif l<=131 then local Z=L(B,b+1);l,q=128>Z and 148 or 75,Z;else local Z=L(Jt,O+1);l,et=Z<128 and 90 or 28,Z;end;elseif l<=154 then if l<=143 then if l<=137 then if l<=134 then if l<=133 then local Z=g[-1][h];local p,T,u,P=W[Z],J,g[-2],0;local j=T[7];local y,A=L(j,p),1+p;if 99<y then l,b,O,q,B,Yt=77,Z,p,P,j,y;else l,b,O,q,B,Yt,Ut,et=116,Z,p,T,u,P,j,y;end;else l=216<Yt and 163 or 121;end;elseif l<=135 then local Z=L(Jt,O+3);local p,T,u,P,j=(Ut-128)*16384,(et-128)*2097152,128*(Zt-128),Z%128,Z%128;local y,A,X=2097152*(Z-j),T+u+P;X,l,O=y+A+p,99,O+4;Ut=X;elseif l<=136 then l=et>=73 and 79 or 36;else l,b,O=29,(b-128)*128+O,2;end;elseif l<=140 then if l<=138 then g[h]=b;l=177;elseif l<=139 then V(s,Ut,(z(O,Q(B,Ut+b),f[Yt])));local Z,Z,p=r[Yt],Q(s,q),Q(s,4);if p==0 then l,b=138,Z;else l,b,O=37,Z,p;end;else l=et<=73 and 136 or 3;end;elseif l<=141 then local Z=L(Ut,q+1);l,Yt=128<=Z and 17 or 64,Z;elseif l<=142 then V(s,Ut,(z(Q(B,b+Ut),f[Yt],O)));local Z,Z=r[Yt],C(n(s,q),(n(s,4)));l,b=38,Z;else local Z=L(Jt,1);l,O=128>Z and 137 or 174,Z;end;elseif l<=148 then if l<=145 then if l<=144 then local Z=O+1;local p=L(Ut,Z);l,O,q=p>=128 and 35 or 173,Z,p;else l,O=11,1+O;end;elseif l<=146 then local Z,p,T=K[5],K[2],K[4];local u,P=Z+p,p<=0;Z,p=u>=T,u<=T;T=P and Z or not P and p;K[5]=u;if T then l,Yt=115,u;else l=21;end;elseif l<=147 then local Z=L(Ut,3+O);local p,T,u,P,n=16384*(q-128),(Yt-128)*2097152,(et-128)*128,Z%128,Z-Z%128;local Z,j,y=T+2097152*n,p+P;y,l,O=Z+(u+j),11,O+4;q=y;else l,O,b=165,(O-128)*128+q,b+2;end;elseif l<=151 then if l<=149 then local Z,p=69,119;Pt=(b+70)%256;local T,u,P=F(q),1179010630,q-q%4;local n,j=P-1,4+0;local y={0-j,j,n+0,nil,K};l,K,Yt,et,Zt,Jt,pt,Tt,Lt,Vt=22,y,Pt,70,c,Z,p,T,u,P;elseif l<=150 then l,Yt,O=126,(Yt-128)*128+Ut,O+2;else l=191>=Yt and 93 or 30;end;elseif l<=152 then l=102>=Yt and 156 or 159;elseif l<=153 then local Z=L(Ut,O+2);l,Yt=Z<128 and 57 or 81,Z;else local Z,p,T=K[2],K[1],K[3];local u,P=Z+p,p<=0;p,Z=u>=T,u<=T;T=P and p or not P and Z;K[2]=u;if T then l,pt=105,u;else l=168;end;end;elseif l<=165 then if l<=159 then if l<=156 then if l<=155 then local Z,p,T=O+1,(b+233)%256,0;V(s,0,(z(Q(Ut,0+Z),f[p],3924421097)));Z=r[p];l,b=138,(Q(s,Yt));else local Z,p,T,u=1+O,(175+b)%256,2947526575,0;V(s,u,(z(T,Q(B,u+Z),f[p])));local P=r[p];u=4;l,b,O,Yt,Ut=139,Z,T,P,u;end;elseif l<=157 then local Z=O-4294967296;l,O=56,Z;elseif l<=158 then local Z=B[b];if Z then l,b=138,Z;else l=97;end;else local Z=O+1;local p=L(B,Z);l,O,q=p>=128 and 6 or 92,Z,p;end;elseif l<=162 then if l<=160 then local Z,p,p=1+O,0,((b+133)%256*69+119)%256;w(s,0,(z(133,L(Ut,0+Z),p)));p=161~=L(s,Yt);l,b=138,p;elseif l<=161 then local Z;B,l,Z=B+(Yt-128)*128,113,2+O;else l,O,b=175,q+128*(O-128),2+b;end;elseif l<=163 then l=Yt~=224 and 164 or 82;elseif l<=164 then local Z,p,T,u=O+1,(b+41)%256,690563369,0;local P=Q(B,u+Z);V(s,u,(z(f[p],T,P)));P=r[p];u=4;l,b,O,Yt,Ut=142,Z,T,P,u;else local Z=S(O,L(B,b),b+1);l,b=138,Z;end;elseif l<=171 then if l<=168 then if l<=166 then local Z,p,T=1+O,69,119;local u,P=0,(T+p*((65+b)%256))%256;l,b,O,q,B,et,Zt,Jt,pt,Tt,Lt=112,Z,65,p,T,u,P,w,s,L(Ut,u+Z),z;elseif l<=167 then local Z=L(Ut,O+3);local p,T,u,P,n=16384*(q-128),2097152*(Yt-128),128*(et-128),Z%128,Z%128;local j,y,A=2097152*(Z-n),u+P;A,l,O=y+(T+(p+j)),149,O+4;q=A;else local Z,p,T=K[5],Yt(Jt),q+O;local u=L(Ut,T);l,K,b,O,q,B=128<=u and 141 or 19,Z,p,x,T,u;end;elseif l<=169 then local Z,p,T=1+O,(1+b)%256,0;local T=Q(Ut,Z+0);V(s,0,(z(f[p],16843009,T)));T=r[p];l,b=138,(M(s,Yt));elseif l<=170 then Jt(pt,et,(Lt(Tt,O,Zt)));local Z,p=1,(B+q*Zt)%256;w(s,Z,(z(O,L(Ut,Z+b),p)));l,b=138,(N(s,Yt));else local Z,p,T,V=(q-128)*16384,Yt-128,128*Ut;V,l,O=T+(Z+p),120,3+O;q=V;end;elseif l<=174 then if l<=172 then l,b=175,1+b;elseif l<=173 then l,O=87,O+1;else local Z=L(Jt,2);l,q=128>Z and 129 or 106,Z;end;elseif l<=175 then local Z,p,p=L(B,b),b+1,F(O);k(p,0,Z);l,b=38,p;elseif l<=176 then local Z=L(B,1+O);l,Ut=128>Z and 150 or 4,Z;else return b;end;end;end};J[5]=U;G,t=8,U;elseif G<=25 then e=v[2];J=d;G,v,H=J[6]and 13 or 4,e,5;else G,o,_=Y:VV(o,i,_);end;elseif G<=30 then G,H,t,o,_,i=Y:RV(_,R,m,a,t,G,o,H,i);else local U,e,Z,J,p,T=Y:nV(t,G,_,v,I,i,R);if U==1 then G,v,t,_,i=e,Z,J,p,T;elseif U==2 then return d,H;end;end;end;end,[43]=string.rep,[119]=string.format,ZV=function(Y,U,e,Z,J,p,T,L,V,Q,f,...)if p then local p=f[3];Y.J=...;local z,r,u=Y.J,Y[14],{};local P,s=Y[36](z,r),1+r;u[6]=P~=0;P=Y[36](z,s);return P>=128 and 33 or 35,p,z,u,s,P,Q;elseif Z<=7 then local Z=(e*L+T)%256;local p=(e*Z+T)%256;local z=(p*e+T)%256;local r=(z*e+T)%256;local u,P,s,n=Y.iV,256*p,65536*z,16777216*r;u[L]=s+Z+(P+n);Y.KV[L]=r;return 13,f,e,T,L,U,Q;else local Z=Y[36](e,3+L);local Y,p,z,r,u=16384*(Q-128),(J-128)*2097152,128*(V-128),Z%128,Z%128;local J=(Z-u)*2097152;u=p+(Y+r+(z+J));return 36,f,e,T,L+4,U,u;end;end,eV=function(Y,U,e,Z,J,p,T,L,V)if p<=28 then if p<=27 then local Q=Y[36](e,V+1);return 128>Q and 22 or 3,V,T,Z,Q;else local Y=(J-128)*128+U;return 36,V+2,T,Z,Y;end;elseif p<=29 then local Y=(T-128)*16384;local e=Z-128+J*128+Y;return 16,3+V,e,Z,J;elseif p<=30 then local Y,e=(J-128)*16384,U-128;local p=L*128+Y+e;return 36,V+3,T,Z,p;else local Y,e=(Z-128)*16384,J-128;local Z=128*U+(Y+e);return 5,3+V,T,Z,J;end;end,[107]=function(Y,Y,Y,Y,Y)return function(Y,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,J,p)if U.Unloaded then else local U=checkcaller();if U then else local U=J=="WalkSpeed"and(e.Elements.WalkspeedT and e.Elements.WalkspeedT.Value);p=if U and e.Elements.WalkspeedS then e.Elements.WalkspeedS.Value else if J=="FieldOfView"then if e.Elements.FOVT then if e.Elements.FOVT.Value then if e.Elements.FOVS then e.Elements.FOVS.Value else p else p else p else p;end;end;local U=Z[6][Z[5]];return U(Y,J,p);end;end;end,[98]=function(Y,Y,Y,Y)return function(Y,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,J,p)if U.Unloaded then else local U=checkcaller();if U then else local U=tostring(getcallingscript());if J=="Name"and U=="DoorScript"then return;else local U=J=="WalkSpeed"and(e.Elements.WalkspeedT and e.Elements.WalkspeedT.Value);if U and e.Elements.WalkspeedS then p=e.Elements.WalkspeedS.Value;else local U=J=="JumpPower"and(e.Elements.JumpPowerT and e.Elements.JumpPowerT.Value);p=if U and e.Elements.JumpPowerS then e.Elements.JumpPowerS.Value else if J=="FieldOfView"then if e.Elements.FOVT then if e.Elements.FOVT.Value then if e.Elements.FOVS then e.Elements.FOVS.Value else p else p else p else p;end;end;end;end;local U=Z[6][Z[5]];return U(Y,J,p);end;end;end,K={1721,3226654451,3054872043,3932240661,3142306496,1627036626,503118130,1332003469,1545752755},G=function(Y,...)(...)[...]=nil;end,[51]=assert,jV=function(Y,U,e,Z,J,p,T,L,V)if L<=33 then if L<=32 then local Q=Y[36](J,3+T);local f,z,r,u=(e-128)*16384,(V-128)*2097152,(U-128)*128,Q%128;local P=r+(2097152*(Q-Q%128)+z)+(f+u);return 16,J,T+4,P,V,Z;else local Q=Y[36](J,1+T);return 128>Q and 12 or 26,J,T,e,Q,Z;end;elseif L<=34 then local Q=Y[36](J,T);return Q<128 and 17 or 0,J,T,e,V,Q;elseif L<=35 then return 16,J,T+1,e,V,Z;else local L=Y[9](U);Y[67](L,0,J,T,U);local J=U+T;p[V]=L;Y[14]=J;return 14,Y:JV(p,e,198)(Y.P),T,e,V,Z;end;end,[3]=buffer.readu32,[23]=buffer.writei32,[85]=function(Y,Y,Y)return function(Y)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,J,p)if U.Unloaded then else if checkcaller()then else local U=J=="WalkSpeed"and(e.Elements.WalkspeedT and e.Elements.WalkspeedT.Value);if U and e.Elements.WalkspeedS then p=e.Elements.WalkspeedS.Value;else local U=J=="FieldOfView"and(e.Elements.FOVT and e.Elements.FOVT.Value);if U and e.Elements.FOVS then p=e.Elements.FOVS.Value;else if J=="CameraSubject"then if p.Name=="Camera"then if p.Parent then if p.Parent.Parent then if p.Parent.Parent.Name=="Vehicles"then return;end;end;end;end;end;end;end;end;end;local U=Z[6][Z[5]];return U(Y,J,p);end;end;end,[96]=pairs,[35]=rawget,[82]=coroutine.yield,T=function(Y,Y,U,e,Z,J,p,T,L,V,Q,f)if J<=22 then if J<=21 then local z=16384*(f-128);local r=L-128+128*U+z;return 141,p,V,3+T,Z,Q,r;else local L=(Q-128)*128+Y;return 146,p,V,T+2,Z,L,f;end;elseif J<=23 then return 20,(U-128)*128+p,V,2+T,Z,Q,f;elseif J<=24 then return 43,p,V+4,T,Z,Q,f;else local Y=128*(Z-128)+e;return 107,p,2+V,T,Y,Q,f;end;end,[112]=table.move,[290]=Vector3.new,a=function(Y,U,e,Z,J,p,T,L,V,Q,f)if e<=66 then if e<=65 then return 109,p,Z,J+1,f,T;else local z=Y[36](V,2+p);return z>=128 and 108 or 136,p,Z,J,f,z;end;elseif e<=67 then return 151,1+p,Z,J,f,T;elseif e<=68 then local e,z,r,u=Y[36](V,p+3),(f-128)*16384,2097152*(U-128),128*(Q-128);local U=z+(e%128+(2097152*(e-e%128)+r+u));return 38,4+p,Z,J,U,T;else local U=Y[36](V,2+L);return U>=128 and 61 or 76,p,U,J,f,T;end;end,[22]=setfenv,mV=function(Y,U)return Y[121](U,1,U.n);end,[28]=string.match,N=function(Y,Y,U,e,Z,J,p)if U<=40 then local T=e+(p-128)*128;return 18,2+Y,T,J;elseif U<=41 then return 38,Y+1,p,J;else local U,e,T=Z[4],Z[5],Z[1];local L,V=U+e,e<=0;e,U=L>=T,L<=T;T=V and e or not V and U;Z[4]=L;if T then return 75,Y,p,L;else return 154,Y,p,J;end;end;end,_=function(Y,U,e,Z,J,p,T,L,V)if V<=77 then if V<=76 then local Q,f=16384*(J-128),e-128;local e=Q+(128*T+f);return 43,Z+3,e,U,L;else local e=Y[36](p,J);return e>=128 and 27 or 51,Z,J,e,L;end;elseif V<=78 then local e=Y[36](p,2+J);return 128<=e and 94 or 162,Z,J,U,e;elseif V<=79 then return 125,Z,1+J,U,L;else return 46,Z,J+1,U,L;end;end,WV=function(Y,...)local U,e,Z,J,p,T,L,V,Q,f,z,r=Y:TV();local u,P,s,n,j,y,A,S,w,c,F,X=e,Z,Y[125](...),J,p,T,L,V,Q,f,z,r;while U do if u<=17 then if u<=8 then if u<=3 then u,S,w,c,F=Y:XV(S,w,y,F,u,n,c);elseif u<=5 then u,P,S=Y:UV(S,u,j,P);else r=Y[125](Y:ZV(A,n,u,c,u<=6,j,y,F,w,P,Y:mV(s)));J,Q,z,L,Z,p,e=Y:mV(r);u,P,n,j,y,A,w=J,Q,z,L,Z,p,e;end;elseif u<=12 then u,y,A,S,w=Y:NV(u,A,y,P,c,S,n,w);else local U,e,Z,J,p=Y:YV(c,F,S,u,P,y,n);if U==1 then u,y,S,c=e,Z,J,p;elseif U==2 then return n;end;end;elseif u<=26 then if u<=21 then u,P,n,j,F,X=Y:LV(w,n,u,c,F,P,j,y,X,S);else u,y,S,w,c=Y:lV(y,F,n,c,X,S,w,u);end;elseif u<=31 then u,y,A,S,w=Y:eV(c,n,S,w,u,A,F,y);else u,n,y,A,S,c=Y:jV(w,A,c,n,j,y,u,S);end;end;end,k=function(Y,...)return(...)();end,VV=function(Y,Y,U,e)local Z=128*(e-128)+U;return 22,2+Y,Z;end,[76]=buffer.writef64,o=function(Y,U,e,Z,J,p,T,L,V,Q)if e<=81 then local f=Y[36](T,J+1);if f<128 then return 144,f,U,V,Q,p;else return 120,T,U,V,f,p;end;elseif e<=82 then local e=Y[36](T,V+1);return e>=128 and 31 or 173,T,U,V,Q,e;else return 126,T,16384*(U-128)+(L-128+128*Z),3+V,Q,p;end;end,[60]=function(Y,Y,Y)return function(Y,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,...)local J={...};if not(U.Unloaded)then checkcaller();local U=getnamecallmethod();if U=="FireServer"then if e.Elements.AutoHeartbeatT and e.Elements.AutoHeartbeatT.Value and Y.Name=="ClutchHeartbeat"then J[2]=true;elseif e.Elements.NoEyesT then if e.Elements.NoEyesT.Value then if Y.Name=="MotorReplication"then J[2]=-64;end;end;end;end;end;local U=Z[6][Z[5]];return U(Y,unpack(J));end;end;end,[7]=bit32.countlz,[100]=function(Y,Y,Y)return function(Y,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,J,p)local T=checkcaller();if U.Unloaded then else if T then else local U=J=="WalkSpeed"and(e.Elements.WalkspeedT and e.Elements.WalkspeedT.Value);if U and e.Elements.WalkspeedS then p=e.Elements.WalkspeedS.Value;else local U=J=="JumpPower"and(e.Elements.JumpPowerT and e.Elements.JumpPowerT.Value);p=if U and e.Elements.JumpPowerS then e.Elements.JumpPowerS.Value else if J=="FieldOfView"then if e.Elements.FOVT then if e.Elements.FOVT.Value then if e.Elements.FOVS then e.Elements.FOVS.Value else p else p else p else p;end;end;end;T=Z[6][Z[5]];return T(Y,J,p);end;end;end,E=function(Y,Y,U,e,Z,J,p)if J<=163 then e[U]=p;return 73,Y;else local U,e,J=Z[4],Z[2],Z[1];local p,T=U+e,e<=0;U,e=p>=J,p<=J;J=T and U or not T and e;Z[4]=p;if J then return 30,p;else return 90,Y;end;end;end,[15631]=function(Y,U,e,Z,J,p,T,L,V,Q,f,z,r,u,P,P,s,s)local s,n,j,y,A,S,w,c,F,X,D,C,x,M=Y[57],Y[110],Y[103],Y[68],Y[34],Y[40],Y[36],Y[10],Y[3],Y[45],Y[112],Y[118],Y[121],Y.oV;local function N(k)local G,v,W,d,H,t,a,o,_,i,R,m,I,E=s,n,j,y,A,S,w,c,F,X,D,C,x,M;local function s(...)local n=f[1];local j,y=f[2],G;local f,A,S,w,c=y(p),T,U;local U,p,T,F,X,D,C,x,M,G=m,R,W,d,H,t,a,o,_,i;local W,d,H,t,a=v(function(...)local v,o,_,i,R,m,l;if S==2 then while true do local K=e[A];if K>=14 then if K<21 then if K>=17 then if K<19 then if K==18 then m,o,R,v=X(j,F(T(j,14),262143),(F(T(j,28),15))),L[A],z[A],Z[A];l=R<16384 and 7 or(R<2097152 and 14 or 21);i,_=F(R,D(1,l)-1),T(R,l);local g=A;L[g]=X(o,31,(F(T(m,7),127)));g=A;z[g]=X(i,53,(F(T(m,14),127)));g=A;Z[g]=X(v,2,(F(m,127)));g=A;e[g]=X(_,126,(F(T(m,21),127)));A-=1;else j=f[L[A]];end;else if K==20 then f[Z[A]]={};else local g,h,b=Z[A],X(L[A],(F(X(j,(F(T(j,29),7))),536870911))),Q[4];local O=X(b[g],355920250);b[g]=O;b,g=Q[7],O+1;O=C(b,g);local q,B;if O<128 then q,B=O,g+1;else local Yt=C(b,g+1);if Yt<128 then q,B=(O-128)*128+Yt,g+2;else local Ut=C(b,g+2);if Ut<128 then q,B=(O-128)*16384+(Yt-128)+Ut*128,g+3;else local et=C(b,g+3);q,B=(O-128)*16384+(Yt-128)*2097152+(Ut-128)*128+et%128+(et-et%128)*2097152,g+4;end;end;end;g,O=h*16843009,B+q;local Yt=O-q%4;for Ut=B,Yt-1,4 do x(b,Ut,(X(M(b,Ut),g)));end;for g=Yt,O-1,1 do G(b,g,(X(C(b,g),h)));end;b,O,q=A,A,A;Z[A]=37;L[b]=35;z[O]=57;e[q]=25;end;end;else if K<15 then m=z[A];f[m],f[m+1]=J[A],r[A];else if K==16 then f[Z[A]]=L[A];else m=z[A];f[m],f[m+1]=J[A],r[A];m=z[A+1];f[m],f[m+1]=J[A+1],r[A+1];m=z[A+2];f[m],f[m+1]=J[A+2],r[A+2];A+=2;end;end;end;else if K>=25 then if K<27 then if K==26 then m,o=Z[A]+1,X(L[A],(F(X(n,(F(T(n,29),7))),536870911)));local g=A;for h=1,z[g],1 do o=F(X(o,(D(o,13))),536870911);o=X(o,(T(o,13)));o=F(X(o,(D(o,14))),536870911);Z[m]=X(Z[m],(F(T(o,0),127)));L[m]=X(L[m],(F(T(o,7),127)));z[m]=X(z[m],(F(T(o,14),127)));e[m]=X(e[m],(F(T(o,21),127)));m=m+1;end;e[A]=25;else end;else if K==28 then n=f[Z[A]];else f[Z[A]]=f[L[A]]==z[A];end;end;else if K<23 then if K==22 then S=Z[A];A=z[A]+1;break;else A=z[A];end;else if K~=24 then A=f[Z[A]];else m=z[A];f[m],f[m+1]=J[A],r[A];m=z[A+1];f[m],f[m+1]=J[A+1],r[A+1];A+=1;end;end;end;end;else if K<7 then if K>=3 then if K<5 then if K==4 then f[z[A]]=n;else f[Z[A]]=f[L[A]]//f[z[A]];end;elseif K==6 then f[L[A]]=f[Z[A]]~=z[A];else A=if f[L[A]]then z[A]else Z[A];end;else if K>=1 then if K~=2 then f[L[A]]=f[Z[A]]//z[A];else m=L[A];f[m],f[m+1]=V[A],Z[A];end;else f[z[A]]=f[L[A]]*f[Z[A]];end;end;else if K>=10 then if K>=12 then if K==13 then local V,g,h=z[A],L[A],Q[4];local b=X(h[V],355920250);h[V]=b;h,V=Q[7],b+1;b=C(h,V);local O,q;if b<128 then O,q=b,V+1;else local B=C(h,V+1);if B<128 then O,q=(b-128)*128+B,V+2;else local Yt=C(h,V+2);if Yt<128 then O,q=(b-128)*16384+(B-128)+Yt*128,V+3;else local Ut=C(h,V+3);O,q=(b-128)*16384+(B-128)*2097152+(Yt-128)*128+Ut%128+(Ut-Ut%128)*2097152,V+4;end;end;end;V,b=g*16843009,q+O;local B=b-O%4;for Yt=q,B-1,4 do x(h,Yt,(X(M(h,Yt),V)));end;for V=B,b-1,1 do G(h,V,(X(C(h,V),g)));end;B,h,O=A,A,A;z[A]=220;L[B]=99;Z[h]=185;e[O]=25;else A=if f[L[A]]then Z[A]else z[A];end;else if K~=11 then m,o=Z[A]+1,z[A];local V=A;for g=1,L[V],1 do o=F(X(o,(D(o,13))),536870911);o=X(o,(T(o,13)));o=F(X(o,(D(o,14))),536870911);Z[m]=X(Z[m],(F(T(o,0),127)));L[m]=X(L[m],(F(T(o,7),127)));z[m]=X(z[m],(F(T(o,14),127)));e[m]=X(e[m],(F(T(o,21),127)));m=m+1;end;e[A]=25;else f[Z[A]]=f[L[A]]+z[A];end;end;else if K>=8 then if K~=9 then local V,K,g=Z[A],X(L[A],(F(X(n,(F(T(n,29),7))),536870911))),Q[4];local h=X(g[V],355920250);g[V]=h;g,V=Q[7],h+1;h=C(g,V);local b,O;if h<128 then b,O=h,V+1;else local q=C(g,V+1);if q<128 then b,O=(h-128)*128+q,V+2;else local B=C(g,V+2);if B<128 then b,O=(h-128)*16384+(q-128)+B*128,V+3;else local Yt=C(g,V+3);b,O=(h-128)*16384+(q-128)*2097152+(B-128)*128+Yt%128+(Yt-Yt%128)*2097152,V+4;end;end;end;h,V=K*16843009,O+b;local q=V-b%4;for b=O,q-1,4 do x(g,b,(X(M(g,b),h)));end;for b=q,V-1,1 do G(g,b,(X(C(g,b),K)));end;h,V,K=A,A,A;Z[A]=161;L[h]=48;z[V]=135;e[K]=25;else f[Z[A]]=j;end;else m,o=Z[A]+1,X(L[A],(F(X(j,(F(T(j,29),7))),536870911)));local V=A;for K=1,z[V],1 do o=F(X(o,(D(o,13))),536870911);o=X(o,(T(o,13)));o=F(X(o,(D(o,14))),536870911);Z[m]=X(Z[m],(F(T(o,0),127)));L[m]=X(L[m],(F(T(o,7),127)));z[m]=X(z[m],(F(T(o,14),127)));e[m]=X(e[m],(F(T(o,21),127)));m=m+1;end;e[A]=25;end;end;end;end;A+=1;end;else end;if S==44 then while true do local V=z[A];if V<7 then if V>=3 then if V>=5 then if V==6 then m=Z[A];f[m],f[m+1]=r[A],e[A];else m=e[A];f[m],f[m+1]=J[A],r[A];m=Z[A+1];f[m],f[m+1]=r[A+1],e[A+1];A+=1;end;else if V~=4 then f[Z[A]]=L[A];else m,o=L[A]+1,X(Z[A],(F(X(j,(F(T(j,29),7))),536870911)));local K=A;for g=1,e[K],1 do o=F(X(o,(D(o,13))),536870911);o=X(o,(T(o,13)));o=F(X(o,(D(o,14))),536870911);L[m]=X(L[m],(F(T(o,0),127)));Z[m]=X(Z[m],(F(T(o,7),127)));e[m]=X(e[m],(F(T(o,14),127)));z[m]=X(z[m],(F(T(o,21),127)));m=m+1;end;z[A]=7;end;end;else if V<1 then m,o,R,v=Z[A],L[A],e[A],X(j,F(T(j,14),262143),(F(T(j,28),15)));l=R<16384 and 7 or(R<2097152 and 14 or 21);i,_=T(R,l),F(R,D(1,l)-1);local K=A;L[K]=X(o,119,(F(v,127)));K=A;Z[K]=X(m,74,(F(T(v,7),127)));K=A;z[K]=X(i,104,(F(T(v,21),127)));K=A;e[K]=X(_,125,(F(T(v,14),127)));A-=1;else if V==2 then A=f[e[A]];else S=L[A];A=Z[A]+1;break;end;end;end;else if V<10 then if V<8 then else if V==9 then m=e[A];f[m],f[m+1]=J[A],r[A];else m=e[A];f[m],f[m+1]=J[A],r[A];m=e[A+1];f[m],f[m+1]=J[A+1],r[A+1];m=e[A+2];f[m],f[m+1]=J[A+2],r[A+2];A+=2;end;end;else if V>=12 then if V==13 then A=L[A];else local K,g,h=Z[A],L[A],Q[4];local b=X(h[K],355920250);h[K]=b;K,h=Q[7],b+1;b=C(K,h);local O,q;if b<128 then O,q=b,h+1;else local B=C(K,h+1);if B<128 then O,q=(b-128)*128+B,h+2;else local Yt=C(K,h+2);if Yt<128 then O,q=(b-128)*16384+(B-128)+Yt*128,h+3;else local Ut=C(K,h+3);O,q=(b-128)*16384+(B-128)*2097152+(Yt-128)*128+Ut%128+(Ut-Ut%128)*2097152,h+4;end;end;end;b,h=g*16843009,q+O;local B=h-O%4;for O=q,B-1,4 do x(K,O,(X(M(K,O),b)));end;for b=B,h-1,1 do G(K,b,(X(C(K,b),g)));end;h,K,q=A,A,A;Z[A]=90;L[h]=29;e[K]=101;z[q]=7;end;else if V==11 then m=e[A];f[m],f[m+1]=J[A],r[A];m=e[A+1];f[m],f[m+1]=J[A+1],r[A+1];A+=1;else m,o=Z[A]+1,L[A];local V=A;for K=1,e[V],1 do o=F(X(o,(D(o,13))),536870911);o=X(o,(T(o,13)));o=F(X(o,(D(o,14))),536870911);L[m]=X(L[m],(F(T(o,0),127)));Z[m]=X(Z[m],(F(T(o,7),127)));e[m]=X(e[m],(F(T(o,14),127)));z[m]=X(z[m],(F(T(o,21),127)));m=m+1;end;z[A]=7;end;end;end;end;A+=1;end;else end;if S==238 then while true do local V=z[A];if V>=11 then if V<17 then if V<14 then if V>=12 then if V~=13 then f[Z[A]]=L[A];else local K,g,h=Z[A],e[A],Q[4];local b=X(h[K],355920250);h[K]=b;K,h=Q[7],b+1;b=C(K,h);local O,q;if b<128 then O,q=b,h+1;else local B=C(K,h+1);if B<128 then O,q=(b-128)*128+B,h+2;else local Yt=C(K,h+2);if Yt<128 then O,q=(b-128)*16384+(B-128)+Yt*128,h+3;else local Ut=C(K,h+3);O,q=(b-128)*16384+(B-128)*2097152+(Yt-128)*128+Ut%128+(Ut-Ut%128)*2097152,h+4;end;end;end;b,h=g*16843009,q+O;local B=h-O%4;for O=q,B-1,4 do x(K,O,(X(M(K,O),b)));end;for b=B,h-1,1 do G(K,b,(X(C(K,b),g)));end;g,K,B=A,A,A;Z[A]=15;e[g]=158;L[K]=14;z[B]=3;end;else m,o,R,v=X(n,F(T(n,14),262143),(F(T(n,28),15))),Z[A],e[A],L[A];l=R<16384 and 7 or(R<2097152 and 14 or 21);i,_=T(R,l),F(R,D(1,l)-1);local K=A;L[K]=X(v,5,(F(m,127)));K=A;e[K]=X(_,22,(F(T(m,7),127)));K=A;Z[K]=X(o,106,(F(T(m,14),127)));K=A;z[K]=X(i,33,(F(T(m,21),127)));A-=1;end;else if V>=15 then if V~=16 then m=Z[A];f[m],f[m+1]=e[A],r[A];else f[L[A]]=j;end;else m,o=Z[A]+1,L[A];local K=A;for g=1,e[K],1 do o=F(X(o,(D(o,13))),536870911);o=X(o,(T(o,13)));o=F(X(o,(D(o,14))),536870911);L[m]=X(L[m],(F(T(o,0),127)));e[m]=X(e[m],(F(T(o,7),127)));Z[m]=X(Z[m],(F(T(o,14),127)));z[m]=X(z[m],(F(T(o,21),127)));m=m+1;end;z[A]=3;end;end;else if V>=20 then if V<21 then A=f[e[A]];else if V~=22 then m,o,R=L[A],e[A],Z[A];v=f[m];p(f,m+1,m+o,R+1,v);else local K,g,h=L[A],X(e[A],(F(X(j,(F(T(j,29),7))),536870911))),Q[4];local b=X(h[K],355920250);h[K]=b;h,K=Q[7],b+1;b=C(h,K);local O,q;if b<128 then O,q=b,K+1;else local B=C(h,K+1);if B<128 then O,q=(b-128)*128+B,K+2;else local Yt=C(h,K+2);if Yt<128 then O,q=(b-128)*16384+(B-128)+Yt*128,K+3;else local Ut=C(h,K+3);O,q=(b-128)*16384+(B-128)*2097152+(Yt-128)*128+Ut%128+(Ut-Ut%128)*2097152,K+4;end;end;end;K,b=g*16843009,q+O;local B=b-O%4;for O=q,B-1,4 do x(h,O,(X(M(h,O),K)));end;for O=B,b-1,1 do G(h,O,(X(C(h,O),g)));end;K,q,B=A,A,A;L[A]=116;e[K]=250;Z[q]=121;z[B]=3;end;end;else if V>=18 then if V==19 then f[L[A]]=F(f[Z[A]],f[e[A]]);else f[Z[A]]=n;end;else A=L[A];end;end;end;else if V>=5 then if V>=8 then if V<9 then S=Z[A];A=L[A]+1;break;elseif V==10 then j=f[e[A]];else m,o=L[A]+1,X(e[A],(F(X(j,(F(T(j,29),7))),536870911)));local K=A;for g=1,Z[K],1 do o=F(X(o,(D(o,13))),536870911);o=X(o,(T(o,13)));o=F(X(o,(D(o,14))),536870911);L[m]=X(L[m],(F(T(o,0),127)));e[m]=X(e[m],(F(T(o,7),127)));Z[m]=X(Z[m],(F(T(o,14),127)));z[m]=X(z[m],(F(T(o,21),127)));m=m+1;end;z[A]=3;end;else if V>=6 then if V~=7 then m,o=L[A]+1,X(e[A],(F(X(n,(F(T(n,29),7))),536870911)));local K=A;for g=1,Z[K],1 do o=F(X(o,(D(o,13))),536870911);o=X(o,(T(o,13)));o=F(X(o,(D(o,14))),536870911);L[m]=X(L[m],(F(T(o,0),127)));e[m]=X(e[m],(F(T(o,7),127)));Z[m]=X(Z[m],(F(T(o,14),127)));z[m]=X(z[m],(F(T(o,21),127)));m=m+1;end;z[A]=3;else A=if f[L[A]]then e[A]else Z[A];end;else m=e[A];f[m],f[m+1]=J[A],r[A];m=e[A+1];f[m],f[m+1]=J[A+1],r[A+1];A+=1;end;end;else if V<2 then if V==1 then n=f[L[A]];else m=L[A];f[m],f[m+1]=P[A],Z[A];end;else if V<3 then f[L[A]]=not f[e[A]];else if V==4 then m=e[A];f[m],f[m+1]=J[A],r[A];else end;end;end;end;end;A+=1;end;else end;if S==246 then while true do local V=z[A];if V<8 then if V>=4 then if V<6 then if V~=5 then A=f[Z[A]];end;else if V~=7 then m=L[A];f[m],f[m+1]=P[A],J[A];else m=k[e[A]];m[6][m[5]]=f[Z[A]];end;end;else if V>=2 then if V==3 then m,o=Z[A]+1,L[A];local S=A;for k=1,e[S],1 do o=F(X(o,(D(o,13))),536870911);o=X(o,(T(o,13)));o=F(X(o,(D(o,14))),536870911);Z[m]=X(Z[m],(F(T(o,0),127)));e[m]=X(e[m],(F(T(o,7),127)));L[m]=X(L[m],(F(T(o,14),127)));z[m]=X(z[m],(F(T(o,21),127)));m=m+1;end;z[A]=5;else m=L[A];f[m],f[m+1]=e[A],J[A];end;else if V~=1 then m=L[A];f[m],f[m+1]=P[A],J[A];m=L[A+1];f[m],f[m+1]=P[A+1],J[A+1];A+=1;else f[Z[A]]=e[A];end;end;end;else if V<12 then if V<10 then if V~=9 then m,o=Z[A]+1,X(e[A],(F(X(n,(F(T(n,29),7))),536870911)));local n=A;for S=1,L[n],1 do o=F(X(o,(D(o,13))),536870911);o=X(o,(T(o,13)));o=F(X(o,(D(o,14))),536870911);Z[m]=X(Z[m],(F(T(o,0),127)));e[m]=X(e[m],(F(T(o,7),127)));L[m]=X(L[m],(F(T(o,14),127)));z[m]=X(z[m],(F(T(o,21),127)));m=m+1;end;z[A]=5;else m,o,R,v=e[A],X(j,F(T(j,14),262143),(F(T(j,28),15))),Z[A],L[A];l=R<16384 and 7 or(R<2097152 and 14 or 21);i,_=T(R,l),F(R,D(1,l)-1);local n=A;L[n]=X(v,13,(F(T(o,14),127)));n=A;e[n]=X(m,9,(F(T(o,7),127)));n=A;Z[n]=X(_,41,(F(o,127)));n=A;z[n]=X(i,49,(F(T(o,21),127)));A-=1;end;else if V==11 then if w then for T in U,w,nil do local n=w[T];if n then n[6]=n;n[4]=f[T];n[5]=4;w[T]=nil;end;end;end;if c then for T,n in U,c,nil do local j=n[4];if c then n=c[T];if n then local S=y(j);p(f,T,T+j-1,1,S);n[6]=S;n[5]=1;c[T]=nil;end;end;end;end;return false,false;else m=L[A];f[m],f[m+1]=P[A],J[A];m=L[A+1];f[m],f[m+1]=P[A+1],J[A+1];m=L[A+2];f[m],f[m+1]=P[A+2],J[A+2];A+=2;end;end;else if V<14 then if V~=13 then A=Z[A];else m,o,R=L[A],Z[A],e[A];v=f[m];p(f,m+1,m+o,R+1,v);end;else if V==15 then local J,T,V=L[A],Z[A],Q[4];local P=X(V[J],355920250);V[J]=P;J,V=Q[7],P+1;P=C(J,V);local Q,n;if P<128 then Q,n=P,V+1;else local j=C(J,V+1);if j<128 then Q,n=(P-128)*128+j,V+2;else local S=C(J,V+2);if S<128 then Q,n=(P-128)*16384+(j-128)+S*128,V+3;else local F=C(J,V+3);Q,n=(P-128)*16384+(j-128)*2097152+(S-128)*128+F%128+(F-F%128)*2097152,V+4;end;end;end;V,P=T*16843009,n+Q;local j=P-Q%4;for Q=n,j-1,4 do x(J,Q,(X(M(J,Q),V)));end;for Q=j,P-1,1 do G(J,Q,(X(C(J,Q),T)));end;P,V,n=A,A,A;L[A]=1;Z[P]=75;e[V]=68;z[n]=5;else m=Z[A];f[m],f[m+1]=r[A],e[A];end;end;end;end;A+=1;end;end;end,...);if W then if d then if H then return f[t](I(a,1,a.n));else return f[t](I(f,t+1,a));end;elseif t then if H then return I(t,1,t.n);else return I(f,t,a);end;end;else if w then for e in U,w,nil do local Z=w[e];if Z then Z[6]=Z;Z[4]=f[e];Z[5]=4;w[e]=nil;end;end;end;if c then for e,Z in U,c,nil do local U=Z[4];if c then Z=c[e];if Z then local J,T=e+U-1,y(U);p(f,e,J,1,T);Z[6]=T;Z[5]=1;c[e]=nil;end;end;end;end;E(Y,d,A,u);end;end;return s;end;return N;end,[125]=table.pack,[20]=function(Y,Y,Y,Y,Y)return function(Y,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,...)if not(U.Unloaded)then checkcaller();local U=getnamecallmethod();if U=="FireServer"then if Y.Name=="NPCProjectileDamagePlayer"or Y.Name=="NPCProjectileDamagePet"or Y.Name=="JungleSpikeTrapDamage"or Y.Name=="DamagePlayer"or Y.Name=="CheckLightningDamage"or Y.Name=="ClientTriggerNPCAttack"then if e.Elements.GodModeT then if e.Elements.GodModeT.Value then return;end;end;end;end;end;local U=Z[6][Z[5]];return U(Y,unpack({...}));end;end;end,[115]=function(Y,Y,Y,Y)return function(Y)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,J,p)if U.Unloaded then else local U=checkcaller();if U then else local U=J=="WalkSpeed"and(e.Elements.WalkspeedT and e.Elements.WalkspeedT.Value);if U and e.Elements.WalkspeedS then p=e.Elements.WalkspeedS.Value;else local U=J=="JumpPower"and(e.Elements.JumpPowerT and e.Elements.JumpPowerT.Value);p=if U and e.Elements.JumpPowerS then e.Elements.JumpPowerS.Value else if J=="FieldOfView"then if e.Elements.FOVT then if e.Elements.FOVT.Value then if e.Elements.FOVS then e.Elements.FOVS.Value else p else p else p else p;end;end;end;local U=Z[6][Z[5]];return U(Y,J,p);end;end;end,[68]=bit32.band,[14]=(0),[121]=unpack,[4]=1.503004871E9,[15]=bit32.bor,[110]=pcall,lV=function(Y,U,e,Z,J,p,T,L,V)if V<=23 then if V<=22 then local Q=(T-128)*128+L;return 5,U+2,Q,L,J;else return 5,1+U,T,L,J;end;elseif V<=24 then local Q=(J-128)*16384;local f=e-128+128*p+Q;return 19,U+3,T,L,f;elseif V<=25 then local V,Q,f=Y[36](Z,3+U),(J-128)*16384,(e-128)*2097152;local e=(p-128)*128+(V%128+(V-V%128)*2097152+(f+Q));return 19,U+4,T,L,e;else local e=Y[36](Z,U+2);return e>=128 and 32 or 29,U,T,e,J;end;end,[48]=function(Y,Y,Y,Y,Y)return function(Y,U,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];local p=Y[5];local T=Y[6];local L=Y[7];return function(Y,...)local V={...};if not(U.Unloaded)then if not(checkcaller())then local U=getnamecallmethod();if U=="FireServer"then if Y.Name=="GarageEquipItem"then e.GarageSelection[V[1]]=V[2];else local e=Y.Name=="GarageLoadLastSelection"or Y.Name=="GarageSetUIOpen"and V[1]==false;if e then if Z.Elements.GarageUnlockAllT then if Z.Elements.GarageUnlockAllT.Value then task.delay(0,J);end;end;end;end;else local e=U=="Raycast"and debug.traceback():find("AlexChassis")and(Z.Elements.DriveOnWaterT and Z.Elements.DriveOnWaterT.Value);if e then V[3].IgnoreWater=false;elseif U=="FindPartOnRayWithIgnoreList"then if debug.traceback():find("CameraModule")then if p[6][p[5]].GetAttribute(p[6][p[5]],"InVehicle")then V[2][#V[2]+1]=T;end;end;end;end;end;end;local U=L[6][L[5]];return U(Y,unpack(V));end;end;end,[118]=next,h=function(Y,U,e,Z,J,p,T,L,V)if U<=88 then if U<=87 then local Q=Y[36](T,2+p);return 128>Q and 13 or 113,J,p,L,Q,Z;else local Q=128*(L-128)+e;return 98,J,2+p,Q,e,Z;end;elseif U<=89 then local Q=Y[36](T,p);return Q<128 and 111 or 82,J,p,L,e,Q;elseif U<=90 then return 35,J[5],p,L,e,Z;else local Y=V+128*(e-128);return 151,J,p+2,L,Y,Z;end;end,dV=function(Y,U,e,Z,J,p)if U<=13 then return 0,Y[104](e),Z;else local Y,U,e=J[4],J[1],J[5];local T,L=Y+U,U<=0;Y,U=T>=e,T<=e;e=L and Y or not L and U;J[4]=T;if e then return 30,p,T;else return 25,p,Z;end;end;end,oV=function(Y,U,e,Z)local J,p,T,L,V,Q,f,z=Y[83],Y[28],Y[26],4,U,Z,e;while true do if L<=3 then if L<=1 then if L<=0 then J(V,1);L=2;else L=p(V,"[%:](%d+)[:\13\10]")and 3 or 7;end;elseif L<=2 then return;else Z=Q[f];if Z then L,Q,f,z=6,J,"LPH:",Z;else L,Q,f=5,J,"LPH:";end;end;elseif L<=5 then if L<=4 then L=T(V)=="string"and 1 or 0;else L,z=6,"?";end;elseif L<=6 then Q(f..z..": "..V,0);L=2;else J(V,0);L=2;end;end;end,g=function(Y,U,e,Z,J,p,T,L,V,Q)if Q<=127 then local f=(U-128)*16384;local z=J-128+(V*128+f);return 2,107,L,e+3,z;elseif Q<=128 then local J=Y[36](T,Z+3);local Y,T,V,Q,f=(L-128)*16384,(e-128)*2097152,(p-128)*128,J%128,2097152*(J-J%128);return 2,138,V+(T+Q)+(f+Y),4+Z,U;else return 1;end;end,[72]=setmetatable,[17]=function(Y,Y,Y,Y)return function(Y,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,J,p)local T=checkcaller();p=if U.Unloaded then p else if T then p else if J=="FieldOfView"then if e.Elements.FOVT then if e.Elements.FOVT.Value then e.Elements.FOVS and e.Elements.FOVS.Value else p else p else p;T=Z[6][Z[5]];return T(Y,J,p);end;end;end,[29]=function(Y,Y,Y,Y)return function()return function(...)return HookCallback(...);end;end;end,[52]=buffer.writei16,YV=function(Y,U,e,Z,J,p,T,L)if J<=14 then if J<=13 then local V,Q,f=p[2],p[4],p[1];local z,r=V+Q,Q<=0;Q,V=z>=f,z<=f;f=r and Q or not r and V;p[2]=z;if f then return 1,7,z,Z,U;else return 1,6,T,Z,U;end;else return 2;end;elseif J<=15 then local p=e+(U-128)*128;return 1,19,2+T,Z,p;elseif J<=16 then local e=Y[36](L,T);return 1,e>=128 and 27 or 23,T,e,U;else return 1,19,1+T,Z,U;end;end,[56]=buffer.readi16,[120]=string.gmatch,[73]=function(Y,Y,Y,Y,Y)return function(Y,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];local p=Y[5];local T=Y[6];local L=Y[7];local V=Y[8];local Q=Y[9];return function()while true do if U[6][U[5]]then if e[6][e[5]]<Z[6][Z[5]]then e[6][e[5]]+=1;end;local Y=J[6][J[5]](e[6][e[5]]/5);L[6][L[5]]=p[T("P",30780822482938)]..p[T("\206",10650770187967)]:rep(Y)..p[T("\218",11767495764687)]:rep(20-Y)..p[T("\18 \11",17444542037878)]..e[6][e[5]]..p[T(" \207\135\147I",4720313110828)];end;V(0.03);if Q[6][Q[5]]then break;end;end;end;end;end,UV=function(Y,U,e,Z,J)if e<=4 then return 2,J[1],U;else local e=U-64111;local U=Y[57](e);Z[4]=U;local Y=1+0;return 9,{J,Y,1-Y,nil,e+0},U;end;end,[30]=function(Y,U,U,U,U,U)return function(U,e)local e=U[1];local Z=U[2];return function(U,J,p)local T,L=17;local V,Q,f,z,r,u,P,s,n,j,y,A=U,J,p;while true do U=nil;if T<=14 then if T<=6 then if T<=2 then if T<=0 then J=Y[36](n,f+3);T,u,f=9,(u-128)*16384+(P-128)*2097152+(s-128)*128+J%128+(J-J%128)*2097152,f+4;elseif T<=1 then U=(P*Q+s)%256;Y[45](n,u,(Y[34](Y[36](z,r+u),f,U)));T,Q=20,U;else p=L[1];V[5]=Y[104](V);local J,S,w=Y:xV(V,n);local c=Y[36](n,w);T,L,V,Q,f,u=c<128 and 3 or 6,p,J,S,w,c;end;elseif T<=4 then if T<=3 then T,f=9,f+1;else T,u,f=9,(u-128)*128+P,f+2;end;elseif T<=5 then T,P,f=7,(P-128)*128+s,f+2;else local J=Y[36](n,f+1);T,P=J<128 and 4 or 11,J;end;elseif T<=10 then if T<=8 then if T<=7 then local J,p=Y[36](n,f),f+1;Y[116](z,r+u,J,P);T=12;else T,u,f=9,(u-128)*16384+(P-128)+s*128,f+3;end;elseif T<=9 then local J=Y[36](n,f);T,P=J<128 and 10 or 13,J;else T,f=7,f+1;end;elseif T<=12 then if T<=11 then local J=Y[36](n,f+2);T,s=J<128 and 8 or 0,J;else return V,Q;end;elseif T<=13 then local J=Y[36](n,f+1);T,s=J<128 and 5 or 25,J;else local J=Y[36](z,r+3);T,u,r=16,(u-128)*16384+(P-128)*2097152+(s-128)*128+J%128+(J-J%128)*2097152,r+4;end;elseif T<=21 then if T<=17 then if T<=15 then T,r=16,r+1;elseif T<=16 then local J,p=93,105;U=(f+Q)%256;local S,w,c=Y[9](u),f*16843009,u-u%4;local F,X=c-1,4+0;local D=0-X;local C={F+0,D,X,L,nil};T,L,Q,P,s,n,j,y=29,C,U,J,p,S,w,c;else local J,p=V[4][Q],V[7];local V=J+1;J=Y[36](p,V);T,z,r,u=J<128 and 15 or 26,p,V,J;end;elseif T<=19 then if T<=18 then local J,p=u-1,1+0;local V={L,y-p,nil,p,J+0};T,L=20,V;else T,u,r=16,(u-128)*128+P,r+2;end;elseif T<=20 then local J,p,V=L[2],L[4],L[5];local y,S=J+p,p<=0;J,p=y>=V,y<=V;V=S and J or not S and p;L[2]=y;if V then T,u=1,y;else T=2;end;else T,P,f=7,(P-128)*16384+(s-128)+j*128,f+3;end;elseif T<=25 then if T<=23 then if T<=22 then local J=Y[36](z,r+2);T,s=J<128 and 28 or 14,J;else local J,p,V=Y[10],Y[3](z,r+A),e[6][e[5]][Q];J(n,A,(Y[34](p,V,j)));U=Z[6][Z[5]][Q];T,Q=29,U;end;elseif T<=24 then local U=Y[36](n,f+3);T,P,f=7,(P-128)*16384+(s-128)*2097152+(j-128)*128+U%128+(U-U%128)*2097152,f+4;else local U=Y[36](n,f+2);T,j=U<128 and 21 or 24,U;end;elseif T<=27 then if T<=26 then local U=Y[36](z,r+1);T,P=U<128 and 19 or 22,U;else local Y=L[4];T,L=18,Y;end;elseif T<=28 then T,u,r=16,(u-128)*16384+(P-128)+s*128,r+3;else local Y,U,e=L[2],L[3],L[1];local Z,J=Y+U,U<=0;Y,U=Z>=e,Z<=e;e=J and Y or not J and U;L[2]=Z;if e then T,A=23,Z;else T=27;end;end;end;end;end;end,[59]=tostring,[40]=bit32.lshift,[47]=getfenv,[80]=Rect.new,[4720]=function(Y,U,e,Z,J,p,T,L,V,Q,f,z,r,u,u,u,P,P)local P,s,n,j,y,A,S,w,c,F,X,D,C,x,M,N,k,G,v=Y[57],Y[103],Y[68],Y[34],Y[40],Y[121],Y[118],Y[112],Y[125],Y[36],Y[10],Y[3],Y[45],Y[58],Y[15],Y[38],Y.MV,Y[16],Y._V;return function(W)local d,H,t,a,o,_,i,R,m,I,E,l,K,g,h,b,O,q,B=P,s,n,j,y,A,S,w,c,F,X,D,C,x,M,N,k,G,v;return function(...)local P,s,n,j,y,A,S,w,c,F,X,D,C,x,M,N;local k,G,v=f[1],f[2],d(p);local p,f;if U==36 then p,f=T,U;while true do
 local Yt,Ut=L[p];
+__handled=false;
 if p <= 453 then
   if p <= 52 then
     if p <= 20 then
@@ -29,29 +30,33 @@ if p <= 453 then
             if p <= 1 then
               if p==1 then
                 if Yt==3 then
+                  __handled=true;
                   P,N={...},z[p]; R(P,1,Z[p],N,v);
-                else error("UNLIFTED m1 pc1 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==2 then
                 if Yt==20 then
+                  __handled=true;
                   if j then for b in i,j,nil do local et=j[b];if et then et[6]=et;et[4]=v[b];et[5]=4;j[b]=nil;end;end;end; if S then for b,et in i,S,nil do local Zt=et[4];if S then et=S[b];if et then local Jt,pt=b+Zt,d(Zt);R(v,b,Jt-1,1,pt);et[6]=pt;et[5]=1;S[b]=nil;end;end;end;end; return;
-                else error("UNLIFTED m1 pc2 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 5 then
               if p==5 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc5 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==6 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc6 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -59,38 +64,44 @@ if p <= 453 then
             if p <= 7 then
               if p==7 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc7 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==8 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc8 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 9 then
               if p==9 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc9 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 10 then
                 if p==10 then
                   if Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc10 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==11 then
                   if Yt==108 then
+                    __handled=true;
                     local b; N,P=e[p],Z[p]+1; for b=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);z[P]=a(z[P],(t(H(N,0),127)));Z[P]=a(Z[P],(t(H(N,7),127)));e[P]=a(e[P],(t(H(N,14),127)));L[P]=a(L[P],(t(H(N,21),127)));P=P+1;end; L[p]=156;
                   elseif Yt==156 then
+                    __handled=true;
                     local b;
-                  else error("UNLIFTED m1 pc11 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -101,35 +112,42 @@ if p <= 453 then
             if p <= 12 then
               if p==12 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc12 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13 then
                 if Yt==26 then
+                  __handled=true;
                   p=e[p];
                 elseif Yt==62 then
+                  __handled=true;
                   P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                 elseif Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 14 then
               if p==14 then
                 if Yt==66 then
+                  __handled=true;
                   p=v[z[p]];
                 elseif Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc14 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==15 then
                 if Yt==73 then
+                  __handled=true;
                   local et,Zt,Jt=z[p],a(Z[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; z[p]=253; Z[p]=197; e[p]=22; L[p]=156;
-                else error("UNLIFTED m1 pc15 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -137,38 +155,44 @@ if p <= 453 then
             if p <= 16 then
               if p==16 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc16 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==17 then
                 if Yt==62 then
+                  __handled=true;
                   P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                 elseif Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc17 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 18 then
               if p==18 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc18 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 19 then
                 if p==19 then
                   if Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc19 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==20 then
                   if Yt==90 then
+                    __handled=true;
                     N,P=(a(Z[p],(t(a(k,(t(H(k,29),7))),536870911)))),z[p]+1; for et=1,e[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);z[P]=a(z[P],(t(H(N,0),127)));Z[P]=a(Z[P],(t(H(N,7),127)));e[P]=a(e[P],(t(H(N,14),127)));L[P]=a(L[P],(t(H(N,21),127)));P=P+1;end; L[p]=156;
-                  else error("UNLIFTED m1 pc20 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -181,29 +205,33 @@ if p <= 453 then
             if p <= 21 then
               if p==21 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc21 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==22 then
                 if Yt==26 then
+                  __handled=true;
                   p=e[p];
-                else error("UNLIFTED m1 pc22 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 29 then
               if p==29 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc29 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==30 then
                 if Yt==26 then
+                  __handled=true;
                   p=e[p];
-                else error("UNLIFTED m1 pc30 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -211,36 +239,41 @@ if p <= 453 then
             if p <= 36 then
               if p==36 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc36 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==37 then
                 if Yt==26 then
+                  __handled=true;
                   p=e[p];
-                else error("UNLIFTED m1 pc37 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 40 then
               if p==40 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc40 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 41 then
                 if p==41 then
                   if Yt==142 then
+                    __handled=true;
                     local b; p=if v[e[p]]<=Z[p]then p else z[p];
-                  else error("UNLIFTED m1 pc41 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==42 then
                   if Yt==26 then
+                    __handled=true;
                     p=e[p];
-                  else error("UNLIFTED m1 pc42 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -251,29 +284,33 @@ if p <= 453 then
             if p <= 43 then
               if p==43 then
                 if Yt==108 then
+                  __handled=true;
                   local b; N,P=e[p],Z[p]+1; for b=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);z[P]=a(z[P],(t(H(N,0),127)));Z[P]=a(Z[P],(t(H(N,7),127)));e[P]=a(e[P],(t(H(N,14),127)));L[P]=a(L[P],(t(H(N,21),127)));P=P+1;end; L[p]=156;
-                else error("UNLIFTED m1 pc43 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==44 then
                 if Yt==184 then
+                  __handled=true;
                   local b; Ut=P; local et=p; f=z[et]; p,P=Z[et]+1,Ut; break;
-                else error("UNLIFTED m1 pc44 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 45 then
               if p==45 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc45 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==46 then
                 if Yt==71 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],e[p],Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; Z[p]=40; e[p]=128; z[p]=189; L[p]=156;
-                else error("UNLIFTED m1 pc46 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -281,36 +318,41 @@ if p <= 453 then
             if p <= 47 then
               if p==47 then
                 if Yt==142 then
+                  __handled=true;
                   local b; p=if v[e[p]]<=Z[p]then p else z[p];
-                else error("UNLIFTED m1 pc47 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==49 then
                 if Yt==108 then
+                  __handled=true;
                   local b; N,P=e[p],Z[p]+1; for b=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);z[P]=a(z[P],(t(H(N,0),127)));Z[P]=a(Z[P],(t(H(N,7),127)));e[P]=a(e[P],(t(H(N,14),127)));L[P]=a(L[P],(t(H(N,21),127)));P=P+1;end; L[p]=156;
-                else error("UNLIFTED m1 pc49 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 50 then
               if p==50 then
                 if Yt==108 then
+                  __handled=true;
                   local b; N,P=e[p],Z[p]+1; for b=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);z[P]=a(z[P],(t(H(N,0),127)));Z[P]=a(Z[P],(t(H(N,7),127)));e[P]=a(e[P],(t(H(N,14),127)));L[P]=a(L[P],(t(H(N,21),127)));P=P+1;end; L[p]=156;
-                else error("UNLIFTED m1 pc50 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 51 then
                 if p==51 then
                   if Yt==142 then
+                    __handled=true;
                     local b; p=if v[e[p]]<=Z[p]then p else z[p];
-                  else error("UNLIFTED m1 pc51 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==52 then
                   if Yt==26 then
+                    __handled=true;
                     p=e[p];
-                  else error("UNLIFTED m1 pc52 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -325,29 +367,33 @@ if p <= 453 then
             if p <= 54 then
               if p==54 then
                 if Yt==66 then
+                  __handled=true;
                   p=v[z[p]];
-                else error("UNLIFTED m1 pc54 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==68 then
                 if Yt==38 then
+                  __handled=true;
                   local b,et,Zt=z[p],a(Z[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Jt=a(Zt[b],355920250); Zt[b]=Jt; Zt,b=Q[7],Jt+1; Jt=I(Zt,b); local pt,Tt; if Jt<128 then pt,Tt=Jt,b+1;else local Lt=I(Zt,b+1);if Lt<128 then pt,Tt=(Jt-128)*128+Lt,b+2;else local Vt=I(Zt,b+2);if Vt<128 then pt,Tt=(Jt-128)*16384+(Lt-128)+Vt*128,b+3;else local Qt=I(Zt,b+3);pt,Tt=(Jt-128)*16384+(Lt-128)*2097152+(Vt-128)*128+Qt%128+(Qt-Qt%128)*2097152,b+4;end;end;end; Jt,b=et*16843009,Tt+pt; local Lt=b-pt%4; for pt=Tt,Lt-1,4 do E(Zt,pt,(a(l(Zt,pt),Jt)));end; for Jt=Lt,b-1,1 do K(Zt,Jt,(a(I(Zt,Jt),et)));end; z[p]=56; Z[p]=227; e[p]=167; L[p]=156;
-                else error("UNLIFTED m1 pc68 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 69 then
               if p==69 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc69 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==70 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc70 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -355,36 +401,41 @@ if p <= 453 then
             if p <= 71 then
               if p==71 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc71 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==72 then
                 if Yt==38 then
+                  __handled=true;
                   local b,et,Zt=z[p],a(Z[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Jt=a(Zt[b],355920250); Zt[b]=Jt; Zt,b=Q[7],Jt+1; Jt=I(Zt,b); local pt,Tt; if Jt<128 then pt,Tt=Jt,b+1;else local Lt=I(Zt,b+1);if Lt<128 then pt,Tt=(Jt-128)*128+Lt,b+2;else local Vt=I(Zt,b+2);if Vt<128 then pt,Tt=(Jt-128)*16384+(Lt-128)+Vt*128,b+3;else local Qt=I(Zt,b+3);pt,Tt=(Jt-128)*16384+(Lt-128)*2097152+(Vt-128)*128+Qt%128+(Qt-Qt%128)*2097152,b+4;end;end;end; Jt,b=et*16843009,Tt+pt; local Lt=b-pt%4; for pt=Tt,Lt-1,4 do E(Zt,pt,(a(l(Zt,pt),Jt)));end; for Jt=Lt,b-1,1 do K(Zt,Jt,(a(I(Zt,Jt),et)));end; z[p]=56; Z[p]=227; e[p]=167; L[p]=156;
-                else error("UNLIFTED m1 pc72 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 73 then
               if p==73 then
                 if Yt==38 then
+                  __handled=true;
                   local b,et,Zt=z[p],a(Z[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Jt=a(Zt[b],355920250); Zt[b]=Jt; Zt,b=Q[7],Jt+1; Jt=I(Zt,b); local pt,Tt; if Jt<128 then pt,Tt=Jt,b+1;else local Lt=I(Zt,b+1);if Lt<128 then pt,Tt=(Jt-128)*128+Lt,b+2;else local Vt=I(Zt,b+2);if Vt<128 then pt,Tt=(Jt-128)*16384+(Lt-128)+Vt*128,b+3;else local Qt=I(Zt,b+3);pt,Tt=(Jt-128)*16384+(Lt-128)*2097152+(Vt-128)*128+Qt%128+(Qt-Qt%128)*2097152,b+4;end;end;end; Jt,b=et*16843009,Tt+pt; local Lt=b-pt%4; for pt=Tt,Lt-1,4 do E(Zt,pt,(a(l(Zt,pt),Jt)));end; for Jt=Lt,b-1,1 do K(Zt,Jt,(a(I(Zt,Jt),et)));end; z[p]=56; Z[p]=227; e[p]=167; L[p]=156;
-                else error("UNLIFTED m1 pc73 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 74 then
                 if p==74 then
                   if Yt==38 then
+                    __handled=true;
                     local b,et,Zt=z[p],a(Z[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Jt=a(Zt[b],355920250); Zt[b]=Jt; Zt,b=Q[7],Jt+1; Jt=I(Zt,b); local pt,Tt; if Jt<128 then pt,Tt=Jt,b+1;else local Lt=I(Zt,b+1);if Lt<128 then pt,Tt=(Jt-128)*128+Lt,b+2;else local Vt=I(Zt,b+2);if Vt<128 then pt,Tt=(Jt-128)*16384+(Lt-128)+Vt*128,b+3;else local Qt=I(Zt,b+3);pt,Tt=(Jt-128)*16384+(Lt-128)*2097152+(Vt-128)*128+Qt%128+(Qt-Qt%128)*2097152,b+4;end;end;end; Jt,b=et*16843009,Tt+pt; local Lt=b-pt%4; for pt=Tt,Lt-1,4 do E(Zt,pt,(a(l(Zt,pt),Jt)));end; for Jt=Lt,b-1,1 do K(Zt,Jt,(a(I(Zt,Jt),et)));end; z[p]=56; Z[p]=227; e[p]=167; L[p]=156;
-                  else error("UNLIFTED m1 pc74 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==75 then
                   if Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc75 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -395,31 +446,36 @@ if p <= 453 then
             if p <= 76 then
               if p==76 then
                 if Yt==38 then
+                  __handled=true;
                   local b,et,Zt=z[p],a(Z[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Jt=a(Zt[b],355920250); Zt[b]=Jt; Zt,b=Q[7],Jt+1; Jt=I(Zt,b); local pt,Tt; if Jt<128 then pt,Tt=Jt,b+1;else local Lt=I(Zt,b+1);if Lt<128 then pt,Tt=(Jt-128)*128+Lt,b+2;else local Vt=I(Zt,b+2);if Vt<128 then pt,Tt=(Jt-128)*16384+(Lt-128)+Vt*128,b+3;else local Qt=I(Zt,b+3);pt,Tt=(Jt-128)*16384+(Lt-128)*2097152+(Vt-128)*128+Qt%128+(Qt-Qt%128)*2097152,b+4;end;end;end; Jt,b=et*16843009,Tt+pt; local Lt=b-pt%4; for pt=Tt,Lt-1,4 do E(Zt,pt,(a(l(Zt,pt),Jt)));end; for Jt=Lt,b-1,1 do K(Zt,Jt,(a(I(Zt,Jt),et)));end; z[p]=56; Z[p]=227; e[p]=167; L[p]=156;
-                else error("UNLIFTED m1 pc76 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==77 then
                 if Yt==73 then
+                  __handled=true;
                   local et,Zt,Jt=z[p],a(Z[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; z[p]=253; Z[p]=197; e[p]=22; L[p]=156;
-                else error("UNLIFTED m1 pc77 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 78 then
               if p==78 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc78 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==79 then
                 if Yt==62 then
+                  __handled=true;
                   P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                 elseif Yt==184 then
+                  __handled=true;
                   local b; Ut=P; local et=p; f=z[et]; p,P=Z[et]+1,Ut; break;
-                else error("UNLIFTED m1 pc79 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -427,36 +483,41 @@ if p <= 453 then
             if p <= 121 then
               if p==121 then
                 if Yt==184 then
+                  __handled=true;
                   local b; Ut=P; local et=p; f=z[et]; p,P=Z[et]+1,Ut; break;
-                else error("UNLIFTED m1 pc121 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==135 then
                 if Yt==3 then
+                  __handled=true;
                   P,N={...},z[p]; R(P,1,Z[p],N,v);
-                else error("UNLIFTED m1 pc135 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 136 then
               if p==136 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc136 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 137 then
                 if p==137 then
                   if Yt==132 then
+                    __handled=true;
                     local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                  else error("UNLIFTED m1 pc137 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==138 then
                   if Yt==142 then
+                    __handled=true;
                     local b; p=if v[e[p]]<=Z[p]then p else z[p];
-                  else error("UNLIFTED m1 pc138 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -469,31 +530,36 @@ if p <= 453 then
             if p <= 193 then
               if p==193 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc193 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==194 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc194 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 195 then
               if p==195 then
                 if Yt==71 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],e[p],Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; Z[p]=40; e[p]=128; z[p]=189; L[p]=156;
                 elseif Yt==156 then
+                  __handled=true;
                   local b;
-                else error("UNLIFTED m1 pc195 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==196 then
                 if Yt==142 then
+                  __handled=true;
                   local b; p=if v[e[p]]<=Z[p]then p else z[p];
-                else error("UNLIFTED m1 pc196 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -501,36 +567,41 @@ if p <= 453 then
             if p <= 197 then
               if p==197 then
                 if Yt==26 then
+                  __handled=true;
                   p=e[p];
-                else error("UNLIFTED m1 pc197 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==233 then
                 if Yt==184 then
+                  __handled=true;
                   local b; Ut=P; local et=p; f=z[et]; p,P=Z[et]+1,Ut; break;
-                else error("UNLIFTED m1 pc233 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 270 then
               if p==270 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc270 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 271 then
                 if p==271 then
                   if Yt==26 then
+                    __handled=true;
                     p=e[p];
-                  else error("UNLIFTED m1 pc271 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==402 then
                   if Yt==132 then
+                    __handled=true;
                     local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                  else error("UNLIFTED m1 pc402 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -541,36 +612,41 @@ if p <= 453 then
             if p <= 403 then
               if p==403 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc403 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==404 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc404 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 405 then
               if p==405 then
                 if Yt==71 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],e[p],Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; Z[p]=40; e[p]=128; z[p]=189; L[p]=156;
-                else error("UNLIFTED m1 pc405 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 406 then
                 if p==406 then
                   if Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc406 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==407 then
                   if Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc407 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -579,36 +655,41 @@ if p <= 453 then
             if p <= 408 then
               if p==408 then
                 if Yt==71 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],e[p],Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; Z[p]=40; e[p]=128; z[p]=189; L[p]=156;
-                else error("UNLIFTED m1 pc408 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==409 then
                 if Yt==71 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],e[p],Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; Z[p]=40; e[p]=128; z[p]=189; L[p]=156;
-                else error("UNLIFTED m1 pc409 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 410 then
               if p==410 then
                 if Yt==184 then
+                  __handled=true;
                   local b; Ut=P; local et=p; f=z[et]; p,P=Z[et]+1,Ut; break;
-                else error("UNLIFTED m1 pc410 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 452 then
                 if p==452 then
                   if Yt==3 then
+                    __handled=true;
                     P,N={...},z[p]; R(P,1,Z[p],N,v);
-                  else error("UNLIFTED m1 pc452 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==453 then
                   if Yt==1 then
+                    __handled=true;
                     v[z[p]]=Z[p];
-                  else error("UNLIFTED m1 pc453 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -625,29 +706,33 @@ else
             if p <= 454 then
               if p==454 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc454 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==455 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc455 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 456 then
               if p==456 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc456 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==457 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc457 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -655,38 +740,44 @@ else
             if p <= 458 then
               if p==458 then
                 if Yt==71 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],e[p],Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; Z[p]=40; e[p]=128; z[p]=189; L[p]=156;
-                else error("UNLIFTED m1 pc458 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==459 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc459 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 460 then
               if p==460 then
                 if Yt==26 then
+                  __handled=true;
                   p=e[p];
-                else error("UNLIFTED m1 pc460 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 483 then
                 if p==483 then
                   if Yt==66 then
+                    __handled=true;
                     p=v[z[p]];
-                  else error("UNLIFTED m1 pc483 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==555 then
                   if Yt==62 then
+                    __handled=true;
                     P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                   elseif Yt==132 then
+                    __handled=true;
                     local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                  else error("UNLIFTED m1 pc555 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -697,29 +788,33 @@ else
             if p <= 556 then
               if p==556 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc556 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==557 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc557 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 558 then
               if p==558 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc558 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==559 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc559 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -727,38 +822,44 @@ else
             if p <= 560 then
               if p==560 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc560 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==561 then
                 if Yt==142 then
+                  __handled=true;
                   local b; p=if v[e[p]]<=Z[p]then p else z[p];
-                else error("UNLIFTED m1 pc561 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 683 then
               if p==683 then
                 if Yt==3 then
+                  __handled=true;
                   P,N={...},z[p]; R(P,1,Z[p],N,v);
-                else error("UNLIFTED m1 pc683 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 684 then
                 if p==684 then
                   if Yt==1 then
+                    __handled=true;
                     v[z[p]]=Z[p];
-                  else error("UNLIFTED m1 pc684 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==685 then
                   if Yt==62 then
+                    __handled=true;
                     P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                   elseif Yt==132 then
+                    __handled=true;
                     local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                  else error("UNLIFTED m1 pc685 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -771,31 +872,36 @@ else
             if p <= 686 then
               if p==686 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc686 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==687 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc687 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 688 then
               if p==688 then
                 if Yt==26 then
+                  __handled=true;
                   p=e[p];
-                else error("UNLIFTED m1 pc688 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==725 then
                 if Yt==62 then
+                  __handled=true;
                   P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                 elseif Yt==184 then
+                  __handled=true;
                   local b; Ut=P; local et=p; f=z[et]; p,P=Z[et]+1,Ut; break;
-                else error("UNLIFTED m1 pc725 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -803,36 +909,41 @@ else
             if p <= 755 then
               if p==755 then
                 if Yt==66 then
+                  __handled=true;
                   p=v[z[p]];
-                else error("UNLIFTED m1 pc755 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13788 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13788 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13789 then
               if p==13789 then
                 if Yt==73 then
+                  __handled=true;
                   local et,Zt,Jt=z[p],a(Z[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; z[p]=253; Z[p]=197; e[p]=22; L[p]=156;
-                else error("UNLIFTED m1 pc13789 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 13790 then
                 if p==13790 then
                   if Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc13790 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==13791 then
                   if Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc13791 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -843,38 +954,44 @@ else
             if p <= 13792 then
               if p==13792 then
                 if Yt==73 then
+                  __handled=true;
                   local et,Zt,Jt=z[p],a(Z[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; z[p]=253; Z[p]=197; e[p]=22; L[p]=156;
-                else error("UNLIFTED m1 pc13792 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13793 then
                 if Yt==73 then
+                  __handled=true;
                   local et,Zt,Jt=z[p],a(Z[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; z[p]=253; Z[p]=197; e[p]=22; L[p]=156;
-                else error("UNLIFTED m1 pc13793 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13794 then
               if p==13794 then
                 if Yt==62 then
+                  __handled=true;
                   P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                 elseif Yt==150 then
+                  __handled=true;
                   local b; P,N=Z[p],e[p]; D={n=N-P+1}; R(v,P,N,1,D); v[z[p]]=D;
-                else error("UNLIFTED m1 pc13794 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 13795 then
                 if p==13795 then
                   if Yt==1 then
+                    __handled=true;
                     v[z[p]]=Z[p];
-                  else error("UNLIFTED m1 pc13795 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==13796 then
                   if Yt==1 then
+                    __handled=true;
                     v[z[p]]=Z[p];
-                  else error("UNLIFTED m1 pc13796 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -883,38 +1000,44 @@ else
             if p <= 13797 then
               if p==13797 then
                 if Yt==26 then
+                  __handled=true;
                   p=e[p];
-                else error("UNLIFTED m1 pc13797 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13814 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13814 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13815 then
               if p==13815 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13815 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 13816 then
                 if p==13816 then
                   if Yt==62 then
+                    __handled=true;
                     P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                   elseif Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc13816 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==13817 then
                   if Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc13817 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -929,29 +1052,33 @@ else
             if p <= 13818 then
               if p==13818 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13818 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13819 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13819 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13820 then
               if p==13820 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc13820 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13821 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc13821 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -959,40 +1086,47 @@ else
             if p <= 13822 then
               if p==13822 then
                 if Yt==26 then
+                  __handled=true;
                   p=e[p];
-                else error("UNLIFTED m1 pc13822 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13823 then
                 if Yt==62 then
+                  __handled=true;
                   P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                 elseif Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13823 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13824 then
               if p==13824 then
                 if Yt==73 then
+                  __handled=true;
                   local et,Zt,Jt=z[p],a(Z[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; z[p]=253; Z[p]=197; e[p]=22; L[p]=156;
-                else error("UNLIFTED m1 pc13824 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 13825 then
                 if p==13825 then
                   if Yt==62 then
+                    __handled=true;
                     P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                   elseif Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc13825 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==13826 then
                   if Yt==38 then
+                    __handled=true;
                     local b,et,Zt=z[p],a(Z[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Jt=a(Zt[b],355920250); Zt[b]=Jt; Zt,b=Q[7],Jt+1; Jt=I(Zt,b); local pt,Tt; if Jt<128 then pt,Tt=Jt,b+1;else local Lt=I(Zt,b+1);if Lt<128 then pt,Tt=(Jt-128)*128+Lt,b+2;else local Vt=I(Zt,b+2);if Vt<128 then pt,Tt=(Jt-128)*16384+(Lt-128)+Vt*128,b+3;else local Qt=I(Zt,b+3);pt,Tt=(Jt-128)*16384+(Lt-128)*2097152+(Vt-128)*128+Qt%128+(Qt-Qt%128)*2097152,b+4;end;end;end; Jt,b=et*16843009,Tt+pt; local Lt=b-pt%4; for pt=Tt,Lt-1,4 do E(Zt,pt,(a(l(Zt,pt),Jt)));end; for Jt=Lt,b-1,1 do K(Zt,Jt,(a(I(Zt,Jt),et)));end; z[p]=56; Z[p]=227; e[p]=167; L[p]=156;
-                  else error("UNLIFTED m1 pc13826 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -1003,29 +1137,33 @@ else
             if p <= 13827 then
               if p==13827 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13827 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13828 then
                 if Yt==73 then
+                  __handled=true;
                   local et,Zt,Jt=z[p],a(Z[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; z[p]=253; Z[p]=197; e[p]=22; L[p]=156;
-                else error("UNLIFTED m1 pc13828 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13829 then
               if p==13829 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc13829 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13830 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc13830 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -1033,36 +1171,41 @@ else
             if p <= 13831 then
               if p==13831 then
                 if Yt==38 then
+                  __handled=true;
                   local b,et,Zt=z[p],a(Z[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Jt=a(Zt[b],355920250); Zt[b]=Jt; Zt,b=Q[7],Jt+1; Jt=I(Zt,b); local pt,Tt; if Jt<128 then pt,Tt=Jt,b+1;else local Lt=I(Zt,b+1);if Lt<128 then pt,Tt=(Jt-128)*128+Lt,b+2;else local Vt=I(Zt,b+2);if Vt<128 then pt,Tt=(Jt-128)*16384+(Lt-128)+Vt*128,b+3;else local Qt=I(Zt,b+3);pt,Tt=(Jt-128)*16384+(Lt-128)*2097152+(Vt-128)*128+Qt%128+(Qt-Qt%128)*2097152,b+4;end;end;end; Jt,b=et*16843009,Tt+pt; local Lt=b-pt%4; for pt=Tt,Lt-1,4 do E(Zt,pt,(a(l(Zt,pt),Jt)));end; for Jt=Lt,b-1,1 do K(Zt,Jt,(a(I(Zt,Jt),et)));end; z[p]=56; Z[p]=227; e[p]=167; L[p]=156;
-                else error("UNLIFTED m1 pc13831 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13832 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc13832 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13833 then
               if p==13833 then
                 if Yt==26 then
+                  __handled=true;
                   p=e[p];
-                else error("UNLIFTED m1 pc13833 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 13834 then
                 if p==13834 then
                   if Yt==132 then
+                    __handled=true;
                     local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                  else error("UNLIFTED m1 pc13834 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==13835 then
                   if Yt==189 then
+                    __handled=true;
                     local b; Ut=P; v[Z[p]]=v[z[p]];
-                  else error("UNLIFTED m1 pc13835 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -1075,29 +1218,33 @@ else
             if p <= 13836 then
               if p==13836 then
                 if Yt==38 then
+                  __handled=true;
                   local b,et,Zt=z[p],a(Z[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Jt=a(Zt[b],355920250); Zt[b]=Jt; Zt,b=Q[7],Jt+1; Jt=I(Zt,b); local pt,Tt; if Jt<128 then pt,Tt=Jt,b+1;else local Lt=I(Zt,b+1);if Lt<128 then pt,Tt=(Jt-128)*128+Lt,b+2;else local Vt=I(Zt,b+2);if Vt<128 then pt,Tt=(Jt-128)*16384+(Lt-128)+Vt*128,b+3;else local Qt=I(Zt,b+3);pt,Tt=(Jt-128)*16384+(Lt-128)*2097152+(Vt-128)*128+Qt%128+(Qt-Qt%128)*2097152,b+4;end;end;end; Jt,b=et*16843009,Tt+pt; local Lt=b-pt%4; for pt=Tt,Lt-1,4 do E(Zt,pt,(a(l(Zt,pt),Jt)));end; for Jt=Lt,b-1,1 do K(Zt,Jt,(a(I(Zt,Jt),et)));end; z[p]=56; Z[p]=227; e[p]=167; L[p]=156;
-                else error("UNLIFTED m1 pc13836 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13837 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc13837 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13838 then
               if p==13838 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13838 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13839 then
                 if Yt==73 then
+                  __handled=true;
                   local et,Zt,Jt=z[p],a(Z[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; z[p]=253; Z[p]=197; e[p]=22; L[p]=156;
-                else error("UNLIFTED m1 pc13839 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
@@ -1105,38 +1252,44 @@ else
             if p <= 13840 then
               if p==13840 then
                 if Yt==62 then
+                  __handled=true;
                   P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                 elseif Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13840 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13841 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc13841 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13842 then
               if p==13842 then
                 if Yt==146 then
+                  __handled=true;
                   local b; N,P=(a(Z[p],(t(a(G,(t(H(G,29),7))),536870911)))),z[p]+1; for Ut=1,e[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);z[P]=a(z[P],(t(H(N,0),127)));Z[P]=a(Z[P],(t(H(N,7),127)));e[P]=a(e[P],(t(H(N,14),127)));L[P]=a(L[P],(t(H(N,21),127)));P=P+1;end; L[p]=156;
-                else error("UNLIFTED m1 pc13842 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 13843 then
                 if p==13843 then
                   if Yt==1 then
+                    __handled=true;
                     v[z[p]]=Z[p];
-                  else error("UNLIFTED m1 pc13843 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==13844 then
                   if Yt==26 then
+                    __handled=true;
                     p=e[p];
-                  else error("UNLIFTED m1 pc13844 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -1147,38 +1300,44 @@ else
             if p <= 13845 then
               if p==13845 then
                 if Yt==16 then
+                  __handled=true;
                   P,N,D=z[p],{...},Z[p]; R(N,1,P-1,D,v); v[D+P-1]=m(b(P,...));
-                else error("UNLIFTED m1 pc13845 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13846 then
                 if Yt==38 then
+                  __handled=true;
                   local b,et,Zt=z[p],a(Z[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Jt=a(Zt[b],355920250); Zt[b]=Jt; Zt,b=Q[7],Jt+1; Jt=I(Zt,b); local pt,Tt; if Jt<128 then pt,Tt=Jt,b+1;else local Lt=I(Zt,b+1);if Lt<128 then pt,Tt=(Jt-128)*128+Lt,b+2;else local Vt=I(Zt,b+2);if Vt<128 then pt,Tt=(Jt-128)*16384+(Lt-128)+Vt*128,b+3;else local Qt=I(Zt,b+3);pt,Tt=(Jt-128)*16384+(Lt-128)*2097152+(Vt-128)*128+Qt%128+(Qt-Qt%128)*2097152,b+4;end;end;end; Jt,b=et*16843009,Tt+pt; local Lt=b-pt%4; for pt=Tt,Lt-1,4 do E(Zt,pt,(a(l(Zt,pt),Jt)));end; for Jt=Lt,b-1,1 do K(Zt,Jt,(a(I(Zt,Jt),et)));end; z[p]=56; Z[p]=227; e[p]=167; L[p]=156;
-                else error("UNLIFTED m1 pc13846 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13847 then
               if p==13847 then
                 if Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc13847 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 13848 then
                 if p==13848 then
                   if Yt==73 then
+                    __handled=true;
                     local et,Zt,Jt=z[p],a(Z[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; pt,et=Zt*16843009,Lt+Tt; local Vt=et-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end; for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end; z[p]=253; Z[p]=197; e[p]=22; L[p]=156;
-                  else error("UNLIFTED m1 pc13848 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==13849 then
                   if Yt==62 then
+                    __handled=true;
                     P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                   elseif Yt==132 then
+                    __handled=true;
                     local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                  else error("UNLIFTED m1 pc13849 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -1187,38 +1346,44 @@ else
             if p <= 13850 then
               if p==13850 then
                 if Yt==62 then
+                  __handled=true;
                   P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))); n=N<2097152 and 7 or 14; M,w=H(N,n),t(N,o(1,n)-1); z[p]=a(D,82,(t(c,127))); e[p]=a(w,62,(t(H(c,14),127))); Z[p]=a(P,53,(t(H(c,7),127))); L[p]=a(M,116,(t(H(c,21),127))); p=p-1;
                 elseif Yt==132 then
+                  __handled=true;
                   local b; P=z[p]; v[P],v[P+1]=v[e[p]],v[Z[p]];
-                else error("UNLIFTED m1 pc13850 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13851 then
                 if Yt==189 then
+                  __handled=true;
                   local b; Ut=P; v[Z[p]]=v[z[p]];
-                else error("UNLIFTED m1 pc13851 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             end
           else
             if p <= 13852 then
               if p==13852 then
                 if Yt==1 then
+                  __handled=true;
                   v[z[p]]=Z[p];
-                else error("UNLIFTED m1 pc13852 op="..tostring(Yt)) end
-              else error("UNLIFTED m1 pc="..tostring(p)) end
+                end
+              end
             else
               if p <= 13853 then
                 if p==13853 then
                   if Yt==26 then
+                    __handled=true;
                     p=e[p];
-                  else error("UNLIFTED m1 pc13853 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               else
                 if p==13855 then
                   if Yt==66 then
+                    __handled=true;
                     p=v[z[p]];
-                  else error("UNLIFTED m1 pc13855 op="..tostring(Yt)) end
-                else error("UNLIFTED m1 pc="..tostring(p)) end
+                  end
+                end
               end
             end
           end
@@ -1227,9 +1392,12 @@ else
     end
   end
 end
+if not __handled then if Yt<95 then if Yt>=47 then if Yt<71 then if Yt>=59 then if Yt<65 then if Yt>=62 then if Yt<63 then P,N,D,c=Z[p],e[p],z[p],a(G,t(H(G,14),262143),(t(H(G,28),15)));n=N<2097152 and 7 or 14;M,w=H(N,n),t(N,o(1,n)-1);z[p]=a(D,82,(t(c,127)));e[p]=a(w,62,(t(H(c,14),127)));Z[p]=a(P,53,(t(H(c,7),127)));L[p]=a(M,116,(t(H(c,21),127)));p=p-1;else if Yt~=64 then v[z[p]]=o(v[e[p]],Z[p]);else v[z[p]][u[p]]=J[p];end;end;else if Yt>=60 then if Yt==61 then v[e[p]](v[Z[p]],_(v[z[p]],1,v[z[p]].n));elseif j then local et=z[p];local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;Zt=Z[p];et=j[Zt];if et then et[6]=et;et[4]=v[Zt];et[5]=4;j[Zt]=nil;end;end;else P=z[p];v[P],v[P+1]=J[p],u[p];end;end;else if Yt>=68 then if Yt<69 then p=if v[Z[p]]<=v[z[p]]then p else e[p];else if Yt~=70 then v[z[p]](u[p]);else if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt-1,d(Jt);R(v,et,pt,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return V[p],v[e[p]],J[p];end;end;else if Yt<66 then v[e[p]]=Y[z[p]];else if Yt==67 then P,N,D,c=z[p],Z[p],a(G,t(H(G,14),262143),(t(H(G,28),15))),e[p];n=N<16384 and 7 or(N<2097152 and 14 or 21);M,w=t(N,o(1,n)-1),H(N,n);e[p]=a(c,61,(t(H(D,14),127)));L[p]=a(w,62,(t(H(D,21),127)));Z[p]=a(M,87,(t(H(D,7),127)));z[p]=a(P,108,(t(D,127)));p=p-1;else p=v[z[p]];end;end;end;end;else if Yt>=53 then if Yt>=56 then if Yt>=57 then if Yt==58 then v[z[p]]=v[Z[p]]-e[p];else W[e[p]][V[p]]=v[Z[p]];end;else v[e[p]]=t(v[Z[p]],v[z[p]]);end;elseif Yt>=54 then if Yt==55 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt-1,d(Jt);R(v,et,pt,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[z[p]](v[e[p]]);else v[z[p]]=v[e[p]]~=v[Z[p]];end;else v[e[p]]=v[Z[p]]>v[z[p]];end;else if Yt<50 then if Yt>=48 then if Yt~=49 then v[z[p]]=W[Z[p]][v[e[p]]];else v[Z[p]]=v[z[p]]>e[p];end;else v[e[p]]=G;end;else if Yt<51 then v[e[p]]=v[Z[p]][z[p]];else if Yt==52 then P,N,D=e[p],Z[p],z[p];c=P+N;v[P]=m(v[P](_(v,P+1,c)));else v[Z[p]]=v[z[p]]==v[e[p]];end;end;end;end;end;else if Yt<83 then if Yt>=77 then if Yt>=80 then if Yt<81 then v[e[p]]=v[z[p]]*J[p];elseif Yt~=82 then v[e[p]]=v[Z[p]]==z[p];else v[z[p]]={};end;else if Yt>=78 then if Yt==79 then v[e[p]](_(v[Z[p]],1,v[Z[p]].n));else p=if v[Z[p]]<z[p]then p else e[p];end;else if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt-1,d(Jt);R(v,et,pt,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[Z[p]],v[z[p]];end;end;else if Yt>=74 then if Yt<75 then P=e[p];v[P],v[P+1]=Z[p],z[p];else if Yt==76 then v[Z[p]]=v[e[p]]..V[p];else v[z[p]]=v[e[p]]/J[p];end;end;else if Yt<72 then local et,Zt,Jt=Z[p],e[p],Q[4];local pt=a(Jt[et],355920250);Jt[et]=pt;Jt,et=Q[7],pt+1;pt=I(Jt,et);local Tt,Lt;if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end;pt,et=Zt*16843009,Lt+Tt;local Vt=et-Tt%4;for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end;for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end;Z[p]=40;e[p]=128;z[p]=189;L[p]=156;else if Yt==73 then local et,Zt,Jt=z[p],a(Z[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4];local pt=a(Jt[et],355920250);Jt[et]=pt;Jt,et=Q[7],pt+1;pt=I(Jt,et);local Tt,Lt;if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end;pt,et=Zt*16843009,Lt+Tt;local Vt=et-Tt%4;for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),pt)));end;for pt=Vt,et-1,1 do K(Jt,pt,(a(I(Jt,pt),Zt)));end;z[p]=253;Z[p]=197;e[p]=22;L[p]=156;else P,N,D=Z[p],z[p],e[p];c,n=P+D-1,P+N;M=v[n];w=M.n;F=N+w-1;M.n=F;R(M,1,w,N,M);R(v,P+1,n-1,1,M);X=m(v[P](_(M,1,M.n)));R(X,1,D,P,v);end;end;end;end;else if Yt<89 then Ut=P;local et,Zt=N,D;if Yt>=86 then if Yt>=87 then if Yt==88 then P=z[p];D=P+Z[p];if j then for Jt in i,j,nil do local pt=j[Jt];if pt then pt[6]=pt;pt[4]=v[Jt];pt[5]=4;j[Jt]=nil;end;end;end;if S then for Jt,pt in i,S,nil do local Tt=pt[4];if S then pt=S[Jt];if pt then local Lt=d(Tt);R(v,Jt,Jt+Tt-1,1,Lt);pt[6]=Lt;pt[5]=1;S[Jt]=nil;end;end;end;end;return v[P](_(v,P+1,D));else v[e[p]],v[z[p]]=v[Z[p]]();end;else v[Z[p]][u[p]]=v[z[p]];end;elseif Yt>=84 then if Yt==85 then v[z[p]]=v[e[p]][J[p]];else if j then for Jt in i,j,nil do local pt=j[Jt];if pt then pt[6]=pt;pt[4]=v[Jt];pt[5]=4;j[Jt]=nil;end;end;end;if S then for Jt,pt in i,S,nil do local Tt=pt[4];if S then pt=S[Jt];if pt then local Lt,Vt=Jt+Tt-1,d(Tt);R(v,Jt,Lt,1,Vt);pt[6]=Vt;pt[5]=1;S[Jt]=nil;end;end;end;end;return v[z[p]](v[Z[p]],_(v[e[p]],1,v[e[p]].n));end;else local Jt,pt,Tt=e[p],V[p],v[Z[p]];local Lt,Vt=t(pt,4294967295),t(Tt,4294967295);local pt,Qt,ft,zt=t(Lt,65535),H(Lt,16),t(Vt,65535),H(Vt,16);Tt=t(pt*ft+o(t(pt*zt+Qt*ft,65535),16),4294967295);pt=nil;repeat Qt=Tt%4294967296;if Qt~=Qt then pt=0;break;end;pt=Qt-Qt%1;until true;v[Jt]=pt;end;P,N,D=Ut,et,Zt;else if Yt>=92 then if Yt>=93 then if Yt==94 then v[Z[p]]=z[p]/v[e[p]];else v[z[p]]=Z[p]*v[e[p]];end;else v[z[p]]=g(v[Z[p]]);end;else if Yt>=90 then if Yt==91 then v[e[p]]=v[Z[p]]*v[z[p]];else N,P=(a(Z[p],(t(a(k,(t(H(k,29),7))),536870911)))),z[p]+1;for et=1,e[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);z[P]=a(z[P],(t(H(N,0),127)));Z[P]=a(Z[P],(t(H(N,7),127)));e[P]=a(e[P],(t(H(N,14),127)));L[P]=a(L[P],(t(H(N,21),127)));P=P+1;end;L[p]=156;end;else P,N,D=e[p],Z[p],z[p];c=P+N;n=v[c];M=n.n;w=N+M-1;n.n=w;R(n,1,M,N,n);R(v,P+1,c-1,1,n);v[P]=m(v[P](_(n,1,n.n)));end;end;end;end;end;else if Yt<23 then if Yt<11 then if Yt>=5 then if Yt>=8 then if Yt<9 then v[Z[p]]=v[e[p]]/z[p];elseif Yt==10 then v[Z[p]]=not v[e[p]];else if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return J[p];end;else if Yt<6 then v[Z[p]]=h(v[z[p]],u[p]);else if Yt~=7 then v[Z[p]]=v[z[p]]+e[p];else P=W[z[p]];v[e[p]]=P[6][P[5]][Z[p]];end;end;end;else if Yt>=2 then if Yt>=3 then if Yt~=4 then P,N={...},z[p];R(P,1,Z[p],N,v);else P=z[p];v[P],v[P+1]=u[p],v[Z[p]];end;else v[Z[p]][V[p]]=e[p];end;else if Yt~=1 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[e[p]];else v[z[p]]=Z[p];end;end;end;else if Yt<17 then if Yt>=14 then if Yt>=15 then if Yt~=16 then P=W[e[p]];P[6][P[5]][J[p]]=V[p];else P,N,D=z[p],{...},Z[p];R(N,1,P-1,D,v);v[D+P-1]=m(b(P,...));end;else v[Z[p]]=v[e[p]]==V[p];end;else if Yt>=12 then if Yt==13 then v[z[p]]=u[p];else P=W[z[p]];P[6][P[5]]=J[p];end;else v[z[p]]=m(v[e[p]]());end;end;else if Yt>=20 then if Yt>=21 then if Yt==22 then v[z[p]][v[Z[p]]]=e[p];else G=v[e[p]];end;else if j then for b in i,j,nil do local et=j[b];if et then et[6]=et;et[4]=v[b];et[5]=4;j[b]=nil;end;end;end;if S then for b,et in i,S,nil do local Zt=et[4];if S then et=S[b];if et then local Jt,pt=b+Zt,d(Zt);R(v,b,Jt-1,1,pt);et[6]=pt;et[5]=1;S[b]=nil;end;end;end;end;return;end;else if Yt<18 then p=if u[p]<v[z[p]]then p else Z[p];else if Yt~=19 then v[Z[p]](v[e[p]]);else p=if v[e[p]]then z[p]else Z[p];end;end;end;end;end;else if Yt>=35 then if Yt<41 then if Yt>=38 then if Yt>=39 then if Yt==40 then v[Z[p]]=v[e[p]]>=z[p];else v[z[p]][Z[p]]=e[p];end;else local b,et,Zt=z[p],a(Z[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4];local Jt=a(Zt[b],355920250);Zt[b]=Jt;Zt,b=Q[7],Jt+1;Jt=I(Zt,b);local pt,Tt;if Jt<128 then pt,Tt=Jt,b+1;else local Lt=I(Zt,b+1);if Lt<128 then pt,Tt=(Jt-128)*128+Lt,b+2;else local Vt=I(Zt,b+2);if Vt<128 then pt,Tt=(Jt-128)*16384+(Lt-128)+Vt*128,b+3;else local Qt=I(Zt,b+3);pt,Tt=(Jt-128)*16384+(Lt-128)*2097152+(Vt-128)*128+Qt%128+(Qt-Qt%128)*2097152,b+4;end;end;end;Jt,b=et*16843009,Tt+pt;local Lt=b-pt%4;for pt=Tt,Lt-1,4 do E(Zt,pt,(a(l(Zt,pt),Jt)));end;for Jt=Lt,b-1,1 do K(Zt,Jt,(a(I(Zt,Jt),et)));end;z[p]=56;Z[p]=227;e[p]=167;L[p]=156;end;else if Yt>=36 then if Yt~=37 then local b,et,Zt=e[p],J[p],V[p];local Jt,pt=t(et,4294967295),t(Zt,4294967295);local Zt,Tt,Lt,Vt=t(Jt,65535),H(Jt,16),t(pt,65535),H(pt,16);et=t(Zt*Lt+o(t(Zt*Vt+Tt*Lt,65535),16),4294967295);Lt=nil;repeat Jt=et%4294967296;if Jt~=Jt then Lt=0;break;end;Lt=Jt-Jt%1;until true;v[b]=Lt;else v[Z[p]]=v[e[p]](V[p]);end;else p=if v[Z[p]]then e[p]else z[p];end;end;else if Yt<44 then if Yt>=42 then if Yt==43 then local b,et,Zt=e[p],v[Z[p]];repeat local Jt=et%4294967296;if Jt~=Jt then Zt=0;break;end;Zt=Jt-Jt%1;until true;v[b]=Zt;else v[z[p]][e[p]]=J[p];end;else v[z[p]]=m(v[Z[p]](v[e[p]]));end;else if Yt<45 then p=if z[p]<=v[Z[p]]then p else e[p];else if Yt==46 then P=Z[p];v[P],v[P+1]=v[z[p]],e[p];else P=W[e[p]];v[Z[p]]=P[6][P[5]];end;end;end;end;else if Yt<29 then if Yt<26 then if Yt<24 then P=Z[p];N,D,c=v[P],v[P+1],v[P+2];v[P]=N(D,c);else if Yt==25 then if j then for b in i,j,nil do local et=j[b];if et then et[6]=et;et[4]=v[b];et[5]=4;j[b]=nil;end;end;end;if S then for b,et in i,S,nil do local Zt=et[4];if S then et=S[b];if et then local Jt=d(Zt);R(v,b,b+Zt-1,1,Jt);et[6]=Jt;et[5]=1;S[b]=nil;end;end;end;end;return u[p],J[p],V[p];else v[e[p]]=v[z[p]][1];end;end;else if Yt>=27 then if Yt==28 then v[e[p]]=v[Z[p]]+V[p];else v[z[p]][Z[p]]=v[e[p]];end;else p=e[p];end;end;else if Yt>=32 then if Yt<33 then if j then for b in i,j,nil do local et=j[b];if et then et[6]=et;et[4]=v[b];et[5]=4;j[b]=nil;end;end;end;if S then for b,et in i,S,nil do local Zt=et[4];if S then et=S[b];if et then local Jt=d(Zt);R(v,b,b+Zt-1,1,Jt);et[6]=Jt;et[5]=1;S[b]=nil;end;end;end;end;return J[p],u[p];elseif Yt==34 then P=W[e[p]];v[Z[p]]=P[6][P[5]][v[z[p]]];else y,A,C,s=x[5],x[7],x[6],x[9];x=x[8];end;else if Yt>=30 then if Yt~=31 then W[z[p]][u[p]]=Z[p];else if j then for b in i,j,nil do local et=j[b];if et then et[6]=et;et[4]=v[b];et[5]=4;j[b]=nil;end;end;end;if S then for b,et in i,S,nil do local Zt=et[4];if S then et=S[b];if et then local Jt,pt=b+Zt-1,d(Zt);R(v,b,Jt,1,pt);et[6]=pt;et[5]=1;S[b]=nil;end;end;end;end;return v[z[p]],u[p];end;else v[Z[p]]=v[e[p]]~=V[p];end;end;end;end;end;end;else local b;if Yt>=143 then if Yt>=167 then if Yt<179 then if Yt>=173 then if Yt<176 then if Yt>=174 then if Yt==175 then if j then local et=z[p];local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;else v[e[p]]=Z[p]<=v[z[p]];end;else O[u[p]]=v[Z[p]];end;else if Yt>=177 then if Yt==178 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt,d(Jt);R(v,et,pt-1,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[Z[p]](v[e[p]],V[p]);else P,N=Z[p],v[e[p]];v[P+1]=N;v[P]=N[V[p]];v[Z[p+1]]=v[z[p+1]];v[z[p+2]]=u[p+2];v[Z[p+3]]=v[z[p+3]];p+=3;end;else v[z[p]]=t(v[e[p]],Z[p]);end;end;else if Yt>=170 then if Yt>=171 then if Yt==172 then local et,Zt,Jt=e[p],v[Z[p]],z[p];local pt,Tt=t(Zt,4294967295),t(Jt,4294967295);local Lt,Vt,Qt,ft=t(pt,65535),H(pt,16),t(Tt,65535),H(Tt,16);pt=t(Lt*Qt+o(t(Lt*ft+Vt*Qt,65535),16),4294967295);Zt=nil;repeat Jt=pt%4294967296;if Jt~=Jt then Zt=0;break;end;Zt=Jt-Jt%1;until true;v[et]=Zt;else P,N=Z[p],v[e[p]];v[P+1]=N;v[P]=N[V[p]];end;else v[e[p]]=k;end;else if Yt>=168 then if Yt==169 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[e[p]]();else v[e[p]]=-v[z[p]];end;else v[Z[p]]=v[z[p]]%u[p];end;end;end;else Ut=P;if Yt>=185 then if Yt<188 then if Yt>=186 then if Yt==187 then v[e[p]][v[z[p]]]=J[p];else v[e[p]]=a(v[z[p]],J[p]);end;else v[e[p]]=t(v[z[p]],J[p]);end;elseif Yt<189 then v[e[p]]=W[Z[p]][V[p]];elseif Yt~=190 then v[Z[p]]=v[z[p]];else v[e[p]]=v[z[p]]<=v[Z[p]];end;else if Yt<182 then if Yt<180 then v[z[p]]=v[Z[p]]<v[e[p]];elseif Yt==181 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt-1,d(Jt);R(v,et,pt,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[z[p]](v[e[p]],v[Z[p]]);else if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt-1,d(Jt);R(v,et,pt,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;P=z[p];return _(v,P,P+Z[p]-1);end;else if Yt<183 then p=if v[e[p]]~=J[p]then z[p]else p;else local et=p;if Yt==184 then f=z[et];p,P=Z[et]+1,Ut;break;else local Zt,Jt,pt=e[et],v[z[et]],v[Z[et]];local Tt,Lt=t(Jt,4294967295),t(pt,4294967295);local pt,Vt,Qt,ft=t(Tt,65535),H(Tt,16),t(Lt,65535),H(Lt,16);Tt=t(pt*Qt+o(t(pt*ft+Vt*Qt,65535),16),4294967295);Jt=nil;repeat Qt=Tt%4294967296;if Qt~=Qt then Jt=0;break;end;Jt=Qt-Qt%1;until true;v[Zt]=Jt;end;p=et;end;end;end;P=Ut;end;else if Yt>=155 then if Yt<161 then if Yt>=158 then if Yt>=159 then if Yt~=160 then v[z[p]]=v[Z[p]]^e[p];else p=if v[e[p]]<v[z[p]]then p else Z[p];end;else v[Z[p]]=v[z[p]]%v[e[p]];end;else if Yt>=156 then if not(Yt~=157)then v[Z[p]]=O[u[p]];end;else b=x;x,P={[7]=A,[6]=C,[8]=b,[5]=y,[9]=s},Z[p];C,A=v[P+2]+0,v[P+1]+0;y=v[P]-C;p=z[p];end;end;else if Yt>=164 then if Yt<165 then y+=C;P=if C<=0 then y>=A else y<=A;if P then v[e[p]]=y;p=Z[p];else p=z[p];end;else if Yt==166 then v[e[p]]=v[Z[p]](v[z[p]]);else W[z[p]][u[p]]=J[p];end;end;else if Yt>=162 then if Yt~=163 then v[e[p]]=v[z[p]]//v[Z[p]];else v[z[p]]=v[e[p]]();end;else p=if v[e[p]]~=v[z[p]]then Z[p]else p;end;end;end;else if Yt<149 then if Yt>=146 then if Yt>=147 then if Yt==148 then v[e[p]][v[z[p]]]=v[Z[p]];else v[z[p]]=a(v[e[p]],Z[p]);end;else N,P=(a(Z[p],(t(a(G,(t(H(G,29),7))),536870911)))),z[p]+1;for Ut=1,e[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);z[P]=a(z[P],(t(H(N,0),127)));Z[P]=a(Z[P],(t(H(N,7),127)));e[P]=a(e[P],(t(H(N,14),127)));L[P]=a(L[P],(t(H(N,21),127)));P=P+1;end;L[p]=156;end;else if Yt<144 then v[Z[p]]=v[z[p]]~=e[p];elseif Yt~=145 then v[e[p]]=v[Z[p]]*z[p];else v[z[p]]=Z[p]-v[e[p]];end;end;else if Yt<152 then if Yt>=150 then if Yt==151 then P,N,D=z[p],Z[p],e[p];c=v[P];R(v,P+1,P+N,D+1,c);else P,N=Z[p],e[p];D={n=N-P+1};R(v,P,N,1,D);v[z[p]]=D;end;else v[e[p]]=v[Z[p]]>=v[z[p]];end;else if Yt>=153 then if Yt~=154 then v[z[p]]=a(v[e[p]],v[Z[p]]);else if j then for Ut in i,j,nil do local et=j[Ut];if et then et[6]=et;et[4]=v[Ut];et[5]=4;j[Ut]=nil;end;end;end;if S then for Ut,et in i,S,nil do local Zt=et[4];if S then et=S[Ut];if et then local Jt=d(Zt);R(v,Ut,Ut+Zt-1,1,Jt);et[6]=Jt;et[5]=1;S[Ut]=nil;end;end;end;end;return V[p],v[Z[p]];end;else v[z[p]]=v[Z[p]]//e[p];end;end;end;end;end;else if Yt>=119 then if Yt>=131 then if Yt>=137 then if Yt<140 then if Yt<138 then v[z[p]]();elseif Yt~=139 then v[e[p]]=Z[p]+v[z[p]];else v[e[p]]=m(v[Z[p]](_(v[z[p]],1,v[z[p]].n)));end;else if Yt<141 then v[e[p]]=v[Z[p]]/v[z[p]];else if Yt~=142 then v[Z[p]](v[e[p]],V[p]);else p=if v[e[p]]<=Z[p]then p else z[p];end;end;end;else if Yt<134 then if Yt<132 then v[z[p]]=h(v[Z[p]],v[e[p]]);else if Yt~=133 then P=z[p];v[P],v[P+1]=v[e[p]],v[Z[p]];else v[e[p]](V[p],J[p]);end;end;else if Yt>=135 then if Yt~=136 then v[Z[p]]=W[z[p]];else P=W[e[p]];P[6][P[5]][J[p]]=v[z[p]];end;else v[z[p]]=v[e[p]]+v[Z[p]];end;end;end;else if Yt<125 then if Yt<122 then if Yt>=120 then if Yt==121 then P=W[Z[p]];P[6][P[5]]=v[e[p]];else v[e[p]]=V[p]*v[Z[p]];end;else v[z[p]]=u[p]..v[Z[p]];end;else if Yt>=123 then if Yt==124 then k=v[z[p]];else P,N,D=Z[p],z[p],e[p];c,n=v[P],P+N;M=v[n];R(v,P+1,n-1,D+1,c);R(M,1,M.n,D+N,c);end;else v[e[p]]=a(V[p],J[p]);end;end;else if Yt>=128 then if Yt<129 then p=if Z[p]<v[z[p]]then p else e[p];else if Yt==130 then b=x;x,P,N={[7]=A,[6]=C,[8]=b,[5]=y,[9]=s},Z[p],q(B);N(Y,v[P],v[P+1],v[P+2]);s=e[p];p,y=z[p],N;else local b;local Ut=V[p];if Ut then local et=#Ut/3;if et>0 then b={};local Zt,Jt=j,S;for pt=1,et,1 do local et=(pt-1)*3;local Tt,Lt=Ut[et+2],Ut[et+1];if Tt==0 then Zt=Zt or{};local Vt=Zt[Lt];if Vt then else Vt={[5]=Lt,[6]=v};Zt[Lt]=Vt;end;b[pt]=Vt;else if Tt==1 then b[pt]=v[Lt];else if Tt==3 then b[pt]=W[Lt];else if Tt==2 then Jt=Jt or{};local Tt=Jt[Lt];if Tt then else Tt={[4]=Ut[et+3],[6]=v,[5]=Lt};Jt[Lt]=Tt;end;b[pt]=Tt;else end;end;end;end;end;j,S=Zt,Jt;else end;else end;v[Z[p]]=u[p](b);P=b;end;end;else if Yt>=126 then if Yt~=127 then v[Z[p]]=v[z[p]]-v[e[p]];else P=Z[p];v[P],v[P+1]=V[p],e[p];end;else P=e[p];local b,Ut,et=y();if b then v[P]=Ut;v[P+1]=et;p=z[p];else p=Z[p];end;N,D,c=b,Ut,et;end;end;end;end;else if Yt>=107 then if Yt<113 then if Yt>=110 then if Yt<111 then v[z[p]]=v[Z[p]][v[e[p]]];else if Yt~=112 then W[Z[p]][v[z[p]]]=v[e[p]];else P=Z[p];local b,Ut=y();if b then v[P]=Ut;p=e[p];else p=z[p];end;N,D=b,Ut;end;end;else if Yt>=108 then if Yt~=109 then N,P=e[p],Z[p]+1;for b=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);z[P]=a(z[P],(t(H(N,0),127)));Z[P]=a(Z[P],(t(H(N,7),127)));e[P]=a(e[P],(t(H(N,14),127)));L[P]=a(L[P],(t(H(N,21),127)));P=P+1;end;L[p]=156;else P=z[p];v[P],v[P+1]=v[Z[p]],u[p];end;else if j then for b in i,j,nil do local Ut=j[b];if Ut then Ut[6]=Ut;Ut[4]=v[b];Ut[5]=4;j[b]=nil;end;end;end;if S then for b,Ut in i,S,nil do local et=Ut[4];if S then Ut=S[b];if Ut then local Zt,Jt=b+et-1,d(et);R(v,b,Zt,1,Jt);Ut[6]=Jt;Ut[5]=1;S[b]=nil;end;end;end;end;return v[Z[p]](_(v[z[p]],1,v[z[p]].n));end;end;else if Yt<116 then if Yt>=114 then if Yt~=115 then v[Z[p]]=h(v[e[p]],z[p]);elseif j then local b=z[p];local Ut=j[b];if Ut then Ut[6]=Ut;Ut[4]=v[b];Ut[5]=4;j[b]=nil;end;b=Z[p];Ut=j[b];if Ut then Ut[6]=Ut;Ut[4]=v[b];Ut[5]=4;j[b]=nil;end;b=e[p];Ut=j[b];if Ut then Ut[6]=Ut;Ut[4]=v[b];Ut[5]=4;j[b]=nil;end;end;else v[Z[p]]=H(v[z[p]],e[p]);end;else if Yt<117 then p=if v[Z[p]]<V[p]then p else e[p];else if Yt~=118 then v[e[p]](V[p],v[Z[p]]);else P=v[z[p]];v[Z[p]]=m(_(P,e[p],P.n));end;end;end;end;else if Yt>=101 then if Yt>=104 then if Yt<105 then P=z[p];v[P],v[P+1]=e[p],J[p];else if Yt~=106 then v[Z[p]]=v[e[p]]..v[z[p]];else P,N,D=z[p],Z[p],e[p];c,n,M=P+D-1,P+N,m(v[P](_(v,P+1,P+N)));R(M,1,D,P,v);end;end;else if Yt<102 then P=W[z[p]];v[e[p]]=P[6][P[5]][J[p]];else if Yt==103 then p=if v[Z[p]]~=e[p]then z[p]else p;else v[z[p]](v[e[p]],v[Z[p]]);end;end;end;else if Yt>=98 then if Yt>=99 then if Yt~=100 then v[z[p]]=v[e[p]](_(v[Z[p]],1,v[Z[p]].n));else P=z[p];v[P],v[P+1]=Z[p],v[e[p]];end;else v[z[p]]=v[Z[p]]-u[p];end;else if Yt<96 then v[e[p]]=v[z[p]]%Z[p];elseif Yt~=97 then v[e[p]]=#v[Z[p]];else v[z[p]]=O[J[p]][u[p]];end;end;end;end;end;end;end;
+end
 p = p + 1;
 end;else p,f=T,U;end;if f==182 then while true do
 local U,T,b,Yt,Ut=e[p];
+__handled=false;
 if p <= 287 then
   if p <= 49 then
     if p <= 38 then
@@ -1238,38 +1406,44 @@ if p <= 287 then
           if p <= 15 then
             if p==15 then
               if U==68 then
+                __handled=true;
                 p=v[Z[p]];
-              else error("UNLIFTED m2 pc15 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p==29 then
               if U==76 then
+                __handled=true;
                 local T,b,Yt=Z[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Ut=a(Yt[T],355920250); Yt[T]=Ut; Yt,T=Q[7],Ut+1; Ut=I(Yt,T); local et,Zt; if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end; T,Ut=b*16843009,Zt+et; local Jt=Ut-et%4; for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end; for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end; Z[p]=140; L[p]=27; z[p]=64; e[p]=21;
-              else error("UNLIFTED m2 pc29 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           end
         else
           if p <= 30 then
             if p==30 then
               if U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc30 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 31 then
               if p==31 then
                 if U==75 then
+                  __handled=true;
                   P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
                 elseif U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc31 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==32 then
                 if U==76 then
+                  __handled=true;
                   local T,b,Yt=Z[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Ut=a(Yt[T],355920250); Yt[T]=Ut; Yt,T=Q[7],Ut+1; Ut=I(Yt,T); local et,Zt; if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end; T,Ut=b*16843009,Zt+et; local Jt=Ut-et%4; for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end; for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end; Z[p]=140; L[p]=27; z[p]=64; e[p]=21;
-                else error("UNLIFTED m2 pc32 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1278,48 +1452,56 @@ if p <= 287 then
           if p <= 33 then
             if p==33 then
               if U==179 then
+                __handled=true;
                 local et,Zt,Jt=Z[p],a(L[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; et,pt=Zt*16843009,Lt+Tt; local Vt=pt-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),et)));end; for et=Vt,pt-1,1 do K(Jt,et,(a(I(Jt,et),Zt)));end; Z[p]=32; L[p]=193; z[p]=49; e[p]=21;
-              else error("UNLIFTED m2 pc33 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 34 then
               if p==34 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc34 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==35 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc35 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 36 then
             if p==36 then
               if U==75 then
+                __handled=true;
                 P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
               elseif U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc36 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 37 then
               if p==37 then
                 if U==76 then
+                  __handled=true;
                   local T,b,Yt=Z[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Ut=a(Yt[T],355920250); Yt[T]=Ut; Yt,T=Q[7],Ut+1; Ut=I(Yt,T); local et,Zt; if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end; T,Ut=b*16843009,Zt+et; local Jt=Ut-et%4; for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end; for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end; Z[p]=140; L[p]=27; z[p]=64; e[p]=21;
-                else error("UNLIFTED m2 pc37 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==38 then
                 if U==11 then
+                  __handled=true;
                   v[L[p]]=z[p];
                 elseif U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc38 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1330,40 +1512,47 @@ if p <= 287 then
           if p <= 39 then
             if p==39 then
               if U==11 then
+                __handled=true;
                 v[L[p]]=z[p];
               elseif U==79 then
+                __handled=true;
                 p=L[p];
-              else error("UNLIFTED m2 pc39 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p==40 then
               if U==79 then
+                __handled=true;
                 p=L[p];
-              else error("UNLIFTED m2 pc40 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           end
         else
           if p <= 41 then
             if p==41 then
               if U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc41 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 42 then
               if p==42 then
                 if U==75 then
+                  __handled=true;
                   P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
                 elseif U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc42 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==43 then
                 if U==76 then
+                  __handled=true;
                   local T,b,Yt=Z[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Ut=a(Yt[T],355920250); Yt[T]=Ut; Yt,T=Q[7],Ut+1; Ut=I(Yt,T); local et,Zt; if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end; T,Ut=b*16843009,Zt+et; local Jt=Ut-et%4; for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end; for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end; Z[p]=140; L[p]=27; z[p]=64; e[p]=21;
-                else error("UNLIFTED m2 pc43 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1372,44 +1561,50 @@ if p <= 287 then
           if p <= 44 then
             if p==44 then
               if U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc44 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 45 then
               if p==45 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc45 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==46 then
                 if U==179 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],a(L[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; et,pt=Zt*16843009,Lt+Tt; local Vt=pt-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),et)));end; for et=Vt,pt-1,1 do K(Jt,et,(a(I(Jt,et),Zt)));end; Z[p]=32; L[p]=193; z[p]=49; e[p]=21;
-                else error("UNLIFTED m2 pc46 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 47 then
             if p==47 then
               if U==188 then
+                __handled=true;
                 v[z[p]]=v[Z[p]];
-              else error("UNLIFTED m2 pc47 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 48 then
               if p==48 then
                 if U==76 then
+                  __handled=true;
                   local T,b,Yt=Z[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Ut=a(Yt[T],355920250); Yt[T]=Ut; Yt,T=Q[7],Ut+1; Ut=I(Yt,T); local et,Zt; if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end; T,Ut=b*16843009,Zt+et; local Jt=Ut-et%4; for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end; for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end; Z[p]=140; L[p]=27; z[p]=64; e[p]=21;
-                else error("UNLIFTED m2 pc48 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==49 then
                 if U==179 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],a(L[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; et,pt=Zt*16843009,Lt+Tt; local Vt=pt-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),et)));end; for et=Vt,pt-1,1 do K(Jt,et,(a(I(Jt,et),Zt)));end; Z[p]=32; L[p]=193; z[p]=49; e[p]=21;
-                else error("UNLIFTED m2 pc49 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1422,40 +1617,47 @@ if p <= 287 then
           if p <= 50 then
             if p==50 then
               if U==75 then
+                __handled=true;
                 P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
               elseif U==188 then
+                __handled=true;
                 v[z[p]]=v[Z[p]];
-              else error("UNLIFTED m2 pc50 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p==51 then
               if U==179 then
+                __handled=true;
                 local et,Zt,Jt=Z[p],a(L[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; et,pt=Zt*16843009,Lt+Tt; local Vt=pt-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),et)));end; for et=Vt,pt-1,1 do K(Jt,et,(a(I(Jt,et),Zt)));end; Z[p]=32; L[p]=193; z[p]=49; e[p]=21;
-              else error("UNLIFTED m2 pc51 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           end
         else
           if p <= 52 then
             if p==52 then
               if U==188 then
+                __handled=true;
                 v[z[p]]=v[Z[p]];
-              else error("UNLIFTED m2 pc52 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 53 then
               if p==53 then
                 if U==11 then
+                  __handled=true;
                   v[L[p]]=z[p];
                 elseif U==68 then
+                  __handled=true;
                   p=v[Z[p]];
-                else error("UNLIFTED m2 pc53 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==54 then
                 if U==79 then
+                  __handled=true;
                   p=L[p];
-                else error("UNLIFTED m2 pc54 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1464,60 +1666,74 @@ if p <= 287 then
           if p <= 55 then
             if p==55 then
               if U==19 then
+                __handled=true;
                 v[z[p]]=Q;
               elseif U==75 then
+                __handled=true;
                 P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
               elseif U==188 then
+                __handled=true;
                 v[z[p]]=v[Z[p]];
-              else error("UNLIFTED m2 pc55 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 56 then
               if p==56 then
                 if U==111 then
+                  __handled=true;
                   v[z[p]]=Z;
                 elseif U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc56 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==57 then
                 if U==26 then
+                  __handled=true;
                   v[Z[p]]=L;
                 elseif U==75 then
+                  __handled=true;
                   P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
                 elseif U==188 then
+                  __handled=true;
                   v[z[p]]=v[Z[p]];
-                else error("UNLIFTED m2 pc57 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 58 then
             if p==58 then
               if U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
               elseif U==137 then
+                __handled=true;
                 v[L[p]]=z;
-              else error("UNLIFTED m2 pc58 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 59 then
               if p==59 then
                 if U==45 then
+                  __handled=true;
                   v[z[p]]=e;
                 elseif U==188 then
+                  __handled=true;
                   v[z[p]]=v[Z[p]];
-                else error("UNLIFTED m2 pc59 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==60 then
                 if U==113 then
+                  __handled=true;
                   local et=p; f=z[et]; p=L[et]+1; break;
                 elseif U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc60 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1528,44 +1744,50 @@ if p <= 287 then
           if p <= 61 then
             if p==61 then
               if U==188 then
+                __handled=true;
                 v[z[p]]=v[Z[p]];
-              else error("UNLIFTED m2 pc61 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 62 then
               if p==62 then
                 if U==188 then
+                  __handled=true;
                   v[z[p]]=v[Z[p]];
-                else error("UNLIFTED m2 pc62 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==63 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc63 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 64 then
             if p==64 then
               if U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc64 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 65 then
               if p==65 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc65 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==66 then
                 if U==11 then
+                  __handled=true;
                   v[L[p]]=z[p];
-                else error("UNLIFTED m2 pc66 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1574,48 +1796,56 @@ if p <= 287 then
           if p <= 67 then
             if p==67 then
               if U==79 then
+                __handled=true;
                 p=L[p];
-              else error("UNLIFTED m2 pc67 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 243 then
               if p==243 then
                 if U==113 then
+                  __handled=true;
                   local et=p; f=z[et]; p=L[et]+1; break;
-                else error("UNLIFTED m2 pc243 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==284 then
                 if U==21 then
-                  -- nop (empty)
+                  __handled=true;
+                  -- nop
                 elseif U==189 then
+                  __handled=true;
                   N,P=Z[p],L[p]+1; for et=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);Z[P]=a(Z[P],(t(H(N,0),127)));L[P]=a(L[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));e[P]=a(e[P],(t(H(N,21),127)));P=P+1;end; e[p]=21;
-                else error("UNLIFTED m2 pc284 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 285 then
             if p==285 then
               if U==21 then
-                -- nop (empty)
+                __handled=true;
+                -- nop
               elseif U==189 then
+                __handled=true;
                 N,P=Z[p],L[p]+1; for et=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);Z[P]=a(Z[P],(t(H(N,0),127)));L[P]=a(L[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));e[P]=a(e[P],(t(H(N,21),127)));P=P+1;end; e[p]=21;
-              else error("UNLIFTED m2 pc285 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 286 then
               if p==286 then
                 if U==84 then
+                  __handled=true;
                   p=if v[L[p]]<=Z[p]then p else z[p];
-                else error("UNLIFTED m2 pc286 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==287 then
                 if U==79 then
+                  __handled=true;
                   p=L[p];
-                else error("UNLIFTED m2 pc287 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1630,36 +1860,41 @@ else
           if p <= 292 then
             if p==292 then
               if U==11 then
+                __handled=true;
                 v[L[p]]=z[p];
-              else error("UNLIFTED m2 pc292 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p==293 then
               if U==79 then
+                __handled=true;
                 p=L[p];
-              else error("UNLIFTED m2 pc293 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           end
         else
           if p <= 334 then
             if p==334 then
               if U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc334 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 335 then
               if p==335 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc335 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==336 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc336 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1668,44 +1903,50 @@ else
           if p <= 337 then
             if p==337 then
               if U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc337 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 338 then
               if p==338 then
                 if U==95 then
+                  __handled=true;
                   local T,b,Yt=Z[p],L[p],Q[4]; local Ut=a(Yt[T],355920250); Yt[T]=Ut; Yt,T=Q[7],Ut+1; Ut=I(Yt,T); local et,Zt; if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end; T,Ut=b*16843009,Zt+et; local Jt=Ut-et%4; for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end; for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end; Z[p]=235; L[p]=172; z[p]=26; e[p]=21;
-                else error("UNLIFTED m2 pc338 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==339 then
                 if U==84 then
+                  __handled=true;
                   p=if v[L[p]]<=Z[p]then p else z[p];
-                else error("UNLIFTED m2 pc339 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 1014 then
             if p==1014 then
               if U==113 then
+                __handled=true;
                 local et=p; f=z[et]; p=L[et]+1; break;
-              else error("UNLIFTED m2 pc1014 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13768 then
               if p==13768 then
                 if U==188 then
+                  __handled=true;
                   v[z[p]]=v[Z[p]];
-                else error("UNLIFTED m2 pc13768 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13769 then
                 if U==76 then
+                  __handled=true;
                   local T,b,Yt=Z[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Ut=a(Yt[T],355920250); Yt[T]=Ut; Yt,T=Q[7],Ut+1; Ut=I(Yt,T); local et,Zt; if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end; T,Ut=b*16843009,Zt+et; local Jt=Ut-et%4; for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end; for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end; Z[p]=140; L[p]=27; z[p]=64; e[p]=21;
-                else error("UNLIFTED m2 pc13769 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1716,46 +1957,53 @@ else
           if p <= 13770 then
             if p==13770 then
               if U==188 then
+                __handled=true;
                 v[z[p]]=v[Z[p]];
-              else error("UNLIFTED m2 pc13770 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13771 then
               if p==13771 then
                 if U==188 then
+                  __handled=true;
                   v[z[p]]=v[Z[p]];
-                else error("UNLIFTED m2 pc13771 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13772 then
                 if U==179 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],a(L[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; et,pt=Zt*16843009,Lt+Tt; local Vt=pt-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),et)));end; for et=Vt,pt-1,1 do K(Jt,et,(a(I(Jt,et),Zt)));end; Z[p]=32; L[p]=193; z[p]=49; e[p]=21;
-                else error("UNLIFTED m2 pc13772 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 13773 then
             if p==13773 then
               if U==75 then
+                __handled=true;
                 P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
               elseif U==188 then
+                __handled=true;
                 v[z[p]]=v[Z[p]];
-              else error("UNLIFTED m2 pc13773 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13774 then
               if p==13774 then
                 if U==179 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],a(L[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; et,pt=Zt*16843009,Lt+Tt; local Vt=pt-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),et)));end; for et=Vt,pt-1,1 do K(Jt,et,(a(I(Jt,et),Zt)));end; Z[p]=32; L[p]=193; z[p]=49; e[p]=21;
-                else error("UNLIFTED m2 pc13774 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13775 then
                 if U==188 then
+                  __handled=true;
                   v[z[p]]=v[Z[p]];
-                else error("UNLIFTED m2 pc13775 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1764,46 +2012,53 @@ else
           if p <= 13776 then
             if p==13776 then
               if U==76 then
+                __handled=true;
                 local T,b,Yt=Z[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Ut=a(Yt[T],355920250); Yt[T]=Ut; Yt,T=Q[7],Ut+1; Ut=I(Yt,T); local et,Zt; if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end; T,Ut=b*16843009,Zt+et; local Jt=Ut-et%4; for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end; for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end; Z[p]=140; L[p]=27; z[p]=64; e[p]=21;
-              else error("UNLIFTED m2 pc13776 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13777 then
               if p==13777 then
                 if U==75 then
+                  __handled=true;
                   P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
                 elseif U==188 then
+                  __handled=true;
                   v[z[p]]=v[Z[p]];
-                else error("UNLIFTED m2 pc13777 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13778 then
                 if U==11 then
+                  __handled=true;
                   v[L[p]]=z[p];
-                else error("UNLIFTED m2 pc13778 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 13779 then
             if p==13779 then
               if U==79 then
+                __handled=true;
                 p=L[p];
-              else error("UNLIFTED m2 pc13779 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13780 then
               if p==13780 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13780 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13781 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13781 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1816,40 +2071,47 @@ else
           if p <= 13782 then
             if p==13782 then
               if U==75 then
+                __handled=true;
                 P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
               elseif U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc13782 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p==13783 then
               if U==75 then
+                __handled=true;
                 P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
               elseif U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc13783 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           end
         else
           if p <= 13784 then
             if p==13784 then
               if U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc13784 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13785 then
               if p==13785 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13785 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13786 then
                 if U==11 then
+                  __handled=true;
                   v[L[p]]=z[p];
-                else error("UNLIFTED m2 pc13786 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1858,46 +2120,53 @@ else
           if p <= 13787 then
             if p==13787 then
               if U==79 then
+                __handled=true;
                 p=L[p];
-              else error("UNLIFTED m2 pc13787 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13798 then
               if p==13798 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13798 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13799 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13799 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 13800 then
             if p==13800 then
               if U==188 then
+                __handled=true;
                 v[z[p]]=v[Z[p]];
-              else error("UNLIFTED m2 pc13800 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13801 then
               if p==13801 then
                 if U==75 then
+                  __handled=true;
                   P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
                 elseif U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13801 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13802 then
                 if U==76 then
+                  __handled=true;
                   local T,b,Yt=Z[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Ut=a(Yt[T],355920250); Yt[T]=Ut; Yt,T=Q[7],Ut+1; Ut=I(Yt,T); local et,Zt; if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end; T,Ut=b*16843009,Zt+et; local Jt=Ut-et%4; for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end; for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end; Z[p]=140; L[p]=27; z[p]=64; e[p]=21;
-                else error("UNLIFTED m2 pc13802 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1908,46 +2177,53 @@ else
           if p <= 13803 then
             if p==13803 then
               if U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc13803 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13804 then
               if p==13804 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13804 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13805 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13805 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 13806 then
             if p==13806 then
               if U==76 then
+                __handled=true;
                 local T,b,Yt=Z[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4]; local Ut=a(Yt[T],355920250); Yt[T]=Ut; Yt,T=Q[7],Ut+1; Ut=I(Yt,T); local et,Zt; if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end; T,Ut=b*16843009,Zt+et; local Jt=Ut-et%4; for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end; for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end; Z[p]=140; L[p]=27; z[p]=64; e[p]=21;
-              else error("UNLIFTED m2 pc13806 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13807 then
               if p==13807 then
                 if U==75 then
+                  __handled=true;
                   P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p]; n=N<2097152 and 7 or 14; M,w=t(N,o(1,n)-1),H(N,n); L[p]=a(c,76,(t(H(P,7),127))); z[p]=a(D,108,(t(H(P,14),127))); Z[p]=a(M,12,(t(P,127))); e[p]=a(w,34,(t(H(P,21),127))); p=p-1;
                 elseif U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13807 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13808 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13808 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
@@ -1956,50 +2232,58 @@ else
           if p <= 13809 then
             if p==13809 then
               if U==131 then
+                __handled=true;
                 P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-              else error("UNLIFTED m2 pc13809 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13810 then
               if p==13810 then
                 if U==179 then
+                  __handled=true;
                   local et,Zt,Jt=Z[p],a(L[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4]; local pt=a(Jt[et],355920250); Jt[et]=pt; Jt,et=Q[7],pt+1; pt=I(Jt,et); local Tt,Lt; if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end; et,pt=Zt*16843009,Lt+Tt; local Vt=pt-Tt%4; for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),et)));end; for et=Vt,pt-1,1 do K(Jt,et,(a(I(Jt,et),Zt)));end; Z[p]=32; L[p]=193; z[p]=49; e[p]=21;
-                else error("UNLIFTED m2 pc13810 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13811 then
                 if U==131 then
+                  __handled=true;
                   P=Z[p]; v[P],v[P+1]=v[L[p]],v[z[p]];
-                else error("UNLIFTED m2 pc13811 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         else
           if p <= 13812 then
             if p==13812 then
               if U==8 then
+                __handled=true;
                 N,P=(a(L[p],(t(a(G,(t(H(G,29),7))),536870911)))),Z[p]+1; for et=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);Z[P]=a(Z[P],(t(H(N,0),127)));L[P]=a(L[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));e[P]=a(e[P],(t(H(N,21),127)));P=P+1;end; e[p]=21;
-              else error("UNLIFTED m2 pc13812 op="..tostring(U)) end
-            else error("UNLIFTED m2 pc="..tostring(p)) end
+              end
+            end
           else
             if p <= 13813 then
               if p==13813 then
                 if U==113 then
+                  __handled=true;
                   local et=p; f=z[et]; p=L[et]+1; break;
-                else error("UNLIFTED m2 pc13813 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             else
               if p==13854 then
                 if U==68 then
+                  __handled=true;
                   p=v[Z[p]];
-                else error("UNLIFTED m2 pc13854 op="..tostring(U)) end
-              else error("UNLIFTED m2 pc="..tostring(p)) end
+                end
+              end
             end
           end
         end
       end
     end
   end
+end
+if not __handled then if U>=100 then if U>=150 then if U<175 then if U<162 then if U>=156 then if U>=159 then if U<160 then v[z[p]][Z[p]]=L[p];else if U==161 then N,P=(a(L[p],(t(a(k,(t(H(k,29),7))),536870911)))),Z[p]+1;for et=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);Z[P]=a(Z[P],(t(H(N,0),127)));L[P]=a(L[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));e[P]=a(e[P],(t(H(N,21),127)));P=P+1;end;e[p]=21;else p=if v[z[p]]~=Z[p]then L[p]else p;end;end;else if U>=157 then if U~=158 then P=W[z[p]];P[6][P[5]][J[p]]=v[L[p]];else P=v[L[p]];v[z[p]]=m(_(P,Z[p],P.n));end;else v[z[p]]=h(v[L[p]],v[Z[p]]);end;end;else if U>=153 then if U<154 then v[Z[p]]=v[L[p]]==V[p];else if U==155 then p=if V[p]<v[L[p]]then p else Z[p];else if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return V[p],v[L[p]];end;end;else if U<151 then v[L[p]]=not v[z[p]];elseif U==152 then if j then local et=L[p];local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;else v[Z[p]]=v[L[p]](_(v[z[p]],1,v[z[p]].n));end;end;end;else if U>=168 then if U<171 then if U>=169 then if U~=170 then v[z[p]]=v[Z[p]]+r[p];else v[Z[p]](v[L[p]],v[z[p]]);end;else v[L[p]]=W[Z[p]][z[p]];end;else if U>=173 then if U==174 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[L[p]](v[z[p]]);else P=Z[p];v[P],v[P+1]=r[p],v[z[p]];end;else if U==172 then v[z[p]]=v[L[p]]==Z[p];else v[L[p]+v[Z[p]]]=v[z[p]];end;end;end;else if U>=165 then if U>=166 then if U~=167 then v[z[p]]=L[p]-v[Z[p]];else if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[Z[p]],V[p];end;else v[Z[p]][V[p]]=r[p];end;else if U<163 then k=v[Z[p]];else if U==164 then v[z[p]]=v[Z[p]]<=v[L[p]];else local et,Zt,Jt=Z[p],v[z[p]];repeat local pt=Zt%4294967296;if pt~=pt then Jt=0;break;end;Jt=pt-pt%1;until true;v[et]=Jt;end;end;end;end;end;else if U>=188 then if U<194 then if U<191 then if U>=189 then if U==190 then P,N,D=z[p],Z[p],L[p];c=v[P];R(v,P+1,P+N,D+1,c);else N,P=Z[p],L[p]+1;for et=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);Z[P]=a(Z[P],(t(H(N,0),127)));L[P]=a(L[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));e[P]=a(e[P],(t(H(N,21),127)));P=P+1;end;e[p]=21;end;else v[z[p]]=v[Z[p]];end;else if U>=192 then if U==193 then P=L[p];v[P],v[P+1]=Z[p],z[p];else v[Z[p]]=t(v[L[p]],V[p]);end;else P=Z[p];v[P],v[P+1]=r[p],z[p];end;end;else if U>=197 then if U<199 then if U~=198 then v[L[p]]=h(v[z[p]],J[p]);else v[Z[p]]=v[L[p]]();end;else if U~=200 then v[L[p]]();else T=x;x,P,N={[7]=A,[6]=C,[8]=T,[5]=y,[9]=s},Z[p],q(B);N(Y,v[P],v[P+1],v[P+2]);s=L[p];p,y=z[p],N;end;end;else if U>=195 then if U~=196 then v[Z[p]][r[p]]=v[z[p]];else P=W[z[p]];P[6][P[5]][v[L[p]]]=v[Z[p]];end;else v[L[p]][v[Z[p]]]=v[z[p]];end;end;end;else if U>=181 then if U<184 then if U>=182 then if U~=183 then p=if v[Z[p]]then z[p]else L[p];else if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt-1,d(Jt);R(v,et,pt,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[L[p]](V[p],v[Z[p]]);end;else p=if v[L[p]]~=v[z[p]]then Z[p]else p;end;else if U>=186 then if U~=187 then v[z[p]]=m(v[Z[p]](_(v[L[p]],1,v[L[p]].n)));else v[L[p]][v[Z[p]]]=V[p];end;else if U==185 then p=if L[p]<=v[z[p]]then p else Z[p];else v[z[p]]=G;end;end;end;else if U<178 then if U>=176 then if U~=177 then v[L[p]]=v[z[p]]>=Z[p];else v[Z[p]](r[p],V[p]);end;else local et,Zt=J[p];if et then local Jt=#et/3;if Jt>0 then Zt={};local pt,Tt=j,S;for Lt=1,Jt,1 do local Jt=(Lt-1)*3;local Vt,Qt=et[Jt+2],et[Jt+1];if Vt==0 then pt=pt or{};local ft=pt[Qt];if ft then else ft={[5]=Qt,[6]=v};pt[Qt]=ft;end;Zt[Lt]=ft;else if Vt==1 then Zt[Lt]=v[Qt];else if Vt==3 then Zt[Lt]=W[Qt];else if Vt==2 then Tt=Tt or{};local Vt=Tt[Qt];if Vt then else Vt={[4]=et[Jt+3],[6]=v,[5]=Qt};Tt[Qt]=Vt;end;Zt[Lt]=Vt;else end;end;end;end;end;j,S=pt,Tt;else end;else end;v[L[p]]=V[p](Zt);P=Zt;end;else if U<179 then v[z[p]]=v[Z[p]][r[p]];elseif U==180 then v[Z[p]](v[z[p]]);else local et,Zt,Jt=Z[p],a(L[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4];local pt=a(Jt[et],355920250);Jt[et]=pt;Jt,et=Q[7],pt+1;pt=I(Jt,et);local Tt,Lt;if pt<128 then Tt,Lt=pt,et+1;else local Vt=I(Jt,et+1);if Vt<128 then Tt,Lt=(pt-128)*128+Vt,et+2;else local Qt=I(Jt,et+2);if Qt<128 then Tt,Lt=(pt-128)*16384+(Vt-128)+Qt*128,et+3;else local ft=I(Jt,et+3);Tt,Lt=(pt-128)*16384+(Vt-128)*2097152+(Qt-128)*128+ft%128+(ft-ft%128)*2097152,et+4;end;end;end;et,pt=Zt*16843009,Lt+Tt;local Vt=pt-Tt%4;for Tt=Lt,Vt-1,4 do E(Jt,Tt,(a(l(Jt,Tt),et)));end;for et=Vt,pt-1,1 do K(Jt,et,(a(I(Jt,et),Zt)));end;Z[p]=32;L[p]=193;z[p]=49;e[p]=21;end;end;end;end;end;else if U>=125 then if U<137 then if U<131 then if U<128 then if U<126 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[z[p]];elseif U~=127 then P,N,D=L[p],Z[p],z[p];c,n=P+D-1,P+N;M=v[n];w=M.n;F=N+w-1;M.n=F;R(M,1,w,N,M);R(v,P+1,n-1,1,M);X=m(v[P](_(M,1,M.n)));R(X,1,D,P,v);else p=if J[p]<=v[L[p]]then p else z[p];end;else b,Yt,Ut=P,N,D;local et,Zt,Jt=c,n,M;if U<129 then v[Z[p]]=v[L[p]]*V[p];elseif U~=130 then P,N=L[p],Z[p];D=P+N;c=v[D];n=c.n;if j then for pt in i,j,nil do local Tt=j[pt];if Tt then Tt[6]=Tt;Tt[4]=v[pt];Tt[5]=4;j[pt]=nil;end;end;end;if S then for pt,Tt in i,S,nil do local Lt=Tt[4];if S then Tt=S[pt];if Tt then local Vt,Qt=pt+Lt,d(Lt);R(v,pt,Vt-1,1,Qt);Tt[6]=Qt;Tt[5]=1;S[pt]=nil;end;end;end;end;c.n=N+n-1;R(c,1,n,N,c);R(v,P+1,D-1,1,c);return v[P](_(c,1,c.n));else v[Z[p]]=O[r[p]][V[p]];end;P,N,D,c,n,M=b,Yt,Ut,et,Zt,Jt;end;else if U<134 then if U>=132 then if U==133 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return J[p],V[p];else P=Z[p];v[P],v[P+1]=r[p],V[p];end;else P=Z[p];v[P],v[P+1]=v[L[p]],v[z[p]];end;else if U>=135 then if U==136 then v[L[p]]=v[z[p]]^v[Z[p]];else v[z[p]]=v[L[p]]*v[Z[p]];end;else p=if v[z[p]]<v[Z[p]]then p else L[p];end;end;end;else if U<143 then if U>=140 then if U>=141 then if U==142 then v[L[p]]=v[z[p]]%J[p];else P,N,D=Z[p],z[p],L[p];c,n,M=P+D-1,P+N,m(v[P](_(v,P+1,P+N)));R(M,1,D,P,v);end;else O[r[p]]=v[Z[p]];end;else if U<138 then v[L[p]]=z;elseif U~=139 then if j then local et=z[p];local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;et=Z[p];Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;else v[Z[p]]=v[z[p]]/L[p];end;end;else if U<146 then if U>=144 then if U~=145 then p=if v[L[p]]<z[p]then p else Z[p];else P=W[Z[p]];v[z[p]]=P[6][P[5]][v[L[p]]];end;else v[Z[p]]=m(v[L[p]](v[z[p]]));end;else if U>=148 then if U==149 then v[Z[p]]=o(v[L[p]],z[p]);else v[L[p]]=v[z[p]]+Z[p];end;elseif U~=147 then v[L[p]]=v[z[p]](J[p]);else v[Z[p]]=v[z[p]](v[L[p]]);end;end;end;end;else if U<112 then if U>=106 then if U>=109 then if U<110 then v[z[p]]=v[L[p]]%Z[p];elseif U~=111 then v[Z[p]]=v[L[p]]/v[z[p]];else v[z[p]]=Z;end;else if U>=107 then if U==108 then y+=C;P=if C<=0 then y>=A else y<=A;if P then v[z[p]]=y;p=Z[p];else p=L[p];end;else v[L[p]](V[p]);end;else v[L[p]]=v[z[p]]%v[Z[p]];end;end;else if U>=103 then if U>=104 then if U~=105 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[z[p]](J[p],_(v[L[p]],1,v[L[p]].n));else v[Z[p]]=a(v[z[p]],r[p]);end;else P=W[L[p]];v[Z[p]]=P[6][P[5]][z[p]];end;else if U>=101 then if U~=102 then v[z[p]]=v[L[p]][v[Z[p]]];else P,N,D=Z[p],z[p],L[p];c,n=v[P],P+N;M=v[n];R(v,P+1,n-1,D+1,c);R(M,1,M.n,D+N,c);end;else v[Z[p]]=v[L[p]]//v[z[p]];end;end;end;else if U<118 then if U<115 then local et=p;if U<113 then W[Z[et]][v[z[et]]]=r[et];elseif U==114 then if j then local Zt=Z[et];local Jt=j[Zt];if Jt then Jt[6]=Jt;Jt[4]=v[Zt];Jt[5]=4;j[Zt]=nil;end;Jt=z[et];Zt=j[Jt];if Zt then Zt[6]=Zt;Zt[4]=v[Jt];Zt[5]=4;j[Jt]=nil;end;Zt=L[et];Jt=j[Zt];if Jt then Jt[6]=Jt;Jt[4]=v[Zt];Jt[5]=4;j[Zt]=nil;end;end;else f=z[et];p=L[et]+1;break;end;p=et;else if U>=116 then if U~=117 then v[z[p]]=#v[L[p]];else v[Z[p]]=Y;end;else P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],L[p],z[p];n=c<16384 and 7 or(c<2097152 and 14 or 21);M,w=t(c,o(1,n)-1),H(c,n);Z[p]=a(N,69,(t(P,127)));z[p]=a(M,22,(t(H(P,14),127)));e[p]=a(w,77,(t(H(P,21),127)));L[p]=a(D,87,(t(H(P,7),127)));p=p-1;end;end;else if U>=121 then if U>=123 then if U~=124 then v[z[p]]=t(v[Z[p]],v[L[p]]);else v[z[p]]=v[Z[p]];P=Z[p+1];N,D,c=v[P],v[P+1],v[P+2];v[P]=N(D,c);p=p+1;end;else if U==122 then v[L[p]]=a(v[Z[p]],v[z[p]]);else v[Z[p]]=h(v[z[p]],L[p]);end;end;else if U<119 then p=if v[Z[p]]~=r[p]then z[p]else p;else if U~=120 then v[Z[p]]=W[L[p]][v[z[p]]];else if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt-1,d(Jt);R(v,et,pt,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return;end;end;end;end;end;end;end;else if U<50 then if U<25 then if U>=12 then if U>=18 then if U>=21 then if U<23 then if U~=22 then else P=L[p];v[P],v[P+1]=z[p],J[p];end;else if U~=24 then v[z[p]]=O[r[p]];else if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt-1,d(Jt);R(v,et,pt,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return V[p],r[p],v[Z[p]];end;end;else if U>=19 then if U==20 then P=W[z[p]];P[6][P[5]][r[p]]=Z[p];else v[z[p]]=Q;end;else P=W[L[p]];v[z[p]]=P[6][P[5]];end;end;else if U>=15 then if U<16 then P,N=Z[p],v[z[p]];v[P+1]=N;v[P]=N[r[p]];v[z[p+1]]=v[Z[p+1]];v[z[p+2]]=r[p+2];v[z[p+3]]=v[Z[p+3]];p=p+3;else if U~=17 then v[L[p]]=v[z[p]]^Z[p];else P,N,D=Z[p],z[p],L[p];c=P+N;n=v[c];M=n.n;w=N+M-1;n.n=w;R(n,1,M,N,n);R(v,P+1,c-1,1,n);v[P]=m(v[P](_(n,1,n.n)));end;end;else if U<13 then v[Z[p]]=v[z[p]][L[p]];else if U==14 then P=z[p];local et,Zt,Jt=y();if et then v[P]=Zt;v[P+1]=Jt;p=Z[p];else p=L[p];end;N,D,c=et,Zt,Jt;else v[L[p]]=v[z[p]]>Z[p];end;end;end;end;else if U<6 then if U<3 then if U>=1 then if U==2 then v[L[p]]=W[Z[p]];else v[L[p]]=v[z[p]]..v[Z[p]];end;else v[Z[p]]=m(v[z[p]]());end;else if U>=4 then if U~=5 then v[z[p]](r[p],v[Z[p]]);else v[z[p]]=v[Z[p]]>v[L[p]];end;else G=v[z[p]];end;end;else if U<9 then if U<7 then p=if v[z[p]]<=v[Z[p]]then p else L[p];else if U==8 then N,P=(a(L[p],(t(a(G,(t(H(G,29),7))),536870911)))),Z[p]+1;for et=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);Z[P]=a(Z[P],(t(H(N,0),127)));L[P]=a(L[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));e[P]=a(e[P],(t(H(N,21),127)));P=P+1;end;e[p]=21;else local et,Zt,Jt=z[p],v[Z[p]],v[L[p]];local pt,Tt=t(Zt,4294967295),t(Jt,4294967295);local Jt,Lt,Vt,Qt=t(pt,65535),H(pt,16),t(Tt,65535),H(Tt,16);Zt=t(Jt*Vt+o(t(Jt*Qt+Lt*Vt,65535),16),4294967295);Jt=nil;repeat Tt=Zt%4294967296;if Tt~=Tt then Jt=0;break;end;Jt=Tt-Tt%1;until true;v[et]=Jt;end;end;else if U<10 then P=L[p];v[P],v[P+1]=v[Z[p]],V[p];else if U~=11 then local et,Zt,Jt=Z[p],v[L[p]],z[p];local pt,Tt=t(Zt,4294967295),t(Jt,4294967295);local Zt,Lt,Vt,Qt=t(pt,65535),H(pt,16),t(Tt,65535),H(Tt,16);Jt=t(Zt*Vt+o(t(Zt*Qt+Lt*Vt,65535),16),4294967295);Vt=nil;repeat pt=Jt%4294967296;if pt~=pt then Vt=0;break;end;Vt=pt-pt%1;until true;v[et]=Vt;else v[L[p]]=z[p];end;end;end;end;end;else if U<37 then if U<31 then if U>=28 then if U>=29 then if U==30 then v[z[p]]=v[Z[p]]>=v[L[p]];else W[Z[p]][V[p]]=r[p];end;else v[z[p]](_(v[Z[p]],1,v[Z[p]].n));end;elseif U<26 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return r[p],J[p],V[p];elseif U==27 then v[z[p]]=r[p];else v[Z[p]]=L;end;else if U>=34 then if U>=35 then if U==36 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return V[p];else v[z[p]]=v[Z[p]]-L[p];end;else v[z[p]]=v[Z[p]]<=L[p];end;else if U<32 then v[Z[p]]=V[p]*v[L[p]];else if U==33 then P=z[p];local et,Zt=y();if et then v[P]=Zt;p=L[p];else p=Z[p];end;N,D=et,Zt;else v[Z[p]]=v[L[p]]~=z[p];end;end;end;end;else if U>=43 then if U<46 then if U<44 then P=Z[p];N,D,c=v[P],v[P+1],v[P+2];v[P]=N(D,c);else if U==45 then v[z[p]]=e;else y,A,C,s=x[5],x[7],x[6],x[9];x=x[8];end;end;else if U<48 then if U==47 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;return r[p],v[Z[p]],v[z[p]];else P,N=Z[p],v[z[p]];v[P+1]=N;v[P]=N[r[p]];v[z[p+1]]=v[Z[p+1]];v[z[p+2]]=r[p+2];v[z[p+3]]=v[Z[p+3]];P=Z[p+4];N,D,c=v[P],v[P+1],v[P+2];v[P]=N(D,c);p+=4;end;else if U~=49 then P=W[z[p]];v[Z[p]]=P[6][P[5]][r[p]];else P=W[Z[p]];P[6][P[5]]=v[z[p]];end;end;end;else if U<40 then if U<38 then v[z[p]],v[Z[p]]=v[L[p]]();else if U==39 then v[Z[p]]=W[z[p]][r[p]];else v[z[p]]=v[Z[p]];v[z[p+1]]=r[p+1];v[z[p+2]]=v[Z[p+2]];P=Z[p+3];N,D,c=v[P],v[P+1],v[P+2];v[P]=N(D,c);p=p+3;end;end;else if U<41 then v[Z[p]](v[z[p]],_(v[L[p]],1,v[L[p]].n));else if U~=42 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt,d(Jt);R(v,et,pt-1,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return v[z[p]],v[Z[p]];else P=W[L[p]];P[6][P[5]]=J[p];end;end;end;end;end;end;else if U<75 then if U<62 then if U>=56 then if U<59 then if U>=57 then if U==58 then P=L[p];N,D,c,n=v[P],v[P+1],v[P+2],v[P+3];v[P]=N(D,c,n);else v[Z[p]]=v[L[p]]*z[p];end;else v[L[p]]=v[Z[p]]//z[p];end;else if U<60 then P,N=Z[p],v[z[p]];v[P+1]=N;v[P]=N[r[p]];else if U~=61 then v[z[p]]=H(v[L[p]],Z[p]);else if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt-1,d(Jt);R(v,et,pt,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return r[p],v[Z[p]],V[p];end;end;end;else Yt,Ut=N,D;if U>=53 then if U<54 then v[Z[p]]=v[L[p]]+v[z[p]];elseif U~=55 then v[z[p]]=r[p]..v[Z[p]];else v[L[p]]=Z[p]*v[z[p]];end;else if U<51 then T=x;x,P={[7]=A,[6]=C,[8]=T,[5]=y,[9]=s},Z[p];C,A=v[P+2]+0,v[P+1]+0;y=v[P]-C;p=L[p];else b=P;if U~=52 then P=L[p];D=P+z[p];if j then for T in i,j,nil do local et=j[T];if et then et[6]=et;et[4]=v[T];et[5]=4;j[T]=nil;end;end;end;if S then for T,et in i,S,nil do local Zt=et[4];if S then et=S[T];if et then local Jt,pt=T+Zt-1,d(Zt);R(v,T,Jt,1,pt);et[6]=pt;et[5]=1;S[T]=nil;end;end;end;end;return v[P](_(v,P+1,D));else v[Z[p]]=v[z[p]]-r[p];end;P=b;end;end;N,D=Yt,Ut;end;else if U>=68 then if U>=71 then if U>=73 then if U~=74 then if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut=d(Yt);R(v,T,T+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[T]=nil;end;end;end;end;return v[L[p]](v[Z[p]],v[z[p]]);else v[z[p]]=v[L[p]]==v[Z[p]];end;elseif U==72 then v[Z[p]]=g(v[L[p]]);else v[L[p]]=v[z[p]]~=J[p];end;else if U>=69 then if U==70 then v[z[p]]=Y[L[p]];else p=if L[p]<v[Z[p]]then p else z[p];end;else p=v[Z[p]];end;end;else if U<65 then if U>=63 then if U~=64 then v[z[p]][r[p]]=Z[p];else v[L[p]]=z[p]+v[Z[p]];end;else v[z[p]]=k;end;else if U<66 then p=if v[z[p]]then L[p]else Z[p];else if U==67 then v[z[p]]={};else W[L[p]][v[Z[p]]]=v[z[p]];end;end;end;end;end;else if U>=87 then if U<93 then if U<90 then if U>=88 then if U~=89 then local T,b,Yt=z[p],L[p],J[p];local Ut,et=t(b,4294967295),t(Yt,4294967295);local Yt,Zt,Jt,pt=t(Ut,65535),H(Ut,16),t(et,65535),H(et,16);b=t(Yt*Jt+o(t(Yt*pt+Zt*Jt,65535),16),4294967295);Yt=nil;repeat Ut=b%4294967296;if Ut~=Ut then Yt=0;break;end;Yt=Ut-Ut%1;until true;v[T]=Yt;else v[L[p]]=v[Z[p]]..V[p];end;else local T,b,Yt=z[p],r[p],J[p];local Ut,et=t(b,4294967295),t(Yt,4294967295);local Yt,Zt,Jt,pt=t(Ut,65535),H(Ut,16),t(et,65535),H(et,16);b=t(Yt*Jt+o(t(Yt*pt+Zt*Jt,65535),16),4294967295);Yt=nil;repeat Zt=b%4294967296;if Zt~=Zt then Yt=0;break;end;Yt=Zt-Zt%1;until true;v[T]=Yt;end;else if U<91 then v[Z[p]]=v[L[p]]<z[p];else if U==92 then W[L[p]][J[p]]=v[z[p]];else P,N,D=L[p],Z[p],z[p];c=P+N;v[P]=m(v[P](_(v,P+1,c)));end;end;end;else if U>=96 then if U>=98 then if U==99 then if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut=d(Yt);R(v,T,T+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[T]=nil;end;end;end;end;return v[L[p]]();else v[Z[p]]=L[p]^v[z[p]];end;elseif U~=97 then v[Z[p]]=v[L[p]]<v[z[p]];else v[Z[p]][L[p]]=V[p];end;elseif U<94 then v[z[p]]=v[L[p]]-v[Z[p]];elseif U~=95 then v[L[p]]=v[z[p]]~=v[Z[p]];else local T,b,Yt=Z[p],L[p],Q[4];local Ut=a(Yt[T],355920250);Yt[T]=Ut;Yt,T=Q[7],Ut+1;Ut=I(Yt,T);local et,Zt;if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end;T,Ut=b*16843009,Zt+et;local Jt=Ut-et%4;for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end;for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end;Z[p]=235;L[p]=172;z[p]=26;e[p]=21;end;end;else if U<81 then if U>=78 then if U>=79 then if U==80 then v[z[p]]=a(v[Z[p]],L[p]);else p=L[p];end;else v[L[p]](v[z[p]],J[p]);end;else if U<76 then P,N,D,c=a(G,t(H(G,14),262143),(t(H(G,28),15))),Z[p],z[p],L[p];n=N<2097152 and 7 or 14;M,w=t(N,o(1,n)-1),H(N,n);L[p]=a(c,76,(t(H(P,7),127)));z[p]=a(D,108,(t(H(P,14),127)));Z[p]=a(M,12,(t(P,127)));e[p]=a(w,34,(t(H(P,21),127)));p=p-1;else if U==77 then P=W[L[p]];P[6][P[5]][J[p]]=V[p];else local T,b,Yt=Z[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4];local Ut=a(Yt[T],355920250);Yt[T]=Ut;Yt,T=Q[7],Ut+1;Ut=I(Yt,T);local et,Zt;if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end;T,Ut=b*16843009,Zt+et;local Jt=Ut-et%4;for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end;for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end;Z[p]=140;L[p]=27;z[p]=64;e[p]=21;end;end;end;else if U>=84 then if U>=85 then if U~=86 then v[z[p]]=Z[p]/v[L[p]];else v[z[p]](r[p],_(v[Z[p]],1,v[Z[p]].n));end;else p=if v[L[p]]<=Z[p]then p else z[p];end;else if U<82 then v[L[p]][Z[p]]=v[z[p]];elseif U==83 then local U,T,b=L[p],J[p],v[z[p]];local J,Yt=t(T,4294967295),t(b,4294967295);local T,Ut,et,Zt=t(J,65535),H(J,16),t(Yt,65535),H(Yt,16);b=t(T*et+o(t(T*Zt+Ut*et,65535),16),4294967295);Yt=nil;repeat et=b%4294967296;if et~=et then Yt=0;break;end;Yt=et-et%1;until true;v[U]=Yt;else v[z[p]]=-v[L[p]];end;end;end;end;end;end;end;
 end
 p = p + 1;
 end;else end;if f==248 then while true do local U,J=Z[p];if U>=111 then if U>=167 then if U>=195 then if U>=209 then if U>=216 then if U>=219 then if U<221 then if U~=220 then p=if v[e[p]]then z[p]else L[p];else v[z[p]]=v[e[p]]>L[p];end;else if U~=222 then local T,b,Yt=L[p],a(e[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4];local Ut=a(Yt[T],355920250);Yt[T]=Ut;Yt,T=Q[7],Ut+1;Ut=I(Yt,T);local et,Zt;if Ut<128 then et,Zt=Ut,T+1;else local Jt=I(Yt,T+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,T+2;else local pt=I(Yt,T+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,T+3;else local Tt=I(Yt,T+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,T+4;end;end;end;T,Ut=b*16843009,Zt+et;local Jt=Ut-et%4;for et=Zt,Jt-1,4 do E(Yt,et,(a(l(Yt,et),T)));end;for T=Jt,Ut-1,1 do K(Yt,T,(a(I(Yt,T),b)));end;L[p]=126;e[p]=98;z[p]=18;Z[p]=181;else if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut=d(Yt);R(v,T,T+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[T]=nil;end;end;end;end;return v[e[p]](V[p],v[L[p]]);end;end;else if U<217 then P,N,D=L[p],e[p],z[p];c=P+N;n=v[c];M=n.n;w=N+M-1;n.n=w;R(n,1,M,N,n);R(v,P+1,c-1,1,n);v[P]=m(v[P](_(n,1,n.n)));else if U~=218 then v[e[p]]=v[z[p]](_(v[L[p]],1,v[L[p]].n));else p=if V[p]<v[e[p]]then p else L[p];end;end;end;else if U<212 then if U<210 then v[L[p]]=u[p];elseif U==211 then local T,b,Yt=e[p],L[p],V[p];local Ut,et=t(b,4294967295),t(Yt,4294967295);local Yt,Zt,Jt,pt=t(Ut,65535),H(Ut,16),t(et,65535),H(et,16);et=t(Yt*Jt+o(t(Yt*pt+Zt*Jt,65535),16),4294967295);Zt=nil;repeat b=et%4294967296;if b~=b then Zt=0;break;end;Zt=b-b%1;until true;v[T]=Zt;else v[z[p]]=t(v[e[p]],L[p]);end;elseif U>=214 then if U~=215 then v[z[p]]=v[L[p]]();else v[z[p]]=v[e[p]]==v[L[p]];end;elseif U==213 then W[L[p]][u[p]]=v[z[p]];else v[e[p]][z[p]]=v[L[p]];end;end;else if U>=202 then if U<205 then if U>=203 then if U==204 then if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut,et=T+Yt,d(Yt);R(v,T,Ut-1,1,et);b[6]=et;b[5]=1;S[T]=nil;end;end;end;end;return v[e[p]](V[p],_(v[L[p]],1,v[L[p]].n));else v[e[p]](v[z[p]],v[L[p]]);end;else P,N=e[p],v[z[p]];v[P+1]=N;v[P]=N[r[p]];v[z[p+1]]=v[e[p+1]];v[L[p+2]]=u[p+2];v[z[p+3]]=v[e[p+3]];P=L[p+4];N,D,c=v[P],v[P+1],v[P+2];v[P]=N(D,c);p=p+4;end;else if U<207 then if U==206 then P,N,D,c=L[p],z[p],e[p],a(G,t(H(G,14),262143),(t(H(G,28),15)));n=N<16384 and 7 or(N<2097152 and 14 or 21);M,w=H(N,n),t(N,o(1,n)-1);Z[p]=a(M,2,(t(H(c,21),127)));L[p]=a(P,114,(t(c,127)));e[p]=a(D,36,(t(H(c,7),127)));z[p]=a(w,126,(t(H(c,14),127)));p=p-1;else v[e[p]]={};end;else if U~=208 then P=e[p];v[P],v[P+1]=v[L[p]],z[p];else v[L[p]]=h(v[z[p]],e[p]);end;end;end;else if U<198 then if U>=196 then if U==197 then v[L[p]]=a(v[z[p]],u[p]);else v[L[p]]=u[p]+V[p];end;else y,A,C,s=x[5],x[7],x[6],x[9];x=x[8];end;else if U>=200 then if U==201 then P=W[L[p]];P[6][P[5]][u[p]]=V[p];else v[z[p]]=v[e[p]]+L[p];end;else if U~=199 then if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut=d(Yt);R(v,T,T+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[T]=nil;end;end;end;end;return v[L[p]](v[e[p]],v[z[p]]);else v[L[p]]=h(V[p],v[e[p]]);end;end;end;end;end;else if U>=181 then if U<188 then if U>=184 then if U<186 then if U==185 then p=if v[L[p]]<v[z[p]]then p else e[p];else O[V[p]]=v[L[p]];end;else if U~=187 then P=W[z[p]];v[e[p]]=P[6][P[5]][v[L[p]]];else if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut=d(Yt);R(v,T,T+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[T]=nil;end;end;end;end;return r[p],v[e[p]];end;end;else if U>=182 then if U==183 then P=W[z[p]];P[6][P[5]][r[p]]=e[p];else v[e[p]]=v[z[p]]..r[p];end;else end;end;else if U<191 then if U>=189 then if U~=190 then p=if v[L[p]]<=z[p]then p else e[p];else v[e[p]]=m(v[L[p]](v[z[p]]));end;else v[z[p]]=v[e[p]][v[L[p]]];end;else if U<193 then if U~=192 then v[z[p]]=v[e[p]]==r[p];else v[z[p]]=G;end;elseif U==194 then v[e[p]]=v[z[p]]-r[p];else local T,b,Yt=L[p],a(e[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4];local Ut=a(Yt[T],355920250);Yt[T]=Ut;T,Yt=Q[7],Ut+1;Ut=I(T,Yt);local et,Zt;if Ut<128 then et,Zt=Ut,Yt+1;else local Jt=I(T,Yt+1);if Jt<128 then et,Zt=(Ut-128)*128+Jt,Yt+2;else local pt=I(T,Yt+2);if pt<128 then et,Zt=(Ut-128)*16384+(Jt-128)+pt*128,Yt+3;else local Tt=I(T,Yt+3);et,Zt=(Ut-128)*16384+(Jt-128)*2097152+(pt-128)*128+Tt%128+(Tt-Tt%128)*2097152,Yt+4;end;end;end;Yt,Ut=b*16843009,Zt+et;local Jt=Ut-et%4;for et=Zt,Jt-1,4 do E(T,et,(a(l(T,et),Yt)));end;for Yt=Jt,Ut-1,1 do K(T,Yt,(a(I(T,Yt),b)));end;L[p]=253;e[p]=42;z[p]=97;Z[p]=181;end;end;end;else if U>=174 then if U<177 then if U<175 then v[L[p]]=h(z[p],v[e[p]]);elseif U~=176 then v[z[p]]=m(v[L[p]](_(v[e[p]],1,v[e[p]].n)));else if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut,et=T+Yt-1,d(Yt);R(v,T,Ut,1,et);b[6]=et;b[5]=1;S[T]=nil;end;end;end;end;return v[z[p]](v[e[p]]);end;else if U<179 then if U==178 then P=e[p];v[P],v[P+1]=V[p],L[p];else v[L[p]]=v[z[p]](u[p]);end;else if U==180 then v[L[p]]=-v[z[p]];else v[z[p]]=m(v[L[p]]());end;end;end;else if U<170 then if U<168 then v[z[p]]=v[e[p]]/v[L[p]];else if U~=169 then if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut,et=T+Yt-1,d(Yt);R(v,T,Ut,1,et);b[6]=et;b[5]=1;S[T]=nil;end;end;end;end;return v[L[p]],V[p];else p=if v[e[p]]~=z[p]then L[p]else p;end;end;else if U>=172 then if U==173 then v[z[p]]=d(e[p]);else v[z[p]]=r[p]..v[e[p]];end;elseif U~=171 then local T,b,Yt=z[p],v[e[p]],L[p];local Ut,et=t(b,4294967295),t(Yt,4294967295);local Zt,Jt,pt,Tt=t(Ut,65535),H(Ut,16),t(et,65535),H(et,16);b=t(Zt*pt+o(t(Zt*Tt+Jt*pt,65535),16),4294967295);Yt=nil;repeat et=b%4294967296;if et~=et then Yt=0;break;end;Yt=et-et%1;until true;v[T]=Yt;else v[e[p]]=t(v[z[p]],r[p]);end;end;end;end;end;else local T,b,Yt;if U>=139 then if U<153 then if U>=146 then if U>=149 then if U<151 then if U~=150 then v[e[p]]=v[L[p]]~=z[p];else v[z[p]](v[e[p]],_(v[L[p]],1,v[L[p]].n));end;else if U==152 then v[z[p]]=v[e[p]]*r[p];else P=e[p];v[P],v[P+1]=z[p],L[p];end;end;else if U>=147 then if U==148 then v[z[p]]=v[L[p]]//e[p];else p=if z[p]<v[L[p]]then p else e[p];end;else v[L[p]]=v[z[p]]~=v[e[p]];end;end;else if U>=142 then if U<144 then T,b,Yt=P,N,D;local Ut,et,Zt=c,n,M;if U==143 then p=if v[L[p]]~=V[p]then e[p]else p;else P,N=e[p],L[p];D=P+N;c=v[D];n=c.n;if j then for Jt in i,j,nil do local pt=j[Jt];if pt then pt[6]=pt;pt[4]=v[Jt];pt[5]=4;j[Jt]=nil;end;end;end;if S then for Jt,pt in i,S,nil do local Tt=pt[4];if S then pt=S[Jt];if pt then local Lt,Vt=Jt+Tt,d(Tt);R(v,Jt,Lt-1,1,Vt);pt[6]=Vt;pt[5]=1;S[Jt]=nil;end;end;end;end;c.n=N+n-1;R(c,1,n,N,c);R(v,P+1,D-1,1,c);return v[P](_(c,1,c.n));end;P,N,D,c,n,M=T,b,Yt,Ut,et,Zt;else if U~=145 then J=x;x,P={[7]=A,[6]=C,[8]=J,[5]=y,[9]=s},e[p];C,A=v[P+2]+0,v[P+1]+0;y=v[P]-C;p=z[p];else P,N,D,c=L[p],a(G,t(H(G,14),262143),(t(H(G,28),15))),z[p],e[p];n=P<2097152 and 7 or 14;M,w=t(P,o(1,n)-1),H(P,n);L[p]=a(M,10,(t(N,127)));e[p]=a(c,106,(t(H(N,7),127)));Z[p]=a(w,46,(t(H(N,21),127)));z[p]=a(D,78,(t(H(N,14),127)));p=p-1;end;end;else if U>=140 then if U==141 then v[e[p]]=z;else local Ut,et,Zt=z[p],v[e[p]],r[p];local Jt,pt=t(et,4294967295),t(Zt,4294967295);local et,Tt,Lt,Vt=t(Jt,65535),H(Jt,16),t(pt,65535),H(pt,16);Jt=t(et*Lt+o(t(et*Vt+Tt*Lt,65535),16),4294967295);Vt=nil;repeat Zt=Jt%4294967296;if Zt~=Zt then Vt=0;break;end;Vt=Zt-Zt%1;until true;v[Ut]=Vt;end;else v[e[p]]=v[z[p]]*v[L[p]];end;end;end;else local Ut=p;if U<160 then if U>=156 then if U<158 then if U~=157 then if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt,Tt=et+Jt-1,d(Jt);R(v,et,pt,1,Tt);Zt[6]=Tt;Zt[5]=1;S[et]=nil;end;end;end;end;return;else v[e[Ut]](v[z[Ut]],r[Ut]);end;elseif U==159 then v[L[Ut]][v[z[Ut]]]=u[Ut];else local et,Zt,Jt=z[Ut],r[Ut],v[e[Ut]];local pt,Tt=t(Zt,4294967295),t(Jt,4294967295);local Zt,Jt,Lt,Vt=t(pt,65535),H(pt,16),t(Tt,65535),H(Tt,16);Tt=t(Zt*Lt+o(t(Zt*Vt+Jt*Lt,65535),16),4294967295);Lt=nil;repeat pt=Tt%4294967296;if pt~=pt then Lt=0;break;end;Lt=pt-pt%1;until true;v[et]=Lt;end;elseif U<154 then v[L[Ut]][v[e[Ut]]]=z[Ut];elseif U~=155 then v[z[Ut]]=v[e[Ut]];else v[e[Ut]]=v[L[Ut]]<z[Ut];end;else if U>=163 then if U>=165 then if U~=166 then f=e[Ut];p=L[Ut]+1;break;else P=e[Ut];v[P],v[P+1]=r[Ut],V[Ut];end;else if U==164 then v[e[Ut]]=z[Ut]-v[L[Ut]];else v[z[Ut]]=a(e[Ut],v[L[Ut]]);end;end;else if U<161 then v[e[Ut]]=t(V[Ut],v[L[Ut]]);else if U~=162 then v[z[Ut]]=a(u[Ut],v[L[Ut]]);else P,N,D=z[Ut],e[Ut],L[Ut];c,n,M=P+D-1,P+N,m(v[P](_(v,P+1,P+N)));R(M,1,D,P,v);end;end;end;end;p=Ut;end;else if U>=125 then if U>=132 then if U>=135 then if U>=137 then if U~=138 then local Ut,et,Zt=e[p],V[p],r[p];local Jt,pt=t(et,4294967295),t(Zt,4294967295);local et,Zt,Tt,Lt=t(Jt,65535),H(Jt,16),t(pt,65535),H(pt,16);Jt=t(et*Tt+o(t(et*Lt+Zt*Tt,65535),16),4294967295);pt=nil;repeat Lt=Jt%4294967296;if Lt~=Lt then pt=0;break;end;pt=Lt-Lt%1;until true;v[Ut]=pt;else v[e[p]]=a(v[L[p]],v[z[p]]);end;else if U~=136 then v[e[p]]=v[L[p]]*z[p];else N,P=(a(e[p],(t(a(k,(t(H(k,29),7))),536870911)))),L[p]+1;for Ut=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);L[P]=a(L[P],(t(H(N,0),127)));e[P]=a(e[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));Z[P]=a(Z[P],(t(H(N,21),127)));P=P+1;end;Z[p]=181;end;end;else if U>=133 then if U~=134 then local Ut,et,Zt=L[p],v[z[p]],v[e[p]];local Jt,pt=t(et,4294967295),t(Zt,4294967295);local Tt,Lt,Vt,Qt=t(Jt,65535),H(Jt,16),t(pt,65535),H(pt,16);et=t(Tt*Vt+o(t(Tt*Qt+Lt*Vt,65535),16),4294967295);Zt=nil;repeat pt=et%4294967296;if pt~=pt then Zt=0;break;end;Zt=pt-pt%1;until true;v[Ut]=Zt;else O[u[p]][V[p]]=v[L[p]];end;else local Ut,et,Zt=e[p],z[p],v[L[p]];local Jt,pt=t(et,4294967295),t(Zt,4294967295);local et,Tt,Lt,Vt=t(Jt,65535),H(Jt,16),t(pt,65535),H(pt,16);Jt=t(et*Lt+o(t(et*Vt+Tt*Lt,65535),16),4294967295);pt=nil;repeat Zt=Jt%4294967296;if Zt~=Zt then pt=0;break;end;pt=Zt-Zt%1;until true;v[Ut]=pt;end;end;else if U<128 then if U<126 then P=L[p];v[P],v[P+1]=V[p],v[e[p]];else if U~=127 then v[L[p]][V[p]]=v[e[p]];else N,P=(a(e[p],(t(a(G,(t(H(G,29),7))),536870911)))),L[p]+1;for Ut=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);L[P]=a(L[P],(t(H(N,0),127)));e[P]=a(e[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));Z[P]=a(Z[P],(t(H(N,21),127)));P=P+1;end;Z[p]=181;end;end;else if U>=130 then if U~=131 then v[z[p]]=e[p]^v[L[p]];else Y[V[p]]=u[p];end;elseif U==129 then v[z[p]][r[p]]=u[p];else v[L[p]]=L;end;end;end;else if U<118 then if U>=114 then b,Yt=N,D;if U<116 then T=P;if U~=115 then P=z[p];D=P+e[p];if j then for Ut in i,j,nil do local et=j[Ut];if et then et[6]=et;et[4]=v[Ut];et[5]=4;j[Ut]=nil;end;end;end;if S then for Ut,et in i,S,nil do local Zt=et[4];if S then et=S[Ut];if et then local Jt,pt=Ut+Zt-1,d(Zt);R(v,Ut,Jt,1,pt);et[6]=pt;et[5]=1;S[Ut]=nil;end;end;end;end;return v[P](_(v,P+1,D));else v[z[p]][e[p]]=L[p];end;P=T;else if U~=117 then v[L[p]]=u[p]*v[z[p]];else P=W[z[p]];P[6][P[5]][v[L[p]]]=v[e[p]];end;end;N,D=b,Yt;else if U>=112 then if U==113 then v[L[p]]=H(v[e[p]],z[p]);else for T=e[p],L[p],1 do v[T]=nil;end;end;else v[z[p]]=v[e[p]];P=L[p+1];N,D,c=v[P],v[P+1],v[P+2];v[P]=N(D,c);p=p+1;end;end;else if U<121 then if U>=119 then if U==120 then v[e[p]]=z[p]%v[L[p]];else v[e[p]]=v[L[p]]%V[p];end;else v[z[p]]=v[L[p]]<v[e[p]];end;else if U>=123 then if U==124 then v[z[p]](r[p],v[e[p]]);else P=e[p];local T,b,Yt=y();if T then v[P]=b;v[P+1]=Yt;p=z[p];else p=L[p];end;N,D,c=T,b,Yt;end;else if U~=122 then v[z[p]]=e;else P=e[p];v[P],v[P+1]=v[z[p]],v[L[p]];end;end;end;end;end;end;end;else if U>=55 then if U>=83 then if U>=97 then if U>=104 then if U>=107 then if U<109 then if U==108 then v[L[p]]=v[z[p]]+v[e[p]];else v[z[p]]=k;end;elseif U==110 then v[z[p]]=h(v[e[p]],v[L[p]]);else v[L[p]]=v[z[p]]%e[p];end;elseif U>=105 then if U~=106 then W[z[p]][r[p]]=e[p];else v[e[p]]=v[z[p]]-L[p];end;else if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut=d(Yt);R(v,T,T+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[T]=nil;end;end;end;end;return v[e[p]];end;else if U<100 then if U>=98 then if U==99 then Y[z[p]]=v[e[p]];else v[z[p]]=W[e[p]][L[p]];end;else v[z[p]]=v[L[p]]..v[e[p]];end;else if U<102 then if U~=101 then local T,b=V[p];if T then local Yt=#T/3;if Yt>0 then b={};local Ut,et=j,S;for Zt=1,Yt,1 do local Yt=(Zt-1)*3;local Jt,pt=T[Yt+2],T[Yt+1];if Jt==0 then Ut=Ut or{};local Tt=Ut[pt];if Tt then else Tt={[5]=pt,[6]=v};Ut[pt]=Tt;end;b[Zt]=Tt;else if Jt==1 then b[Zt]=v[pt];else if Jt==3 then b[Zt]=W[pt];else if Jt==2 then et=et or{};local Jt=et[pt];if Jt then else Jt={[4]=T[Yt+3],[6]=v,[5]=pt};et[pt]=Jt;end;b[Zt]=Jt;else end;end;end;end;end;j,S=Ut,et;else end;else end;v[L[p]]=u[p](b);P=b;else v[L[p]](u[p],_(v[z[p]],1,v[z[p]].n));end;else if U~=103 then v[z[p]]=Z;else v[L[p]]=e[p]<v[z[p]];end;end;end;end;else if U>=90 then if U>=93 then if U<95 then if U~=94 then P,N=e[p],v[z[p]];v[P+1]=N;v[P]=N[r[p]];v[z[p+1]]=v[e[p+1]];v[L[p+2]]=u[p+2];v[z[p+3]]=v[e[p+3]];p=p+3;else P=z[p];v[P],v[P+1]=e[p],v[L[p]];end;else if U~=96 then P=v[L[p]];v[e[p]]=m(_(P,z[p],P.n));else p=if v[z[p]]then L[p]else e[p];end;end;else if U>=91 then if U==92 then v[z[p]]=Q;else v[z[p]]=h(v[L[p]],u[p]);end;else v[z[p]]=v[L[p]]~=u[p];end;end;else if U<86 then if U<84 then v[e[p]]=v[L[p]]^v[z[p]];else if U==85 then if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut=d(Yt);R(v,T,T+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[T]=nil;end;end;end;end;return v[L[p]](v[e[p]],_(v[z[p]],1,v[z[p]].n));else P=W[L[p]];P[6][P[5]][v[z[p]]]=e[p];end;end;else if U<88 then if U==87 then p=if v[e[p]]<=r[p]then p else z[p];else P,N,D=e[p],L[p],z[p];c,n=v[P],P+N;M=v[n];R(v,P+1,n-1,D+1,c);R(M,1,M.n,D+N,c);end;else if U==89 then v[z[p]]=v[e[p]][L[p]];else v[L[p]]=v[e[p]]<=v[z[p]];end;end;end;end;end;else if U<69 then if U<62 then if U<58 then if U>=56 then if U==57 then v[L[p]]=W[e[p]][V[p]];else v[L[p]]=v[e[p]]+V[p];end;else P,N=e[p],v[z[p]];v[P+1]=N;v[P]=N[r[p]];end;else if U<60 then if U==59 then v[L[p]](v[e[p]]);else v[z[p]]=v[L[p]]>=v[e[p]];end;else if U==61 then k=v[L[p]];else if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut,et=T+Yt,d(Yt);R(v,T,Ut-1,1,et);b[6]=et;b[5]=1;S[T]=nil;end;end;end;end;return v[z[p]](_(v[e[p]],1,v[e[p]].n));end;end;end;else if U>=65 then if U>=67 then if U==68 then v[e[p]]=v[L[p]](v[z[p]]);else P=W[e[p]];v[z[p]]=P[6][P[5]][r[p]];end;else if U==66 then v[e[p]]=a(V[p],r[p]);else if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut=d(Yt);R(v,T,T+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[T]=nil;end;end;end;end;return V[p];end;end;else if U<63 then p=if e[p]<=v[z[p]]then p else L[p];else if U~=64 then P=W[z[p]];P[6][P[5]]=v[L[p]];else v[L[p]]=v[z[p]]==e[p];end;end;end;end;else if U>=76 then if U>=79 then if U>=81 then if U==82 then P,N,D=L[p],e[p],z[p];c,n=P+D-1,P+N;M=v[n];w=M.n;F=N+w-1;M.n=F;R(M,1,w,N,M);R(v,P+1,n-1,1,M);X=m(v[P](_(M,1,M.n)));R(X,1,D,P,v);else P,N,D=z[p],e[p],L[p];c=v[P];R(v,P+1,P+N,D+1,c);end;else if U~=80 then p=if v[e[p]]<z[p]then p else L[p];else v[z[p]]=e[p]+v[L[p]];end;end;else if U<77 then v[z[p]]=t(e[p],v[L[p]]);else if U~=78 then p=v[z[p]];else P,N,D=z[p],L[p],e[p];c=P+N;v[P]=m(v[P](_(v,P+1,c)));end;end;end;else if U>=72 then if U<74 then if U~=73 then v[L[p]]=a(v[e[p]],z[p]);else v[z[p]]=v;end;elseif U==75 then v[e[p]]=Y;else v[L[p]]=g(v[e[p]]);end;else if U>=70 then if U==71 then v[e[p]]=#v[z[p]];else P=z[p];local T,b=y();if T then v[P]=b;p=L[p];else p=e[p];end;N,D=T,b;end;else W[z[p]][u[p]]=r[p];end;end;end;end;end;else if U>=27 then if U<41 then if U>=34 then if U<37 then if U>=35 then if U~=36 then P=W[e[p]];P[6][P[5]]=r[p];else v[L[p]]=V[p]+v[e[p]];end;else v[L[p]]=e[p];end;else if U>=39 then if U~=40 then v[z[p]]=v[L[p]]%v[e[p]];else v[L[p]](_(v[e[p]],1,v[e[p]].n));end;elseif U==38 then v[L[p]]=W[z[p]][v[e[p]]];else if j then for T in i,j,nil do local b=j[T];if b then b[6]=b;b[4]=v[T];b[5]=4;j[T]=nil;end;end;end;if S then for T,b in i,S,nil do local Yt=b[4];if S then b=S[T];if b then local Ut,et=T+Yt-1,d(Yt);R(v,T,Ut,1,et);b[6]=et;b[5]=1;S[T]=nil;end;end;end;end;return V[p],r[p],u[p];end;end;else if U>=30 then if U>=32 then if U~=33 then G=v[z[p]];else v[e[p]]=L[p]*v[z[p]];end;else if U==31 then v[e[p]]=L[p]/v[z[p]];else v[L[p]],v[e[p]]=v[z[p]]();end;end;else if U<28 then P=z[p];N,D,c,n=v[P],v[P+1],v[P+2],v[P+3];v[P]=N(D,c,n);else if U==29 then J=x;x,P,N={[7]=A,[6]=C,[8]=J,[5]=y,[9]=s},z[p],q(B);N(Y,v[P],v[P+1],v[P+2]);s,p=e[p],L[p];else if j then for J in i,j,nil do local T=j[J];if T then T[6]=T;T[4]=v[J];T[5]=4;j[J]=nil;end;end;end;if S then for J,T in i,S,nil do local b=T[4];if S then T=S[J];if T then local Yt=d(b);R(v,J,J+b-1,1,Yt);T[6]=Yt;T[5]=1;S[J]=nil;end;end;end;end;return u[p],V[p];end;y=N;end;end;end;else if U>=48 then if U>=51 then if U<53 then if U~=52 then if j then local J=z[p];local T=j[J];if T then T[6]=T;T[4]=v[J];T[5]=4;j[J]=nil;end;end;else P=W[z[p]];v[e[p]]=P[6][P[5]][L[p]];end;else if U==54 then local J,T,b=e[p],L[p],Q[4];local Yt=a(b[J],355920250);b[J]=Yt;b,J=Q[7],Yt+1;Yt=I(b,J);local Ut,et;if Yt<128 then Ut,et=Yt,J+1;else local Zt=I(b,J+1);if Zt<128 then Ut,et=(Yt-128)*128+Zt,J+2;else local Jt=I(b,J+2);if Jt<128 then Ut,et=(Yt-128)*16384+(Zt-128)+Jt*128,J+3;else local pt=I(b,J+3);Ut,et=(Yt-128)*16384+(Zt-128)*2097152+(Jt-128)*128+pt%128+(pt-pt%128)*2097152,J+4;end;end;end;Yt,J=T*16843009,et+Ut;local Zt=J-Ut%4;for Ut=et,Zt-1,4 do E(b,Ut,(a(l(b,Ut),Yt)));end;for Yt=Zt,J-1,1 do K(b,Yt,(a(I(b,Yt),T)));end;e[p]=169;L[p]=201;z[p]=46;Z[p]=181;else v[z[p]]=v[e[p]]>v[L[p]];end;end;else if U>=49 then if U~=50 then v[z[p]]();else p=v[z[p]];end;else p=L[p];end;end;else if U>=44 then if U<46 then if U~=45 then if j then for J in i,j,nil do local T=j[J];if T then T[6]=T;T[4]=v[J];T[5]=4;j[J]=nil;end;end;end;if S then for J,T in i,S,nil do local b=T[4];if S then T=S[J];if T then local Yt=d(b);R(v,J,J+b-1,1,Yt);T[6]=Yt;T[5]=1;S[J]=nil;end;end;end;end;return r[p],_(v[e[p]],1,v[e[p]].n);else N,P=e[p],z[p]+1;for J=1,L[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);L[P]=a(L[P],(t(H(N,0),127)));e[P]=a(e[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));Z[P]=a(Z[P],(t(H(N,21),127)));P=P+1;end;Z[p]=181;end;else if U~=47 then v[L[p]]=Y[V[p]];else v[z[p]][v[L[p]]]=v[e[p]];end;end;else if U<42 then W[z[p]][v[e[p]]]=v[L[p]];elseif U~=43 then local J,T,b=z[p],v[L[p]];repeat local Yt=T%4294967296;if Yt~=Yt then b=0;break;end;b=Yt-Yt%1;until true;v[J]=b;elseif j then local J=e[p];local T=j[J];if T then T[6]=T;T[4]=v[J];T[5]=4;j[J]=nil;end;T=L[p];J=j[T];if J then J[6]=J;J[4]=v[T];J[5]=4;j[T]=nil;end;T=z[p];J=j[T];if J then J[6]=J;J[4]=v[T];J[5]=4;j[T]=nil;end;end;end;end;end;else if U<13 then if U<6 then if U<3 then if U<1 then v[z[p]]=v[e[p]]-v[L[p]];elseif U~=2 then v[L[p]]=t(v[e[p]],v[z[p]]);else v[z[p]](r[p],u[p]);end;else if U>=4 then if U==5 then p=if v[z[p]]<=v[e[p]]then p else L[p];else v[z[p]]=v[L[p]]>=e[p];end;else v[z[p]]=o(v[L[p]],e[p]);end;end;else if U<9 then if U<7 then v[L[p]]=O[V[p]];elseif U~=8 then v[e[p]]=v[z[p]][r[p]];else v[z[p]](r[p]);end;else if U<11 then if U~=10 then v[e[p]]=v[L[p]]<=z[p];else P=L[p];v[P],v[P+1]=z[p],u[p];end;else if U~=12 then p=if v[e[p]]~=v[z[p]]then L[p]else p;else v[z[p]+v[L[p]]]=v[e[p]];end;end;end;end;else if U<20 then if U>=16 then if U>=18 then if U==19 then v[L[p]]=v[e[p]]/V[p];else P=W[L[p]];v[e[p]]=P[6][P[5]];end;else if U~=17 then v[z[p]]=Y[e[p]];else v[z[p]]=not v[L[p]];end;end;else if U<14 then if j then for J in i,j,nil do local T=j[J];if T then T[6]=T;T[4]=v[J];T[5]=4;j[J]=nil;end;end;end;if S then for J,T in i,S,nil do local b=T[4];if S then T=S[J];if T then local Yt=d(b);R(v,J,J+b-1,1,Yt);T[6]=Yt;T[5]=1;S[J]=nil;end;end;end;end;return v[z[p]],v[e[p]];elseif U==15 then v[e[p]]=v[L[p]]/z[p];else P=L[p];N,D,c=v[P],v[P+1],v[P+2];v[P]=N(D,c);end;end;else if U<23 then if U<21 then y+=C;P=if C<=0 then y>=A else y<=A;if P then v[e[p]]=y;p=z[p];else p=L[p];end;else if U~=22 then v[z[p]]=v[L[p]]//v[e[p]];elseif j then local J=e[p];local T=j[J];if T then T[6]=T;T[4]=v[J];T[5]=4;j[J]=nil;end;J=z[p];T=j[J];if T then T[6]=T;T[4]=v[J];T[5]=4;j[J]=nil;end;end;end;else if U>=25 then if U~=26 then P=W[e[p]];P[6][P[5]][V[p]]=v[L[p]];else v[e[p]]=O[V[p]][r[p]];end;else if U~=24 then v[L[p]][V[p]]=e[p];else v[e[p]]=W[z[p]];end;end;end;end;end;end;end;end;p=p+1;end;else end;if f==78 then while true do local U,J,T,f=Z[p];if U>=95 then if U>=143 then if U<167 then if U>=155 then J,T,f=P,N,D;local b,Yt,Ut=c,n,M;if U>=161 then if U>=164 then if U>=165 then if U~=166 then v[z[p]][u[p]]=v[L[p]];else v[L[p]]=v[z[p]+v[e[p]]];end;else v[e[p]]=z[p]+v[L[p]];end;else if U>=162 then if U~=163 then p=z[p];else v[z[p]][L[p]]=v[e[p]];end;else v[e[p]](_(v[z[p]],1,v[z[p]].n));end;end;else if U<158 then if U>=156 then if U==157 then v[z[p]]=L[p]*v[e[p]];else v[e[p]]=v[L[p]]%V[p];end;else P,N=L[p],e[p];D=P+N;c=v[D];n=c.n;if j then for et in i,j,nil do local Zt=j[et];if Zt then Zt[6]=Zt;Zt[4]=v[et];Zt[5]=4;j[et]=nil;end;end;end;if S then for et,Zt in i,S,nil do local Jt=Zt[4];if S then Zt=S[et];if Zt then local pt=d(Jt);R(v,et,et+Jt-1,1,pt);Zt[6]=pt;Zt[5]=1;S[et]=nil;end;end;end;end;c.n=N+n-1;R(c,1,n,N,c);R(v,P+1,D-1,1,c);return v[P](_(c,1,c.n));end;elseif U<159 then v[L[p]][u[p]]=V[p];elseif U~=160 then v[z[p]]=v[L[p]]<=v[e[p]];else v[z[p]]=-v[L[p]];end;end;P,N,D,c,n,M=J,T,f,b,Yt,Ut;else if U>=149 then if U<152 then if U>=150 then if U~=151 then v[e[p]]=v[L[p]]/z[p];else v[z[p]](v[e[p]],v[L[p]]);end;else p=if v[z[p]]then e[p]else L[p];end;else if U>=153 then if U~=154 then local b;local Yt=V[p];if Yt then local Ut=#Yt/3;if Ut>0 then b={};local et,Zt=j,S;for Jt=1,Ut,1 do local Ut=(Jt-1)*3;local pt,Tt=Yt[Ut+2],Yt[Ut+1];if pt==0 then et=et or{};local Lt=et[Tt];if Lt then else Lt={[5]=Tt,[6]=v};et[Tt]=Lt;end;b[Jt]=Lt;else if pt==1 then b[Jt]=v[Tt];else if pt==3 then b[Jt]=W[Tt];else if pt==2 then Zt=Zt or{};local pt=Zt[Tt];if pt then else pt={[4]=Yt[Ut+3],[6]=v,[5]=Tt};Zt[Tt]=pt;end;b[Jt]=pt;else end;end;end;end;end;j,S=et,Zt;else end;else end;v[L[p]]=v[e[p]](b);P=b;else p=if v[e[p]]<L[p]then p else z[p];end;else P=e[p];N,D,c,n=v[P],v[P+1],v[P+2],v[P+3];v[P]=N(D,c,n);end;end;else if U<146 then if U>=144 then if U==145 then p=if r[p]<=v[e[p]]then p else z[p];else W[e[p]][v[L[p]]]=v[z[p]];end;else v[e[p]]=v[L[p]]/v[z[p]];end;else if U>=147 then if U==148 then P=z[p];v[P],v[P+1]=e[p],L[p];else P,N,D=L[p],e[p],z[p];c,n,M=P+D-1,P+N,m(v[P](_(v,P+1,P+N)));R(M,1,D,P,v);end;else v[L[p]]=v[z[p]]/u[p];end;end;end;end;else if U>=179 then if U<185 then if U<182 then if U>=180 then if U==181 then P=e[p];local b,Yt,Ut=y();if b then v[P]=Yt;v[P+1]=Ut;p=L[p];else p=z[p];end;N,D,c=b,Yt,Ut;else if j then local b=e[p];local Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;b=L[p];Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;b=z[p];Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;end;end;else if j then for b in i,j,nil do local Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;end;end;if S then for b,Yt in i,S,nil do local Ut=Yt[4];if S then Yt=S[b];if Yt then local et=d(Ut);R(v,b,b+Ut-1,1,et);Yt[6]=et;Yt[5]=1;S[b]=nil;end;end;end;end;return v[z[p]](u[p],v[L[p]]);end;else if U<183 then v[L[p]]=W[z[p]][u[p]];elseif U~=184 then v[z[p]]=Y[r[p]];else v[z[p]]=v[L[p]][v[e[p]]];end;end;else if U>=188 then if U>=189 then if U==190 then p=if v[z[p]]<=v[e[p]]then p else L[p];else y,A,C,s=x[5],x[7],x[6],x[9];x=x[8];end;else v[L[p]]=o(v[e[p]],z[p]);end;else if U>=186 then if U==187 then P=W[z[p]];v[L[p]]=P[6][P[5]][u[p]];else p=v[z[p]];end;else if j then for b in i,j,nil do local Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;end;end;if S then for b,Yt in i,S,nil do local Ut=Yt[4];if S then Yt=S[b];if Yt then local et=d(Ut);R(v,b,b+Ut-1,1,et);Yt[6]=et;Yt[5]=1;S[b]=nil;end;end;end;end;return;end;end;end;else if U<173 then if U<170 then if U<168 then v[e[p]](r[p]);else if U==169 then P,N,D=L[p],z[p],e[p];c=P+N;v[P]=m(v[P](_(v,P+1,c)));else v[L[p]]=m(v[z[p]]());end;end;else if U>=171 then if U==172 then v[L[p]]=v[e[p]]~=z[p];else v[z[p]]=v[L[p]](_(v[e[p]],1,v[e[p]].n));end;else if j then for b in i,j,nil do local Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;end;end;if S then for b,Yt in i,S,nil do local Ut=Yt[4];if S then Yt=S[b];if Yt then local et=d(Ut);R(v,b,b+Ut-1,1,et);Yt[6]=et;Yt[5]=1;S[b]=nil;end;end;end;end;return v[e[p]](V[p],_(v[L[p]],1,v[L[p]].n));end;end;else if U<176 then if U>=174 then if U~=175 then if j then for b in i,j,nil do local Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;end;end;if S then for b,Yt in i,S,nil do local Ut=Yt[4];if S then Yt=S[b];if Yt then local et,Zt=b+Ut,d(Ut);R(v,b,et-1,1,Zt);Yt[6]=Zt;Yt[5]=1;S[b]=nil;end;end;end;end;return v[L[p]]();else v[L[p]]=v[z[p]]();end;else v[e[p]]=z[p]-v[L[p]];end;elseif U>=177 then if U==178 then if j then local b=z[p];local Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;end;else v[e[p]],v[L[p]]=v[z[p]]();end;else if j then for b in i,j,nil do local Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;end;end;if S then for b,Yt in i,S,nil do local Ut=Yt[4];if S then Yt=S[b];if Yt then local et,Zt=b+Ut-1,d(Ut);R(v,b,et,1,Zt);Yt[6]=Zt;Yt[5]=1;S[b]=nil;end;end;end;end;return V[p];end;end;end;end;else if U>=119 then if U>=131 then if U<137 then if U>=134 then if U>=135 then if U~=136 then v[e[p]]=W[L[p]][z[p]];else v[z[p]]=Y[L[p]];end;else v[L[p]]=v[z[p]]+u[p];end;elseif U>=132 then if U~=133 then if j then for b in i,j,nil do local Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;end;end;if S then for b,Yt in i,S,nil do local Ut=Yt[4];if S then Yt=S[b];if Yt then local et=d(Ut);R(v,b,b+Ut-1,1,et);Yt[6]=et;Yt[5]=1;S[b]=nil;end;end;end;end;return r[p],v[z[p]];elseif j then local b=z[p];local Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;Yt=L[p];b=j[Yt];if b then b[6]=b;b[4]=v[Yt];b[5]=4;j[Yt]=nil;end;end;else v[e[p]]=v[L[p]]>z[p];end;elseif U<140 then if U<138 then v[L[p]]=v[e[p]]%v[z[p]];elseif U~=139 then v[e[p]]=v[z[p]]~=v[L[p]];else v[e[p]]=not v[z[p]];end;elseif U>=141 then if U~=142 then v[e[p]]=V[p];else v[e[p]][v[L[p]]]=z[p];end;else v[L[p]]=v[z[p]]+v[e[p]];end;else if U>=125 then if U>=128 then if U>=129 then if U==130 then v[L[p]]=m(v[z[p]](_(v[e[p]],1,v[e[p]].n)));else p=if v[z[p]]~=e[p]then L[p]else p;end;else v[L[p]](V[p],u[p]);end;else if U<126 then P,N,D,c=z[p],L[p],a(k,t(H(k,14),262143),(t(H(k,28),15))),e[p];n=P<16384 and 7 or(P<2097152 and 14 or 21);M,w=H(P,n),t(P,o(1,n)-1);L[p]=a(N,9,(t(H(D,7),127)));e[p]=a(c,2,(t(D,127)));z[p]=a(w,39,(t(H(D,14),127)));Z[p]=a(M,81,(t(H(D,21),127)));p=p-1;else if U~=127 then P,N,D=L[p],z[p],e[p];c=P+N;n=v[c];M=n.n;w=N+M-1;n.n=w;R(n,1,M,N,n);R(v,P+1,c-1,1,n);v[P]=m(v[P](_(n,1,n.n)));else G=v[z[p]];end;end;end;else if U<122 then if U<120 then P,N,D,c=L[p],z[p],e[p],a(k,t(H(k,14),262143),(t(H(k,28),15)));n=N<2097152 and 7 or 14;M,w=H(N,n),t(N,o(1,n)-1);Z[p]=a(M,93,(t(H(c,21),127)));e[p]=a(D,12,(t(c,127)));L[p]=a(P,42,(t(H(c,7),127)));z[p]=a(w,111,(t(H(c,14),127)));p=p-1;else if U~=121 then v[z[p]]=v[e[p]]-r[p];else v[z[p]]=g(v[L[p]]);end;end;else if U>=123 then if U~=124 then v[L[p]](V[p],_(v[e[p]],1,v[e[p]].n));else v[L[p]](v[e[p]]);end;else P=W[e[p]];P[6][P[5]][V[p]]=r[p];end;end;end;end;else if U<107 then if U>=101 then if U>=104 then if U<105 then P=L[p];v[P],v[P+1]=u[p],V[p];else if U~=106 then if j then for g in i,j,nil do local b=j[g];if b then b[6]=b;b[4]=v[g];b[5]=4;j[g]=nil;end;end;end;if S then for g,b in i,S,nil do local Yt=b[4];if S then b=S[g];if b then local Ut=d(Yt);R(v,g,g+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[g]=nil;end;end;end;end;return v[z[p]](v[e[p]]);else v[e[p]]=v[L[p]]~=V[p];end;end;else if U<102 then y+=C;P=if C<=0 then y>=A else y<=A;if P then v[L[p]]=y;p=z[p];else p=e[p];end;else if U~=103 then v[e[p]][v[L[p]]]=v[z[p]];else N,P=(a(L[p],(t(a(G,(t(H(G,29),7))),536870911)))),e[p]+1;for g=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);e[P]=a(e[P],(t(H(N,0),127)));L[P]=a(L[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));Z[P]=a(Z[P],(t(H(N,21),127)));P=P+1;end;Z[p]=76;end;end;end;else if U<98 then if U>=96 then if U~=97 then v[z[p]]=k;else v[e[p]]=v[L[p]]%z[p];end;else P,N,D=z[p],L[p],e[p];c,n=v[P],P+N;M=v[n];R(v,P+1,n-1,D+1,c);R(M,1,M.n,D+N,c);end;else if U>=99 then if U~=100 then p=if v[z[p]]~=r[p]then e[p]else p;else v[e[p]]=W[z[p]][v[L[p]]];end;else if j then for g in i,j,nil do local b=j[g];if b then b[6]=b;b[4]=v[g];b[5]=4;j[g]=nil;end;end;end;if S then for g,b in i,S,nil do local Yt=b[4];if S then b=S[g];if b then local Ut=d(Yt);R(v,g,g+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[g]=nil;end;end;end;end;return v[L[p]](_(v[z[p]],1,v[z[p]].n));end;end;end;else if U>=113 then if U<116 then if U<114 then if j then for g in i,j,nil do local b=j[g];if b then b[6]=b;b[4]=v[g];b[5]=4;j[g]=nil;end;end;end;if S then for g,b in i,S,nil do local Yt=b[4];if S then b=S[g];if b then local Ut=d(Yt);R(v,g,g+Yt-1,1,Ut);b[6]=Ut;b[5]=1;S[g]=nil;end;end;end;end;return v[e[p]],V[p];elseif U==115 then v[z[p]]=#v[L[p]];else P=W[e[p]];v[L[p]]=P[6][P[5]][z[p]];end;else if U>=117 then if U==118 then P=z[p];v[P],v[P+1]=v[L[p]],v[e[p]];else v[e[p]]=a(v[z[p]],L[p]);end;else P=e[p];v[P],v[P+1]=r[p],v[z[p]];end;end;else if U<110 then if U<108 then v[e[p]]=v[L[p]][V[p]];else if U~=109 then v[z[p]](v[L[p]],u[p]);else P=z[p];v[P],v[P+1]=L[p],u[p];end;end;else if U<111 then P=z[p];v[P],v[P+1]=e[p],v[L[p]];else if U==112 then v[z[p]](v[L[p]],_(v[e[p]],1,v[e[p]].n));else v[z[p]][v[L[p]]]=u[p];end;end;end;end;end;end;end;else local g;if U>=47 then if U>=71 then if U<83 then if U>=77 then if U<80 then if U<78 then v[e[p]]=H(v[z[p]],v[L[p]]);elseif U==79 then v[e[p]]=v[z[p]]-L[p];else if j then for b in i,j,nil do local Yt=j[b];if Yt then Yt[6]=Yt;Yt[4]=v[b];Yt[5]=4;j[b]=nil;end;end;end;if S then for b,Yt in i,S,nil do local Ut=Yt[4];if S then Yt=S[b];if Yt then local et=d(Ut);R(v,b,b+Ut-1,1,et);Yt[6]=et;Yt[5]=1;S[b]=nil;end;end;end;end;return v[e[p]],_(v[L[p]],1,v[L[p]].n);end;else if U<81 then p=if v[e[p]]<v[z[p]]then p else L[p];else if U==82 then g=x;x,P,N={[7]=A,[6]=C,[8]=g,[5]=y,[9]=s},z[p],q(B);N(Y,v[P],v[P+1],v[P+2]);s=e[p];p,y=L[p],N;else p=if v[L[p]]<=e[p]then p else z[p];end;end;end;else if U>=74 then if U<75 then P=W[L[p]];P[6][P[5]][v[z[p]]]=v[e[p]];else if not(U==76)then v[e[p]]=v[z[p]][L[p]];end;end;else if U>=72 then if U~=73 then v[z[p]]=u[p]..v[L[p]];else if j then for b in i,j,nil do local q=j[b];if q then q[6]=q;q[4]=v[b];q[5]=4;j[b]=nil;end;end;end;if S then for b,q in i,S,nil do local B=q[4];if S then q=S[b];if q then local Yt=d(B);R(v,b,b+B-1,1,Yt);q[6]=Yt;q[5]=1;S[b]=nil;end;end;end;end;return r[p],V[p],v[e[p]];end;else N,P=e[p],L[p]+1;for b=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);e[P]=a(e[P],(t(H(N,0),127)));L[P]=a(L[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));Z[P]=a(Z[P],(t(H(N,21),127)));P=P+1;end;Z[p]=76;end;end;end;else if U>=89 then if U>=92 then if U<93 then v[e[p]]=t(v[z[p]],v[L[p]]);else if U==94 then v[z[p]]=v[L[p]]==v[e[p]];else P=L[p];v[P],v[P+1]=u[p],z[p];end;end;else if U<90 then if j then for b in i,j,nil do local q=j[b];if q then q[6]=q;q[4]=v[b];q[5]=4;j[b]=nil;end;end;end;if S then for b,q in i,S,nil do local B=q[4];if S then q=S[b];if q then local Yt,Ut=b+B-1,d(B);R(v,b,Yt,1,Ut);q[6]=Ut;q[5]=1;S[b]=nil;end;end;end;end;return v[e[p]](v[z[p]],r[p]);elseif U==91 then v[L[p]]=v[z[p]]..u[p];else v[L[p]]=v[z[p]]//v[e[p]];end;end;else if U<86 then if U>=84 then if U==85 then v[L[p]]=h(v[z[p]],v[e[p]]);else if j then for b in i,j,nil do local q=j[b];if q then q[6]=q;q[4]=v[b];q[5]=4;j[b]=nil;end;end;end;if S then for b,q in i,S,nil do local B=q[4];if S then q=S[b];if q then local Yt,Ut=b+B-1,d(B);R(v,b,Yt,1,Ut);q[6]=Ut;q[5]=1;S[b]=nil;end;end;end;end;return V[p],r[p];end;else v[z[p]]=v[e[p]]>=v[L[p]];end;elseif U<87 then local b,q,B=z[p],v[L[p]],v[e[p]];local Yt,Ut=t(q,4294967295),t(B,4294967295);local et,Zt,Jt,pt=t(Yt,65535),H(Yt,16),t(Ut,65535),H(Ut,16);q=t(et*Jt+o(t(et*pt+Zt*Jt,65535),16),4294967295);B=nil;repeat Jt=q%4294967296;if Jt~=Jt then B=0;break;end;B=Jt-Jt%1;until true;v[b]=B;elseif U~=88 then if j then for b in i,j,nil do local q=j[b];if q then q[6]=q;q[4]=v[b];q[5]=4;j[b]=nil;end;end;end;if S then for b,q in i,S,nil do local B=q[4];if S then q=S[b];if q then local Yt=d(B);R(v,b,b+B-1,1,Yt);q[6]=Yt;q[5]=1;S[b]=nil;end;end;end;end;return v[L[p]];else local b,q,B=L[p],e[p],Q[4];local Yt=a(B[b],355920250);B[b]=Yt;b,B=Q[7],Yt+1;Yt=I(b,B);local Ut,et;if Yt<128 then Ut,et=Yt,B+1;else local Zt=I(b,B+1);if Zt<128 then Ut,et=(Yt-128)*128+Zt,B+2;else local Jt=I(b,B+2);if Jt<128 then Ut,et=(Yt-128)*16384+(Zt-128)+Jt*128,B+3;else local pt=I(b,B+3);Ut,et=(Yt-128)*16384+(Zt-128)*2097152+(Jt-128)*128+pt%128+(pt-pt%128)*2097152,B+4;end;end;end;B,Yt=q*16843009,et+Ut;local Zt=Yt-Ut%4;for Ut=et,Zt-1,4 do E(b,Ut,(a(l(b,Ut),B)));end;for B=Zt,Yt-1,1 do K(b,B,(a(I(b,B),q)));end;L[p]=238;e[p]=247;z[p]=186;Z[p]=76;end;end;end;else if U<59 then if U<53 then if U<50 then if U>=48 then if U==49 then P=W[L[p]];P[6][P[5]]=u[p];else v[z[p]]=v[L[p]]..v[e[p]];end;else p=if L[p]<=v[e[p]]then p else z[p];end;else if U>=51 then if U~=52 then v[z[p]]=v[e[p]]*v[L[p]];else v[L[p]]=a(v[z[p]],v[e[p]]);end;else p=if v[L[p]]~=v[z[p]]then e[p]else p;end;end;else if U<56 then if U<54 then v[z[p]]=e[p];elseif U~=55 then v[z[p]]=v[L[p]]==e[p];else v[L[p]]=v[z[p]];end;elseif U<57 then local b,q,B=e[p],r[p],v[z[p]];local Yt,Ut=t(q,4294967295),t(B,4294967295);local B,et,Zt,Jt=t(Yt,65535),H(Yt,16),t(Ut,65535),H(Ut,16);Ut=t(B*Zt+o(t(B*Jt+et*Zt,65535),16),4294967295);q=nil;repeat Jt=Ut%4294967296;if Jt~=Jt then q=0;break;end;q=Jt-Jt%1;until true;v[b]=q;elseif U==58 then Y[L[p]]=v[e[p]];else v[e[p]]=v[L[p]]//z[p];end;end;else if U>=65 then if U>=68 then if U<69 then P,N,D=e[p],z[p],L[p];c=v[P];R(v,P+1,P+N,D+1,c);else if U==70 then local b,q,B=e[p],a(L[p],(t(a(k,(t(H(k,29),7))),536870911))),Q[4];local Yt=a(B[b],355920250);B[b]=Yt;b,B=Q[7],Yt+1;Yt=I(b,B);local Ut,et;if Yt<128 then Ut,et=Yt,B+1;else local Zt=I(b,B+1);if Zt<128 then Ut,et=(Yt-128)*128+Zt,B+2;else local Jt=I(b,B+2);if Jt<128 then Ut,et=(Yt-128)*16384+(Zt-128)+Jt*128,B+3;else local pt=I(b,B+3);Ut,et=(Yt-128)*16384+(Zt-128)*2097152+(Jt-128)*128+pt%128+(pt-pt%128)*2097152,B+4;end;end;end;Yt,B=q*16843009,et+Ut;local Zt=B-Ut%4;for Ut=et,Zt-1,4 do E(b,Ut,(a(l(b,Ut),Yt)));end;for Yt=Zt,B-1,1 do K(b,Yt,(a(I(b,Yt),q)));end;e[p]=115;L[p]=25;z[p]=152;Z[p]=76;else O[V[p]][u[p]]=v[L[p]];end;end;else if U>=66 then if U==67 then v[e[p]]=v[z[p]]==r[p];else v[z[p]]=v[e[p]]>v[L[p]];end;else if j then for b in i,j,nil do local q=j[b];if q then q[6]=q;q[4]=v[b];q[5]=4;j[b]=nil;end;end;end;if S then for b,q in i,S,nil do local B=q[4];if S then q=S[b];if q then local Yt=d(B);R(v,b,b+B-1,1,Yt);q[6]=Yt;q[5]=1;S[b]=nil;end;end;end;end;return v[L[p]],v[z[p]];end;end;else T,f=N,D;if U>=62 then J=P;if U>=63 then if U==64 then v[z[p]]=t(v[e[p]],r[p]);else P=L[p];D=P+e[p];if j then for b in i,j,nil do local q=j[b];if q then q[6]=q;q[4]=v[b];q[5]=4;j[b]=nil;end;end;end;if S then for b,q in i,S,nil do local B=q[4];if S then q=S[b];if q then local Yt,Ut=b+B-1,d(B);R(v,b,Yt,1,Ut);q[6]=Ut;q[5]=1;S[b]=nil;end;end;end;end;return v[P](_(v,P+1,D));end;else for b=z[p],L[p],1 do v[b]=nil;end;end;P=J;else if U>=60 then if U~=61 then v[L[p]][V[p]]=e[p];else v[z[p]]=O[r[p]];end;else P=W[L[p]];P[6][P[5]]=v[e[p]];end;end;N,D=T,f;end;end;end;else if U>=23 then if U>=35 then if U>=41 then if U>=44 then if U<45 then W[L[p]][u[p]]=V[p];else if U==46 then P=W[L[p]];P[6][P[5]][V[p]]=v[e[p]];else v[e[p]]=v[z[p]]<v[L[p]];end;end;else if U<42 then v[z[p]]=G;else if U~=43 then N,P=(a(L[p],(t(a(k,(t(H(k,29),7))),536870911)))),e[p]+1;for J=1,z[p],1 do N=t(a(N,(o(N,13))),536870911);N=a(N,(H(N,13)));N=t(a(N,(o(N,14))),536870911);e[P]=a(e[P],(t(H(N,0),127)));L[P]=a(L[P],(t(H(N,7),127)));z[P]=a(z[P],(t(H(N,14),127)));Z[P]=a(Z[P],(t(H(N,21),127)));P=P+1;end;Z[p]=76;else if j then for J in i,j,nil do local T=j[J];if T then T[6]=T;T[4]=v[J];T[5]=4;j[J]=nil;end;end;end;if S then for J,T in i,S,nil do local f=T[4];if S then T=S[J];if T then local b=d(f);R(v,J,J+f-1,1,b);T[6]=b;T[5]=1;S[J]=nil;end;end;end;end;return V[p],_(v[L[p]],1,v[L[p]].n);end;end;end;else if U>=38 then if U<39 then v[L[p]]=H(v[z[p]],e[p]);else if U~=40 then g=x;x,P={[7]=A,[6]=C,[8]=g,[5]=y,[9]=s},L[p];C,A=v[P+2]+0,v[P+1]+0;y=v[P]-C;p=z[p];else v[e[p]]=m(v[z[p]](v[L[p]]));end;end;else if U<36 then O[u[p]]=v[L[p]];else local J,T;if U==37 then if j then for f in i,j,nil do local s=j[f];if s then s[6]=s;s[4]=v[f];s[5]=4;j[f]=nil;end;end;end;if S then for f,s in i,S,nil do local A=s[4];if S then s=S[f];if s then local C=d(A);R(v,f,f+A-1,1,C);s[6]=C;s[5]=1;S[f]=nil;end;end;end;end;return v[L[p]](v[z[p]],v[e[p]]);else P,J,T=z[p],y();if J then v[P]=T;p=e[p];else p=L[p];end;end;N,D=J,T;end;end;end;else if U<29 then if U>=26 then if U>=27 then if U==28 then v[L[p]]=v[z[p]]-v[e[p]];else v[e[p]]={};end;else P=W[z[p]];v[L[p]]=P[6][P[5]];end;else if U<24 then local J,T,f=e[p],a(L[p],(t(a(G,(t(H(G,29),7))),536870911))),Q[4];local s=a(f[J],355920250);f[J]=s;J,f=Q[7],s+1;s=I(J,f);local Q,y;if s<128 then Q,y=s,f+1;else local A=I(J,f+1);if A<128 then Q,y=(s-128)*128+A,f+2;else local C=I(J,f+2);if C<128 then Q,y=(s-128)*16384+(A-128)+C*128,f+3;else local x=I(J,f+3);Q,y=(s-128)*16384+(A-128)*2097152+(C-128)*128+x%128+(x-x%128)*2097152,f+4;end;end;end;s,f=T*16843009,y+Q;local A=f-Q%4;for Q=y,A-1,4 do E(J,Q,(a(l(J,Q),s)));end;for Q=A,f-1,1 do K(J,Q,(a(I(J,Q),T)));end;e[p]=253;L[p]=243;z[p]=213;Z[p]=76;elseif U==25 then v[L[p]]=v[e[p]]*V[p];else v[z[p]]=v[L[p]](u[p]);end;end;else if U<32 then if U>=30 then if U==31 then v[z[p]]=v[e[p]]+L[p];else P=W[e[p]];v[z[p]]=P[6][P[5]][v[L[p]]];end;else p=if z[p]<v[e[p]]then p else L[p];end;else if U<33 then v[z[p]]=a(v[e[p]],r[p]);else if U~=34 then v[e[p]]();else local Z,J=V[p];if Z then local T=#Z/3;if T>0 then J={};local Q,f=j,S;for s=1,T,1 do local T=(s-1)*3;local y,A=Z[T+2],Z[T+1];if y==0 then Q=Q or{};local C=Q[A];if C then else C={[5]=A,[6]=v};Q[A]=C;end;J[s]=C;else if y==1 then J[s]=v[A];else if y==3 then J[s]=W[A];else if y==2 then f=f or{};local y=f[A];if y then else y={[4]=Z[T+3],[6]=v,[5]=A};f[A]=y;end;J[s]=y;else end;end;end;end;end;j,S=Q,f;else end;else end;v[e[p]]=r[p](J);P=J;end;end;end;end;end;else if U>=11 then if U>=17 then if U>=20 then if U>=21 then if U==22 then p=if v[z[p]]then e[p]else L[p];else v[z[p]]=t(v[L[p]],e[p]);end;else local Z,J,T=L[p],V[p],u[p];local Q,f=t(J,4294967295),t(T,4294967295);local T,s,y,A=t(Q,65535),H(Q,16),t(f,65535),H(f,16);J=t(T*y+o(t(T*A+s*y,65535),16),4294967295);y=nil;repeat Q=J%4294967296;if Q~=Q then y=0;break;end;y=Q-Q%1;until true;v[Z]=y;end;else if U>=18 then if U==19 then v[e[p]]=v[L[p]](v[z[p]]);else v[e[p]]=h(v[L[p]],V[p]);end;else P,N,D=z[p],e[p],L[p];c,n=P+D-1,P+N;M=v[n];w=M.n;F=N+w-1;M.n=F;R(M,1,w,N,M);R(v,P+1,n-1,1,M);X=m(v[P](_(M,1,M.n)));R(X,1,D,P,v);end;end;else if U<14 then if U>=12 then if U~=13 then v[L[p]]=W[z[p]];else if j then for Z in i,j,nil do local J=j[Z];if J then J[6]=J;J[4]=v[Z];J[5]=4;j[Z]=nil;end;end;end;if S then for Z,J in i,S,nil do local T=J[4];if S then J=S[Z];if J then local Q,f=Z+T,d(T);R(v,Z,Q-1,1,f);J[6]=f;J[5]=1;S[Z]=nil;end;end;end;end;return V[p],v[L[p]],v[e[p]];end;else v[L[p]]=v[z[p]]*e[p];end;elseif U<15 then if j then for Z in i,j,nil do local J=j[Z];if J then J[6]=J;J[4]=v[Z];J[5]=4;j[Z]=nil;end;end;end;if S then for Z,J in i,S,nil do local T=J[4];if S then J=S[Z];if J then local Q,f=Z+T-1,d(T);R(v,Z,Q,1,f);J[6]=f;J[5]=1;S[Z]=nil;end;end;end;end;return u[p],r[p],V[p];elseif U~=16 then local Z,J,T=L[p],v[z[p]];repeat local Q=J%4294967296;if Q~=Q then T=0;break;end;T=Q-Q%1;until true;v[Z]=T;else local Z,J,T=z[p],v[L[p]],e[p];local Q,f=t(J,4294967295),t(T,4294967295);local T,s,n,y=t(Q,65535),H(Q,16),t(f,65535),H(f,16);J=t(T*n+o(t(T*y+s*n,65535),16),4294967295);Q=nil;repeat y=J%4294967296;if y~=y then Q=0;break;end;Q=y-y%1;until true;v[Z]=Q;end;end;else if U<5 then if U>=2 then if U<3 then Y[u[p]]=v[L[p]];else if U~=4 then if j then for Y in i,j,nil do local Z=j[Y];if Z then Z[6]=Z;Z[4]=v[Y];Z[5]=4;j[Y]=nil;end;end;end;if S then for Y,Z in i,S,nil do local J=Z[4];if S then Z=S[Y];if Z then local T=d(J);R(v,Y,Y+J-1,1,T);Z[6]=T;Z[5]=1;S[Y]=nil;end;end;end;end;return v[e[p]](v[z[p]],_(v[L[p]],1,v[L[p]].n));else P=e[p];v[P],v[P+1]=v[L[p]],z[p];end;end;else if U~=1 then local Y,Z,J=z[p],L[p],u[p];local T,Q=t(Z,4294967295),t(J,4294967295);local f,s,n,j=t(T,65535),H(T,16),t(Q,65535),H(Q,16);T=t(f*n+o(t(f*j+s*n,65535),16),4294967295);J=nil;repeat Z=T%4294967296;if Z~=Z then J=0;break;end;J=Z-Z%1;until true;v[Y]=J;else v[L[p]](u[p],v[z[p]]);end;end;else if U>=8 then if U<9 then P,N=e[p],v[z[p]];v[P+1]=N;v[P]=N[r[p]];else if U~=10 then k=v[e[p]];else W[L[p]][V[p]]=v[e[p]];end;end;else if U<6 then v[z[p]]=O[r[p]][u[p]];else if U==7 then v[L[p]]=v[z[p]]<=e[p];else P=v[z[p]];v[L[p]]=m(_(P,e[p],P.n));end;end;end;end;end;end;end;end;p=p+1;end;end;end;end;end,TV=function(Y)return true,21,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil;end,[27]=coroutine.close,[117]=Color3.new,[62]=table.concat,[1]=buffer.readf64,bV=function(Y,U,e,Z,J,p,T,L,V,Q,f,z,r,u)if T<=22 then local T,P,s,n=(L+V)%256,Y[9](z),L*16843009,z-z%4;local L,z=n-1,4+0;return 11,{0-z,r,L+0,z,nil},T,69,119,P,s,n;else local T,L=Y[10],Y[3](U,Q+u);T(e,u,(Y[34](p,Y.iV[V],L)));return 11,r,Y.KV[V],Z,J,e,p,f;end;end,M=function(Y,U,e,Z,J,p,T,L)if L<=73 then local V,Q,f=J[3],J[2],J[4];local z,r=V+Q,Q<=0;Q,V=z>=f,z<=f;f=r and Q or not r and V;J[3]=z;if f then return 163,z,T,p;else return 50,e,T,p;end;elseif L<=74 then local J=Y[36](U,1+Z);return 128<=J and 15 or 152,e,T,J;else local J=Y[36](U,Z);return J>=128 and 74 or 41,e,J,p;end;end,[57]=table.create,[94]=buffer.readbits,B=function(Y,U,e,Z,J,p,T,L)if J<=146 then T[U]=p;return 19,T,U;elseif J<=147 then local J,p,V=L[2],L[5],L[4];local Q,f=J+p,p<=0;p,J=Q>=V,Q<=V;V=f and p or not f and J;L[2]=Q;if V then return 32,Q,U;else return 10,T,U;end;else local U=Y[36](e,2+Z);return 128<=U and 171 or 124,T,U;end;end,[46]=string.char,R=function(Y,U,e,Z,J,p,T)if U<=15 then local L=Y[36](T,2+e);return L>=128 and 68 or 143,p,J,L;elseif U<=16 then return 63,p[4],J,Z;else local U=Y[36](T,1+e);return U>=128 and 149 or 158,p,U,Z;end;end,[53]=string.byte,[65]=coroutine.resume,[105]=buffer.len,nV=function(Y,Y,U,e,Z,J,p,T)if U<=32 then if U<=31 then local L=p+128*(e-128);return 1,5,Z,2+Y,L,p;else local L=T+(p-128)*128;return 1,7,Z,2+Y,e,L;end;elseif U<=33 then return 1,20,Z[2],Y,e,p;elseif U<=34 then local U=(p-128)*16384+(T-128+128*J);return 1,7,Z,3+Y,e,U;else return 2;end;end,[11]=string.unpack,q=function(Y)return true,48,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil;end,[19]=2.080874215E9,v=function(Y,U,e,Z,J,p,T,L,V,Q)if U<=1 then if U<=0 then local f=Y[36](V,2+J);return 128<=f and 150 or 172,L,J,f,T;else return 18,L,J+1,p,T;end;elseif U<=2 then local f=Y[36](V,J+2);return f>=128 and 116 or 131,L,J,p,f;elseif U<=3 then return 72,L,J+1,p,T;else Q[-1]=L;Q[-2]={};Y[72](Q,Z);return 129,Y[J](Y,nil,Q),e,p,T;end;end,X=function(Y,U,e,Z,J,p,T)if p<=26 then local L=Y[36](J,T);return 128<=L and 93 or 103,Z,L,e;elseif p<=27 then local p=Y[36](J,1+T);return p>=128 and 0 or 88,Z,U,p;else return 134,Z[4],U,e;end;end,[81]=string.gsub,[13]=function(Y,Y,Y,Y,Y)return function(Y,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,J,p)if U.Unloaded then else local U=checkcaller();if U then else local U=J=="WalkSpeed"and(e.Elements.WalkspeedT and e.Elements.WalkspeedT.Value);if U and e.Elements.WalkspeedS then p=e.Elements.WalkspeedS.Value;else local U=J=="JumpPower"and(e.Elements.JumpPowerT and e.Elements.JumpPowerT.Value);p=if U and e.Elements.JumpPowerS then e.Elements.JumpPowerS.Value else if J=="FieldOfView"then if e.Elements.FOVT then if e.Elements.FOVT.Value then if e.Elements.FOVS then e.Elements.FOVS.Value else p else p else p else p;end;end;end;local U=Z[6][Z[5]];return U(Y,J,p);end;end;end,[103]=bit32.rshift,[71]=function(Y,Y,Y,Y,Y,Y)return function(Y,U)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];local p=Y[5];return function(Y,T,L)local V=checkcaller();if U.Unloaded then else if V then else local U=T=="FieldOfView"and(e.Elements.FOVT and e.Elements.FOVT.Value);L=if U then if Z.MainGame.stopcam then if T=="HipHeight"then J.HipHeight else L else e.Elements.FOVS and e.Elements.FOVS.Value else if T=="HipHeight"then J.HipHeight else L;end;end;V=p[6][p[5]];return V(Y,T,L);end;end;end,l=function(Y,U,e,Z,J,p,T,L,V,Q)if V<=55 then if V<=54 then local f,z=(e-128)*16384,J-128;return 6,L,f+T*128+z,3,U,Q;else return 138,J+1,e,J,U,Q;end;elseif V<=56 then local T=Y[36](p,L+1);return T>=128 and 69 or 52,L,e,J,T,Q;elseif V<=57 then local T=Y[36](p,2+J);return 128>T and 132 or 167,L,e,J,U,T;else local T;Z[Q],T=Y[3](p,J),4+J;return 92,L,e,T,U,Q;end;end,[8]=function(Y,Y,Y,Y)return function(Y,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,J,p)local T=checkcaller();if U.Loaded then if T then else local U=J=="WalkSpeed"and(e.Elements.WalkspeedT and e.Elements.WalkspeedT.Value);if U and e.Elements.WalkspeedS then p=e.Elements.WalkspeedS.Value;else local U=J=="JumpPower"and(e.Elements.JumpPowerT and e.Elements.JumpPowerT.Value);p=if U and e.Elements.JumpPowerS then e.Elements.JumpPowerS.Value else if J=="FieldOfView"then if e.Elements.FOVT then if e.Elements.FOVT.Value then if e.Elements.FOVS then e.Elements.FOVS.Value else p else p else p else p;end;end;else end;T=Z[6][Z[5]];return T(Y,J,p);end;end;end,[31]=bit32.rrotate,c=function(Y,U,e,Z,J,p,T,L,V)if Z<=149 then local Q=Y[36](L,2+e);return 128>Q and 114 or 156,T,e,U,Q,p,J;elseif Z<=150 then local Z=Y[36](L,3+e);local L,Q,f,z,r=(U-128)*16384,2097152*(p-128),(J-128)*128,Z%128,Z%128;local u=(Z-r)*2097152;Z=Q+z+(L+u)+f;return 98,T,e+4,Z,V,p,J;else local Z=p-1899;local J,p,L=Y[57](Z),Y[57](Z),1+0;local Y=1-L;return 42,{Z+0,T,nil,Y,L},e,U,V,J,p;end;end,[74]=function(Y,Y,Y)return function(Y,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function()local Y=0;while true do if Y<=0 then U[6][U[5]]=true;e[6][e[5]]=e[6][e[5]]-e[6][e[5]]%2+1;Z[6][Z[5]]=(72435*Z[6][Z[5]]+224610963)%268435456;Z[6][Z[5]],Y=(984083*Z[6][Z[5]]+66348283)%268435456,1;else return;end;end;end;end;end,GV=buffer.create(16),D=function(Y,U,e,Z,J,p,T,L,V)if Z<=109 then if Z<=108 then local Q=Y[36](T,3+p);local Y,T,f,z,r=(V-128)*16384,2097152*(e-128),128*(J-128),Q%128,Q%128;local e=(Q-r)*2097152;r=T+z+(e+Y)+f;return 89,U,4+p,L,r;else local Y,e,J=U[3],U[5],U[4];local T,Q=Y+e,e<=0;e,Y=T>=J,T<=J;J=Q and e or not Q and Y;U[3]=T;if J then return 142,U,p,T,V;else return 39,U,p,L,V;end;end;elseif Z<=110 then return 161,U[5],p,L,V;elseif Z<=111 then return 141,U,1+p,L,V;else return 46,U,3+p,L,V;end;end,[108]=buffer.writei8,[2]=UDim.new,w=function(Y,U,e,Z,J,p,T,L,V,Q,f,z,r,u)if z then if V<=135 then local z=128*(f-128)+Z;return 125,e,r,T,2+u,Q,p,L,z;elseif V<=136 then local z=16384*(L-128);local P=f-128+(128*Z+z);return 89,e,r,T,u+3,Q,p,P,f;else local z=Y[36](J,u);return z<128 and 80 or 11,e,r,T,u,Q,z,L,f;end;elseif V<=138 then local z,P,s=Y[57](r),Y[57](r),1+0;local n=1-s;return 164,{r+0,s,nil,n,e},z,P,u,Q,p,L,f;elseif V<=139 then local V,z=16384*(f-128),Z-128;local Z=V+(128*U+z);return 125,e,r,T,u+3,Q,p,L,Z;else local U=Y[36](J,u);return 128>U and 157 or 115,e,r,T,u,U,p,L,f;end;end,vV=function(Y,U,e,Z,J,p,T,L,V,Q,f)if p<=19 then if p<=18 then local z=Y[36](V,Q+2);return 128<=z and 21 or 34,T,Q,f,J,z;else return 22,T,Q,f+1,J,Z;end;elseif p<=20 then local p,z=L-1,1+0;return 14,{z,T,nil,e-z,p+0},Q,f,J,Z;else local e=Y[36](V,3+Q);local Y,p,L,V=(J-128)*16384,(U-128)*2097152,128*(Z-128),e%128;local U=p+(2097152*(e-e%128)+(Y+L+V));return 7,T,Q+4,f,U,Z;end;end,x=function(Y,U,e,Z,J,p,T,L,V)if Z<=70 then local Q=U+128*(J-128);return 97,T,L+2,Q,e,V;elseif Z<=71 then local U=Y[36](p,L+1);return 128<=U and 2 or 165,T,L,J,e,U;else local U,Z=Y[57](e),1+0;local Y=1-Z;return 92,{e+0,Y,Z,T,nil},L,J,U,V;end;end,[63]=ipairs,[78]=function(Y,Y,Y,Y)return function(Y)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,J)if not(U.Unloaded)then local U=checkcaller();if not(U)then if J=="Health"then if debug.traceback():find("ActorNetwork")then if e.Elements.BluffMovementT then if e.Elements.BluffMovementT.Value then return Y.MaxHealth;end;end;end;end;end;end;local U=Z[6][Z[5]];return U(Y,J);end;end;end,t=function(Y,Y,U,e,Z,J,p,T,L,V)if L<=104 then if L<=102 then local Q=(e-128)*128+J;return 89,T,Y,V+2,Q;elseif L<=103 then return 146,T,Y,1+V,e;else return 107,1+T,Y,V,e;end;elseif L<=105 then return 126,T,Y,V+1,e;elseif L<=106 then return 126,T,128*(Y-128)+p,V+2,e;else Z[V]=U;return 164,T,Y,V,e;end;end,f=function(Y,U,e,Z,J,p,T,L,V,Q,f,z)if p<=120 then if p<=119 then local r,u,P=(z-128)*16384,e-128,128*L;local e=u+r+P;return 151,Z,T,3+Q,V,e;else local e=Y[36](Z,U+2);if e>=128 then return 170,Z,T,Q,e,z;else return 44,e,T,Q,V,z;end;end;elseif p<=121 then local e=Y[36](Z,U+2);return e<128 and 127 or 85,Z,T,Q,e,z;elseif p<=122 then return 6,Z,Q+128*(T-128),2,V,z;else local Y,U=16384*(f-128),J-128;return 20,Y+(128*Z+U),T,Q+3,V,z;end;end,[42]=buffer.readf32,y=function(Y,U,e,Z,J,p,T,L,V,Q,f,z,r)if U<=142 then if U<=141 then local u=Y[36](p,V);return u>=128 and 71 or 133,p,e,V,L,Q,Z,u,f;else local u,P=Y[3](p,V),4+V;local s=u/2;if 0==u%2 then return 95,p,e,P,L,s,Z,z,f;else return 29,p,e,P,s,Q,Z,z,f;end;end;elseif U<=143 then local u,P=16384*(Z-128),J-128;local J=u+(T*128+P);return 38,p,e,3+V,L,Q,J,z,f;elseif U<=144 then return 4,128*(r-128)+p,e+2,V,L,Q,Z,z,f;else local U=Y[36](p,V+1);if 128<=U then return 45,p,e,V,L,Q,Z,z,U;else return 23,U,e,V,L,Q,Z,z,f;end;end;end,[61]=typeof,[97]=buffer.writef32,[126]=rawset,[34]=bit32.bxor,RV=function(Y,U,e,Z,J,p,T,L,V,Q)if T<=28 then if T<=27 then local f=Y[36](J,L+1);return f>=128 and 6 or 26,V,p,L,U,f;else return 5,V,1+p,L,U,Q;end;elseif T<=29 then local T,f=16384*(U-128),Q-128;local z=T+(e*128+f);return 22,V,p,L+3,z,Q;else local T=(e+Q*V)%256;Y[45](Z,U,(Y[34](p,T,(Y[36](J,L+U)))));return 14,T,p,L,U,Q;end;end,[26]=type,[69]=vector.create,LV=function(Y,U,e,Z,J,p,T,L,V,Q,f)if Z<=19 then if Z<=18 then local z=Y[36](e,2+V);return z<128 and 30 or 8,T,e,L,z,Q;else f[U]=J;return 9,T,e,L,p,Q;end;elseif Z<=20 then local U=Y[36](e,2+V);return 128>U and 24 or 25,T,e,L,p,U;else local Y=1+0;local U=0-Y;return 13,{255+0,U,T,Y,nil},69,119,p,Q;end;end,b=function(Y,U,e,Z,J,p,T,L,V,Q,f,z,r)if L<=6 then if L<=5 then local u=Y[36](r,1);return u<128 and 122 or 96,J,Z,u,z,f,p;else local u;local P=J[5];if V~=0 then return 49,u,Z,e,P,f,p;else return 47,J,P,e,z,f,p;end;end;elseif L<=7 then local V=T+(f-128)*128;return 46,J,Z,e+2,z,V,p;elseif L<=8 then local T,L,V,u=Y[36](r,3+e),(p-128)*16384,2097152*(U-128),128*(Q-128);local Y=T%128+(T-T%128)*2097152+(L+V)+u;return 141,J,Z,4+e,z,f,Y;else return 4,J,1+Z,e,z,f,p;end;end,[89]=function(Y,Y,Y,Y)return function(Y)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];return function(Y,...)local p={...};if not(U.Unloaded)then local U=checkcaller();if not(U)then local U=getnamecallmethod();if U=="InvokeServer"then if Y.Name=="TrapRemote"then if e.Elements.TrapTypeT then if e.Elements.TrapTypeT.Value then if Z[6][Z[5]]then local U=e.Elements.TrapTypeD;if U then p[1]=U.Value;end;end;end;end;end;end;end;end;local U=J[6][J[5]];return U(Y,unpack(p));end;end;end,[123]=function(Y,U,U)return function(U,e)local e=U[1];return function(U,Z)local J=U[13];for J=1,Z,2 do for Z=1,32,4 do J=Z-1;local p,T=Y:aV(e,J),Z+1-1;local J,L=Y:aV(e,T),Z+2-1;local T,V=Y:aV(e,L),Z+3-1;local L,Q,f,z=Y:aV(e,V),U[p],U[J],U[T];Z=U[L];Q=(Q+f)%4294967296;V=Y[34](Z,Q);Z=Y[15](Y[40](V,16),(Y[103](V,16)))%4294967296;z=(z+Z)%4294967296;V=Y[34](f,z);f=Y[15](Y[40](V,12),(Y[103](V,20)))%4294967296;Q=Y[68](Q+f,4294967295);V=Y[34](Z,Q);Z=Y[15](Y[40](V,8),(Y[103](V,24)))%4294967296;z=(z+Z)%4294967296;V=Y[34](f,z);f=Y[15](Y[40](V,7),(Y[103](V,25)))%4294967296;U[p]=Q;U[J]=f;U[T]=z;U[L]=Z;end;end;end;end;end,[87]=function(Y,Y,Y)return function(Y)local U=Y[1];local e=Y[2];return function()local Y,Z,J=0;while true do if Y<=1 then if Y<=0 then U[6][U[5]]=(446693*U[6][U[5]]+3798737)%268435456;e[6][e[5]]=(1*e[6][e[5]]+2731168)%268435456;U[6][U[5]]=(437217*U[6][U[5]]+36638199)%268435456;Y,Z=2,612471*U[6][U[5]];else return;end;elseif Y<=2 then U[6][U[5]]=(Z+262386921)%268435456;U[6][U[5]]=(237523*U[6][U[5]]+112886253)%268435456;U[6][U[5]]=(429635*U[6][U[5]]+129482833)%268435456;Y,Z,J=3,16259*U[6][U[5]]+154111803,268435456;else U[6][U[5]]=Z%J;U[6][U[5]]=(465541*U[6][U[5]]+103853429)%268435456;U[6][U[5]]=(476965*U[6][U[5]]+247789679)%268435456;U[6][U[5]],Y=(421007*U[6][U[5]]+79755855)%268435456,1;end;end;end;end;end,qV=function(Y,U,e,Z,J,p,T,L)if Z<=15 then local V,Q,f=Y[36](J,3+e),16384*(L-128),(T-128)*2097152;local z=(p-128)*128+(V%128+(V-V%128)*2097152)+(f+Q);return 5,4+e,z,T;elseif Z<=16 then local Z=Y[36](J,e+1);return 128<=Z and 10 or 31,e,L,Z;else local Y=U[5];if Y then return 8,Y,L,T;else return 24,e,L,T;end;end;end,A=function(Y,U,e,Z,J,p,T,L,V,Q,f)if f<=168 then local z=Y[36](V,Z+3);local r,u,P,s,n=16384*(e-128),(T-128)*2097152,(p-128)*128,z%128,(z-z%128)*2097152;return 126,V,Q,r+P+(u+n)+s,4+Z,J;elseif f<=169 then local T=Y[36](V,2+Z);return T>=128 and 37 or 139,V,Q,e,Z,T;else local T,f,z,r=Y[36](V,Q+3),16384*(p-128),2097152*(L-128),(U-128)*128;return 4,T%128+(r+2097152*(T-T%128)+z+f),Q+4,e,Z,J;end;end,[7701]=function(Y,U,U,U)return function(U)local e=U[1];local Z=U[2];local J=U[3];return function()local U,p,T,L,V,Q,f,z,r,u,P,s,n,j,y=8;while true do local A,S;if U<=5 then if U<=2 then if U<=0 then local w,c=r-1,1+0;local F={p,c,s-c,w+0,nil};U,p=9,F;elseif U<=1 then A=Y[68](V+1,255);S=Y[68](Q+u[A],255);u[A],u[S]=u[S],u[A];local w=u[Y[68](u[A]+u[S],255)];Y[45](P,T,(Y[34](Y[36](f,z+T),w)));U,V,Q=9,A,S;else local w,c=0,Y[68](V+1,255);local F=Y[68](Q+u[c],255);u[c],u[F]=u[F],u[c];U,T,L,V,Q=7,w,F,Y[40](u[Y[68](u[c]+u[F],255)],0),c+1;end;elseif U<=3 then local w,c,F=p[2],p[5],p[1];local X,D=w+c,c<=0;c,w=X>=F,X<=F;F=D and c or not D and w;p[2]=X;if F then U,n=2,X;else U=5;end;elseif U<=4 then local w=p[1];U,p=10,w;else local w=p[3];U,p=0,w;end;elseif U<=8 then if U<=6 then local w=Y[68](y,255);u[j],u[w]=u[w],u[j];local c=Y[15](T,V,Q,L,(Y[40](u[Y[68](u[j]+u[w],255)],24)));Y[10](P,n,(Y[34](Y[3](f,z+n),c)));U,T,L,V,Q=3,j,w,j,w;elseif U<=7 then local n=Y[68](Q,255);local w=Y[68](L+u[n],255);u[n],u[w]=u[w],u[n];local c;Q,U,L,c=Y[40](u[Y[68](u[n]+u[w],255)],8),11,w,Y[68](n+1,255);j=c;else local n,w=e[6][e[5]],Z[6][Z[5]];local e,Z,c,F=Y[105](n)-w;Z,A,S,c,F=J[6][J[5]],0,0,Y[9](e),e-e%4;local J,A=F-1,4+0;local S,X=0-A;X,U={J+0,S,p,nil,A},3;p,V,Q,f,z,r,u,P,s=X,0,0,n,w,e,Z,c,F;end;elseif U<=9 then local e,Z,J=p[3],p[2],p[4];local V,Q=e+Z,Z<=0;e,Z=V>=J,V<=J;J=Q and e or not Q and Z;p[3]=V;if J then U,T=1,V;else U=4;end;elseif U<=10 then return P;else local e=Y[68](L+u[j],255);u[j],u[e]=u[e],u[j];local Z;L,U,Z=Y[40](u[Y[68](u[j]+u[e],255)],16),6,Y[68](j+1,255);j,y=Z,e+u[Z];end;end;end;end;end,NV=function(Y,U,e,Z,J,p,T,L,V)if U<=10 then if U<=9 then local Q,f,z=J[3],J[2],J[5];local r,u=Q+f,f<=0;Q,f=r>=z,r<=z;z=u and Q or not u and f;J[3]=r;if z then return 34,Z,e,T,r;else return 4,Z,e,T,V;end;else local J=Y[36](L,Z+3);local Y,L,Q,f,z=16384*(T-128),2097152*(V-128),(p-128)*128,J%128,J%128;local p=(J-z)*2097152;J=L+(Y+Q+f)+p;return 5,Z+4,e,J,V;end;elseif U<=11 then return 36,1+Z,e,T,V;else local Y=(e-128)*128+T;return 16,2+Z,Y,T,V;end;end,I=function(Y,U,e,Z,J,p,T,L,V)if L<=159 then if L<=157 then return 97,T+1,Z,e,U;elseif L<=158 then local Q=(Z-128)*128+p;return 72,2+T,Q,e,U;else return 6,1,Z,e,U;end;elseif L<=160 then return 89,T+1,Z,e,U;elseif L<=161 then local p=Y[36](V,T);return 128>p and 160 or 153,T,Z,e,p;else local Y,p=(e-128)*16384,J-128;return 112,T,Z,p+(Y+U*128),U;end;end,[106]=coroutine.create,j=function(Y,U,e,Z,J,p)if J<=62 then local T=Y[36](Z,e);if T<128 then return 34,T,p,U;else return 145,Z,p,T;end;elseif J<=63 then local J=Y[36](Z,e);return J>=128 and 17 or 3,Z,J,U;else local J=Y[36](Z,1+e);return 128>J and 40 or 57,Z,J,U;end;end,MV=getfenv(),[54]=function(Y,Y,Y,Y)return function(Y,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];local p=Y[5];local T=Y[6];local L=Y[7];local V=Y[8];local Q=Y[9];local f=Y[10];local z=Y[11];local r=Y[12];local u=Y[13];local P=Y[14];return function()local Y=U.Config;local s,n,j,y,A=Y.Distance,Y.Health,Y.Highlight,Y.Tracer,workspace.CurrentCamera;local S,w,c=(e.Character and e.Character.PrimaryPart or A).CFrame.Position,next,U.Containers;for U,e in w,c,nil do U=e.RootPart;if U then if not(U.Parent)then continue;end;else continue;end;local w,c=e.Config,Z(U).Position;U=(c-S).Magnitude;local Z=if U>s.Max then false else true;e.Billboard.Enabled=Z;e.Highlight.Enabled=Z and j.Enabled;if not(Z)then e.Tracer.Path2D.Visible=false;continue;end;local Z=string.format("<font size=\"%s\">%s</font>%s",tostring(Y.TextSize+6),tostring(w.Name),tostring((s.Enabled or n.Enabled)and"\10"or""));Z=if s.Enabled then Z..string.format("[%s studs]",tostring(J(U)))else Z;if n.Enabled then U=e.Callbacks.Health;local s=p(U)=="function"and{U()}or{};if#s>1 then local S=T(n.Type);Z=if S=="PERCENTAGE"then Z..string.format("[%s%%]",tostring(L(J(100/s[2]*s[1]*10)/10,0,100)))else if S=="FRACTION"then Z..string.format("[%s/%s]",tostring(J(V(s[1],0))),tostring(J(s[2])))else Z;else end;else end;U=p(Y.ColorOverride)=="Color3"and Y.ColorOverride or Y.Rainbow and Q(f()%4/4,1,1);local J=U or w.Color;e.Label.TextColor3=J;e.Label.TextSize=Y.TextSize;e.Label.Text=Z;if j.Enabled then U=e.Highlight;U.FillColor=J;U.OutlineColor=J;U.FillTransparency=j.Transparency.Fill;U.OutlineTransparency=j.Transparency.Outline;U.DepthMode=j.AlwaysOnTop and Enum.HighlightDepthMode.AlwaysOnTop or Enum.HighlightDepthMode.Occluded;end;U=e.Tracer;if U then w=U.Path2D;if y.Enabled then w.Color3=J;w.Thickness=y.Thickness;local Y,Z=z(A,c);local J,p=U.ControlPoints,r();J[1].Position=u(p.X,p.Y);J[2].Position=u(Y.X,Y.Y);P(w,J);w.Visible=Z;else w.Visible=false;end;end;e.OnUpdate:Fire();end;end;end;end,Y=function(Y,U,e,Z,J,p,T,L,V,Q,f,z)if T<=44 then if T<=43 then local r=Y[36](L,z);if 128<=r then return 81,f,L,z,Q,r,U,e,V;else return 9,f,r,z,Q,p,U,e,V;end;else local r,u=(p-128)*16384,J-128;return 4,f,r+128*L+u,3+z,Q,p,U,e,V;end;elseif T<=45 then local J=Y[36](L,Z+2);if 128<=J then return 166,f,L,z,Q,p,U,e,J;else return 123,f,J,z,Q,p,U,e,V;end;elseif T<=46 then local J=U-1899;local T,r,u=Y[57](J),Y[57](J),1+0;return 100,{nil,u,1-u,J+0,f},L,z,Q,p,T,r,V;else local J=Y[36](L,Z);return 128>J and 105 or 117,f,L,z,J,p,U,e,V;end;end,[16]=coroutine.wrap,[116]=buffer.fill,P={},F=function(Y,U,e,Z,J,p,T,L,V,Q,f,z)if Z<=171 then local r=Y[36](Q,3+f);local Y,Q,u,P,s=(U-128)*16384,(z-128)*2097152,(T-128)*128,r%128,r%128;local T=2097152*(r-s);s=Y+P+(T+Q)+u;return 97,f+4,s,J,e;elseif Z<=172 then local Y=16384*(J-128);local Z=p-128+V*128+Y;return 98,f+3,U,Z,e;else local Y=(e-128)*128+L;return 141,f+2,U,J,Y;end;end,[33]=function(Y,Y,Y,Y,Y)return function(Y,U,U)local U=Y[1];local e=Y[2];return function()local Y=0;while true do if Y<=0 then U[6][U[5]](e[6][e[5]]);Y=1;else return;end;end;end;end;end,[83]=error,[39]=xpcall,[0]=function(Y,Y,Y,Y,Y)return function(Y,U)local U=Y[1];local e=Y[2];return function()local Y=0;while true do if Y<=0 then U[6][U[5]](e[6][e[5]]);Y=1;else return;end;end;end;end;end,Q=function(Y,...)return(...)[...];end,[92]=string.pack,H=function(Y,U,e,Z,J,p,T)if e<=92 then local e,L,V=J[2],J[3],J[1];local Q,f=e+L,L<=0;e,L=Q>=V,Q<=V;V=f and e or not f and L;J[2]=Q;if V then return 58,Q,Z;else return 28,p,Z;end;else local e=Y[36](T,U+1);return e>=128 and 87 or 22,p,e;end;end,[127]=coroutine.running,[37]=buffer.writebits,KV={},[101]=function(Y,Y,Y)return function(Y,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function()local Y=0;while true do if Y<=0 then U[6][U[5]]=true;e[6][e[5]]=e[6][e[5]]-e[6][e[5]]%2+1;Z[6][Z[5]]=(472357*Z[6][Z[5]]+103435733)%268435456;Z[6][Z[5]],Y=(257525*Z[6][Z[5]]+98932841)%268435456,1;else return;end;end;end;end;end,[21]=buffer.readi32,QV=function(Y,U,e,Z,J,p,T,L,V,Q,f)if e<=1 then if e<=0 then J[T]=Q;local z,r,u=Y:xV(J,Z);local P=Y[36](Z,u);return P>=128 and 16 or 28,z,r,u,p,L,P,V;else local z=16384*(U-128);local r=f-128+(128*V+z);return 5,J,T,Q+3,p,L,r,V;end;elseif e<=2 then local e=Y[36](Z,Q+1);return 128>e and 32 or 18,J,T,Q,p,L,U,e;else local U,e=J[4][T],J[7];local Z=U+1;U=Y[36](e,Z);return 128>U and 19 or 27,J,T,Q,e,Z,U,V;end;end,[44]=coroutine.status,[24]=buffer.writestring,[2073]=Vector2.new,L=function(Y,U,e,Z,J,p,T,L,V,Q,f)if p<=50 then if p<=48 then local z=Y[36](V,0);return 128<=z and 5 or 159,f,V,J,nil,z,Z,T;elseif p<=49 then if Q==1 then return 53,f,V,J,e,Q,Z,T;else return 129,f,e,J,e,Q,Z,T;end;else return 65,f[5],V,J,e,Q,U,Z;end;elseif p<=51 then return 98,f,V,J,e,Q,Z+1,T;elseif p<=52 then local U=L+(Z-128)*128;return 43,f,V,J,2+e,Q,U,T;else local U=Y[36](V,Z);return 128>U and 55 or 36,f,V,U,e,Q,Z,T;end;end,PV=function(Y,U,e,Z,J,p,T,L,V,Q,f)if Z<=10 then if Z<=9 then return 7,V+1,T,p,L,f;else local z=Y[36](U,V+2);return z>=128 and 15 or 1,V,T,p,z,f;end;elseif Z<=11 then local U,Z,z=Q[1],Q[4],Q[3];local r,u=U+Z,Z<=0;U,Z=r>=z,r<=z;z=u and U or not u and Z;Q[1]=r;if z then return 23,V,T,p,L,r;else return 33,V,T,p,L,f;end;else local U=Y[36](e,3+T);local Y,e,Z,Q,z=(p-128)*16384,(J-128)*2097152,(L-128)*128,U%128,U%128;local J=(U-z)*2097152;z=e+Z+(Y+Q+J);return 22,V,T+4,z,L,f;end;end,iV={},[49]=getmetatable,p=function(Y,U,e,Z,J,p,T,L,V)if V<=113 then local Q=Y[36](L,3+Z);local f,z,r,u,P=16384*(p-128),(e-128)*2097152,(T-128)*128,Q%128,Q%128;local T=(Q-P)*2097152;Q=z+(r+f)+(u+T);return 146,Z+4,J,U,Q;elseif V<=114 then local T,V=(U-128)*16384,p-128;local Q=128*e+T+V;return 72,Z+3,J,Q,p;else local e=Y[36](L,1+Z);return e>=128 and 148 or 70,Z,e,U,p;end;end,n=function(Y,U,e,Z,J,p,T,L,V,Q,f,z,r,u,P,s,n,j,y,A)if s<=18 then u[P]=Q;return 147,J,j,p;elseif s<=19 then local s,S,w=z[2],z[3],z[1];local c,F=s+S,S<=0;s,S=c>=w,c<=w;w=F and s or not F and S;z[2]=c;if w then return 26,J,j,c;else return 16,J,j,p;end;else local z={};n[-1]=T;e[-1]=L;Q[-1]=P;U[-1]=u;n[-2]=z;e[-2]=z;Q[-2]=z;U[-2]=z;Y[72](n,V);Y[72](e,V);Y[72](Q,V);Y[72](U,V);return 129,Z,Y[f](Y,A,u,T,n,J,r,L,Q,j,p,P,e,y,nil,U,nil),p;end;end,O=function(Y,U,e,Z,J,p,T,L,V,Q,f,z)if f<=153 then if f<=152 then local r=128*(V-128)+p;return 38,Q,J,e+2,Z,r,U;else local p=Y[36](T,e+1);return p<128 and 102 or 66,Q,J,e,Z,V,p;end;elseif f<=154 then return 137,Q[2],J,e,Z,V,U;elseif f<=155 then local p=Y[36](T,2+e);return 128>p and 12 or 128,Q,p,e,Z,V,U;else local p=Y[36](T,3+e);local Y,T,f,r=(Z-128)*16384,(z-128)*2097152,128*(L-128),p%128;local Z=f+(p-p%128)*2097152+(T+r+Y);return 72,Q,J,4+e,Z,V,U;end;end,[25]=buffer.readi8,d={},[12]=function(Y,Y,Y,Y)return function(Y)local U=Y[1];local e=Y[2];return function()local Y=0;while true do if Y<=0 then U[6][U[5]]=U[6][U[5]]-U[6][U[5]]%2+1;e[6][e[5]],Y=(582813*e[6][e[5]]+78978693)%268435456,1;else return;end;end;end;end;end,[58]=bit32.bnot,[64]=coroutine.isyieldable,[70]=buffer.tostring,[91]=tonumber,[111]=UDim2.new,[45]=buffer.writeu8,s=function(Y,U,e,Z,J,p,T,L,V,Q,f,z,r,u)if U<=131 then if U<=130 then return 138,J,(Z-128)*128+L,T+2,T,u,e,V,r;else local P=16384*(r-128);local s=Q-128+(z*128+P);return 62,J,Z,L,3+T,u,e,V,s;end;elseif U<=132 then local Q,z=(u-128)*16384,f-128;local f=e*128+Q+z;return 18,J,Z,L,3+T,f,e,V,r;elseif U<=133 then return 62,J,Z,L,T+1,u,e,V,r;else local U,e,V=Y[3](p,T),4+T,1+0;return 109,{nil,J,1-V,U+0,V},Z,L,e,u,1,{},r;end;end,[38]=select,_V=function(Y,U,e,Z)local J=Y[82];J();for Y,p in U,e,Z do J(true,Y,p);end;end,[109]=buffer.fromstring,[86]=3.670109983E9,[75]=string.find,[55]=buffer.readu16,U=function(Y,U,e,Z,J,p,T,L,V,Q)if V<=29 then local f,z=Y[3](U,T),T+4;local r,u,P,s=Y[3](U,z),4+z,J-J%1,1+0;return 73,{nil,s,P-s,f+0,p},f,Z,r,u,L;elseif V<=30 then local V=Y[36](U,e);return V<128 and 104 or 59,p,T,V,J,Q,L;else local e=Y[36](U,2+T);return e>=128 and 8 or 21,p,T,Z,J,Q,e;end;end,kV=function(Y,U,e,Z,J,p,T,L,V)if e<=5 then if e<=4 then return 17,U,L;else local Q=Y[36](Z,p);return Q>=128 and 2 or 9,Q,L;end;elseif e<=6 then local Q=Y[36](J,T+2);return Q<128 and 29 or 12,U,Q;elseif e<=7 then local e,Q=Y[36](Z,p),p+1;Y[116](J,T+V,e,U);return 35,U,L;else return 0,U,L;end;end,u=function(Y,U,e,Z,J,p,T,L,V,Q,f)if p<=116 then local z,r,u,P=Y[36](T,Q+3),16384*(U-128),(f-128)*2097152,(V-128)*128;local V=z%128+(u+2097152*(z-z%128)+P+r);return 62,4+Q,L,Z,V;elseif p<=117 then local p=Y[36](T,1+Q);return 128<=p and 33 or 106,Q,p,Z,U;else local p=Y[36](T,3+Q);local Y,T,V,f,z=(Z-128)*16384,2097152*(e-128),(J-128)*128,p%128,p%128;local e=(p-z)*2097152;p=T+(f+(V+Y))+e;return 151,4+Q,L,p,U;end;end,[102]=function(Y,Y,Y,Y,Y,Y)return function(Y,U)local U=Y[1];local e=Y[2];local Z=Y[3];return function(Y,J,p)if U.Unloaded then else local U=checkcaller();if U then else local U=J=="JumpPower"and(e.Elements.JumpT and e.Elements.JumpT.Value);p=if U and e.Elements.JumpPowerS then e.Elements.JumpPowerS.Value else if J=="FieldOfView"then if e.Elements.FOVT then if e.Elements.FOVT.Value then if e.Elements.FOVS then e.Elements.FOVS.Value else p else p else p else p;end;end;local U=Z[6][Z[5]];return U(Y,J,p);end;end;end,[95]=function(Y,Y,Y)return function(Y,U,U,U)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];local p=Y[5];return function()local Y=0;while true do if Y<=0 then U[6][U[5]]=true;local U=e[6][e[5]][nil];Z[6][Z[5]](122777852,4);J[6][J[5]]=177091294;p[6][p[5]]();Y=1;else return;end;end;end;end;end,[18]=function(Y,Y,Y,Y,Y)return function(Y,U)local U=Y[1];local e=Y[2];local Z=Y[3];local J=Y[4];local p=Y[5];local T=Y[6];local L=Y[7];local V=Y[8];return function()while true do local Y=U[24](function()local Q=U[1][U[2]][U[3]][U[4]][U[5]][U[6]][U[7]];local f,z=Q[U[8]](Q),U[9];for Q,r in z(f)do if r[U[10]](r,U[11])then if r[U[12]](r,U[20])then Q=r[U[20]][U[13]];if U[16](e,Q[U[14]](Q,3))then Z[6][Z[5]]=r;break;end;end;end;end;if Z[6][Z[5]]then f=Z[6][Z[5]][U[20]][U[13]];Z[6][Z[5]][U[20]][U[13]]=f[U[14]](f,1,2)..e[1][U[14]](e[1],1,10)..J..p[6][p[5]]..T[6][T[5]];Z[6][Z[5]][U[17]][U[18]]=L[6][L[5]];Z[6][Z[5]][U[20]][U[19]]=V[6][V[5]];end;end);if Y then U[21](U[23]);else U[21](U[22]);end;end;end;end;end,[124]=string.sub,[9]=buffer.create,[114]=bit32.lrotate,[36]=buffer.readu8,S=function(Y,U,e,Z,J,p,T,L,V,Q,f)if Z<=165 then local z=J+128*(e-128);return 62,T,2+f,L,z;elseif Z<=166 then local Z=Y[36](T,f+3);local z,r,u,P=(J-128)*16384,2097152*(U-128),128*(Q-128),Z%128;return 20,r+(2097152*(Z-Z%128)+z+(u+P)),4+f,L,e;else local U=Y[36](T,3+f);local Y,Z,J,Q=(L-128)*16384,2097152*(V-128),(p-128)*128,U%128;local p=2097152*(U-U%128)+Q+(Y+J+Z);return 18,T,f+4,p,e;end;end},{});
